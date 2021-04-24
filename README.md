@@ -18,6 +18,7 @@ Does this trend affect one sport more than the others?
 How many wins do the cities have?
 
 Datasets to Be Used:
+
 U.S. City Population Density and median income 2019 (API)
 https://www.census.gov/data/developers/data-sets/popest-popproj/popest.html
 
