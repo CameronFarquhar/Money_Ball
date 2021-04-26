@@ -1,32 +1,32 @@
-﻿﻿Team,Revenue
-New York Rangers,253000000
-Toronto Maple Leafs,232000000
-Montreal Canadiens,239000000
-Chicago Blackhawks,201000000
-Boston Bruins,191000000
-Los Angeles Kings,193000000
-Philadelphia Flyers,186000000
-Detroit Red Wings,171000000
-Vancouver Canucks,168000000
-Washington Capitals,194000000
-Pittsburgh Penguins,185000000
-Vegas Golden Knights,180000000
-Edmonton Oilers,145000000
-Dallas Stars,144000000
-San Jose Sharks,148000000
-Minnesota Wild,142000000
-St Louis Blues,148000000
-Anaheim Ducks,134000000
-New Jersey Devils,166000000
-Calgary Flames,132000000
-Tampa Bay Lightning,146000000
-New York Islanders,107000000
-Ottawa Senators,124000000
-Colorado Avalanche,119000000
-Nashville Predators,132000000
-Carolina Hurricanes,109000000
-Winnipeg Jets,135000000
-Buffalo Sabres,128000000
-Columbus Blue Jackets,111000000
-Florida Panthers,99000000
-Arizona Coyotes,96000000
+﻿﻿Team,City,Revenue
+New York Rangers,New York City,253000000
+Toronto Maple Leafs,Toronto,232000000
+Montreal Canadiens,Montreal,239000000
+Chicago Blackhawks,Chicago,201000000
+Boston Bruins,Boston,191000000
+Los Angeles Kings,Los Angeles,193000000
+Philadelphia Flyers,Philadelphia,186000000
+Detroit Red Wings,Detroit,171000000
+Vancouver Canucks,Vancouver,168000000
+Washington Capitals,Washington,194000000
+Pittsburgh Penguins,Pittsburgh,185000000
+Vegas Golden Knights,Las Vegas,180000000
+Edmonton Oilers,Edmonton,145000000
+Dallas Stars,Dallas,144000000
+San Jose Sharks,San Jose,148000000
+Minnesota Wild,Saint Paul,142000000
+St Louis Blues,Saint Louis,148000000
+Anaheim Ducks,Anaheim,134000000
+New Jersey Devils,Newark,166000000
+Calgary Flames,Calgary,132000000
+Tampa Bay Lightning,Tampa Bay,146000000
+New York Islanders,Uniondale,107000000
+Ottawa Senators,Ottowa,124000000
+Colorado Avalanche,Denver,119000000
+Nashville Predators,Nashville,132000000
+Carolina Hurricanes,Charlotte,109000000
+Winnipeg Jets,Winnipeg,135000000
+Buffalo Sabres,Buffalo,128000000
+Columbus Blue Jackets,Columbus,111000000
+Florida Panthers,Miami,99000000
+Arizona Coyotes,Glendale,96000000
