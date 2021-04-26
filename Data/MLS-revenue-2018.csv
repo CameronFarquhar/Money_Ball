@@ -1,23 +1,23 @@
-﻿Teams,Revenue
-Atlanta United,47000000
-LA Galaxy,63000000
-Seattle Sounders,52000000
-Toronto FC,49000000
-Portland Timbers,48000000
-New York City FC,42000000
-Orlando City SC,44000000
-Sporting Kansas City,41000000
-D.C. United,26000000
-New York Red Bulls,38000000
-Minnesota United,24000000
-Chicago Fire,27000000
-San Jose Earthquakes,36000000
-New England Revolution,28000000
-Houston Dynamo,28000000
-FC Dallas,34000000
-Philadelphia Union,26000000
-Real Salt Lake,22000000
-Montreal Impact,24000000
-Vancouver Whitecaps,22000000
-Columbus Crew,24000000
-Colorado Rapids,18000000
+﻿Teams,City,Revenue
+Atlanta United,Atlanta,47000000
+LA Galaxy,Los Angeles,63000000
+Seattle Sounders,Seattle,52000000
+Toronto FC,Toronto,49000000
+Portland Timbers,Portland,48000000
+New York City FC,New York City,42000000
+Orlando City SC,Orlando,44000000
+Sporting Kansas City,Kansas City,41000000
+D.C. United,Washington D.C.,26000000
+New York Red Bulls,Harrison,38000000
+Minnesota United,Saint Paul,24000000
+Chicago Fire,Chicago,27000000
+San Jose Earthquakes,San Jose,36000000
+New England Revolution,Boston,28000000
+Houston Dynamo,Houston,28000000
+FC Dallas,Dallas,34000000
+Philadelphia Union,Philadelphia,26000000
+Real Salt Lake,Salt Lake,22000000
+Montreal Impact,Montreal,24000000
+Vancouver Whitecaps,Vancouver,22000000
+Columbus Crew,Columbus,24000000
+Colorado Rapids,Denver,18000000
