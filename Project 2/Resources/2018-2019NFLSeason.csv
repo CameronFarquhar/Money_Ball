@@ -1,0 +1,267 @@
+﻿date,round,home_team,home_score,away_team,away_score,home_result
+9/6/18,Round 1,Philadelphia Eagles,18,Atlanta Falcons,12,6
+9/9/18,Round 1,Indianapolis Colts,23,Cincinnati Bengals,34,-11
+9/9/18,Round 1,Baltimore Ravens,47,Buffalo Bills,3,44
+9/9/18,Round 1,New Orleans Saints,40,Tampa Bay Buccaneers,48,-8
+9/9/18,Round 1,New England Patriots,27,Houston Texans,20,7
+9/9/18,Round 1,Minnesota Vikings,24,San Francisco 49ers,16,8
+9/9/18,Round 1,Miami Dolphins,27,Tennessee Titans,20,7
+9/9/18,Round 1,New York Giants,15,Jacksonville Jaguars,20,-5
+9/9/18,Round 1,Cleveland Browns,21,Pittsburgh Steelers,21,0
+9/9/18,Round 1,Los Angeles Chargers,28,Kansas City Chiefs,38,-10
+9/9/18,Round 1,Carolina Panthers,16,Dallas Cowboys,8,8
+9/9/18,Round 1,Arizona Cardinals,6,Washington Redskins,24,-18
+9/9/18,Round 1,Denver Broncos,27,Seattle Seahawks,24,3
+9/9/18,Round 1,Green Bay Packers,24,Chicago Bears,23,1
+9/10/18,Round 1,Detroit Lions,17,New York Jets,48,-31
+9/10/18,Round 1,Oakland Raiders,13,Los Angeles Rams,33,-20
+9/13/18,Round 2,Cincinnati Bengals,34,Baltimore Ravens,23,11
+9/16/18,Round 2,Pittsburgh Steelers,37,Kansas City Chiefs,42,-5
+9/16/18,Round 2,New York Jets,12,Miami Dolphins,20,-8
+9/16/18,Round 2,Tampa Bay Buccaneers,27,Philadelphia Eagles,21,6
+9/16/18,Round 2,New Orleans Saints,21,Cleveland Browns,18,3
+9/16/18,Round 2,Washington Redskins,9,Indianapolis Colts,21,-12
+9/16/18,Round 2,Buffalo Bills,20,Los Angeles Chargers,31,-11
+9/16/18,Round 2,Green Bay Packers,29,Minnesota Vikings,29,0
+9/16/18,Round 2,Atlanta Falcons,31,Carolina Panthers,24,7
+9/16/18,Round 2,Tennessee Titans,20,Houston Texans,17,3
+9/16/18,Round 2,Los Angeles Rams,34,Arizona Cardinals,0,34
+9/16/18,Round 2,San Francisco 49ers,30,Detroit Lions,27,3
+9/16/18,Round 2,Denver Broncos,20,Oakland Raiders,19,1
+9/16/18,Round 2,Jacksonville Jaguars,31,New England Patriots,20,11
+9/16/18,Round 2,Dallas Cowboys,20,New York Giants,13,7
+9/17/18,Round 2,Chicago Bears,24,Seattle Seahawks,17,7
+9/21/18,Round 3,Cleveland Browns,21,New York Jets,18,3
+9/23/18,Round 3,Minnesota Vikings,6,Buffalo Bills,27,-21
+9/23/18,Round 3,Houston Texans,22,New York Giants,27,-5
+9/23/18,Round 3,Washington Redskins,31,Green Bay Packers,17,14
+9/23/18,Round 3,Kansas City Chiefs,38,San Francisco 49ers,27,11
+9/23/18,Round 3,Miami Dolphins,28,Oakland Raiders,20,8
+9/23/18,Round 3,Philadelphia Eagles,20,Indianapolis Colts,16,4
+9/23/18,Round 3,Jacksonville Jaguars,6,Tennessee Titans,9,-3
+9/23/18,Round 3,Carolina Panthers,31,Cincinnati Bengals,21,10
+9/23/18,Round 3,Baltimore Ravens,27,Denver Broncos,14,13
+9/23/18,Round 3,Atlanta Falcons,37,New Orleans Saints,43,-6
+9/23/18,Round 3,Los Angeles Rams,35,Los Angeles Chargers,23,12
+9/23/18,Round 3,Arizona Cardinals,14,Chicago Bears,16,-2
+9/23/18,Round 3,Seattle Seahawks,24,Dallas Cowboys,13,11
+9/23/18,Round 3,Detroit Lions,26,New England Patriots,10,16
+9/24/18,Round 3,Tampa Bay Buccaneers,27,Pittsburgh Steelers,30,-3
+9/28/18,Round 4,Los Angeles Rams,38,Minnesota Vikings,31,7
+9/30/18,Round 4,Indianapolis Colts,34,Houston Texans,37,-3
+9/30/18,Round 4,Green Bay Packers,22,Buffalo Bills,0,22
+9/30/18,Round 4,Chicago Bears,48,Tampa Bay Buccaneers,10,38
+9/30/18,Round 4,New England Patriots,38,Miami Dolphins,7,31
+9/30/18,Round 4,Dallas Cowboys,26,Detroit Lions,24,2
+9/30/18,Round 4,Atlanta Falcons,36,Cincinnati Bengals,37,-1
+9/30/18,Round 4,Jacksonville Jaguars,31,New York Jets,12,19
+9/30/18,Round 4,Tennessee Titans,26,Philadelphia Eagles,23,3
+9/30/18,Round 4,Oakland Raiders,45,Cleveland Browns,42,3
+9/30/18,Round 4,Arizona Cardinals,17,Seattle Seahawks,20,-3
+9/30/18,Round 4,New York Giants,18,New Orleans Saints,33,-15
+9/30/18,Round 4,Los Angeles Chargers,29,San Francisco 49ers,27,2
+9/30/18,Round 4,Pittsburgh Steelers,14,Baltimore Ravens,26,-12
+10/1/18,Round 4,Denver Broncos,23,Kansas City Chiefs,27,-4
+10/4/18,Round 5,New England Patriots,38,Indianapolis Colts,24,14
+10/7/18,Round 5,New York Jets,34,Denver Broncos,16,18
+10/7/18,Round 5,Detroit Lions,31,Green Bay Packers,23,8
+10/7/18,Round 5,Carolina Panthers,33,New York Giants,31,2
+10/7/18,Round 5,Buffalo Bills,13,Tennessee Titans,12,1
+10/7/18,Round 5,Pittsburgh Steelers,41,Atlanta Falcons,17,24
+10/7/18,Round 5,Cleveland Browns,12,Baltimore Ravens,9,3
+10/7/18,Round 5,Cincinnati Bengals,27,Miami Dolphins,17,10
+10/7/18,Round 5,Kansas City Chiefs,30,Jacksonville Jaguars,14,16
+10/7/18,Round 5,Los Angeles Chargers,26,Oakland Raiders,10,16
+10/7/18,Round 5,Philadelphia Eagles,21,Minnesota Vikings,23,-2
+10/7/18,Round 5,Seattle Seahawks,31,Los Angeles Rams,33,-2
+10/7/18,Round 5,San Francisco 49ers,18,Arizona Cardinals,28,-10
+10/7/18,Round 5,Houston Texans,19,Dallas Cowboys,16,3
+10/8/18,Round 5,New Orleans Saints,43,Washington Redskins,19,24
+10/11/18,Round 6,New York Giants,13,Philadelphia Eagles,34,-21
+10/14/18,Round 6,Cleveland Browns,14,Los Angeles Chargers,38,-24
+10/14/18,Round 6,New York Jets,42,Indianapolis Colts,34,8
+10/14/18,Round 6,Oakland Raiders,3,Seattle Seahawks,27,-24
+10/14/18,Round 6,Washington Redskins,23,Carolina Panthers,17,6
+10/14/18,Round 6,Houston Texans,20,Buffalo Bills,13,7
+10/14/18,Round 6,Minnesota Vikings,27,Arizona Cardinals,17,10
+10/14/18,Round 6,Cincinnati Bengals,21,Pittsburgh Steelers,28,-7
+10/14/18,Round 6,Miami Dolphins,31,Chicago Bears,28,3
+10/14/18,Round 6,Denver Broncos,20,Los Angeles Rams,23,-3
+10/14/18,Round 6,Tennessee Titans,0,Baltimore Ravens,21,-21
+10/14/18,Round 6,Dallas Cowboys,40,Jacksonville Jaguars,7,33
+10/14/18,Round 6,New England Patriots,43,Kansas City Chiefs,40,3
+10/15/18,Round 6,Green Bay Packers,33,San Francisco 49ers,30,3
+10/18/18,Round 7,Arizona Cardinals,10,Denver Broncos,45,-35
+10/21/18,Round 7,Los Angeles Chargers,20,Tennessee Titans,19,1
+10/21/18,Round 7,Philadelphia Eagles,17,Carolina Panthers,21,-4
+10/21/18,Round 7,New York Jets,17,Minnesota Vikings,37,-20
+10/21/18,Round 7,Indianapolis Colts,37,Buffalo Bills,5,32
+10/21/18,Round 7,Chicago Bears,31,New England Patriots,38,-7
+10/21/18,Round 7,Tampa Bay Buccaneers,26,Cleveland Browns,23,3
+10/21/18,Round 7,Jacksonville Jaguars,7,Houston Texans,20,-13
+10/21/18,Round 7,Kansas City Chiefs,45,Cincinnati Bengals,10,35
+10/21/18,Round 7,Miami Dolphins,21,Detroit Lions,32,-11
+10/21/18,Round 7,Baltimore Ravens,23,New Orleans Saints,24,-1
+10/21/18,Round 7,Washington Redskins,20,Dallas Cowboys,17,3
+10/21/18,Round 7,San Francisco 49ers,10,Los Angeles Rams,39,-29
+10/22/18,Round 7,Atlanta Falcons,23,New York Giants,20,3
+10/25/18,Round 8,Houston Texans,42,Miami Dolphins,23,19
+10/28/18,Round 8,Jacksonville Jaguars,18,Philadelphia Eagles,24,-6
+10/28/18,Round 8,Carolina Panthers,36,Baltimore Ravens,21,15
+10/28/18,Round 8,Kansas City Chiefs,30,Denver Broncos,23,7
+10/28/18,Round 8,Pittsburgh Steelers,33,Cleveland Browns,18,15
+10/28/18,Round 8,Detroit Lions,14,Seattle Seahawks,28,-14
+10/28/18,Round 8,Cincinnati Bengals,37,Tampa Bay Buccaneers,34,3
+10/28/18,Round 8,Chicago Bears,24,New York Jets,10,14
+10/28/18,Round 8,New York Giants,13,Washington Redskins,20,-7
+10/28/18,Round 8,Oakland Raiders,28,Indianapolis Colts,42,-14
+10/28/18,Round 8,Arizona Cardinals,18,San Francisco 49ers,15,3
+10/28/18,Round 8,Los Angeles Rams,29,Green Bay Packers,27,2
+10/28/18,Round 8,Minnesota Vikings,20,New Orleans Saints,30,-10
+10/29/18,Round 8,Buffalo Bills,6,New England Patriots,25,-19
+11/1/18,Round 9,San Francisco 49ers,34,Oakland Raiders,3,31
+11/4/18,Round 9,Washington Redskins,14,Atlanta Falcons,38,-24
+11/4/18,Round 9,Minnesota Vikings,24,Detroit Lions,9,15
+11/4/18,Round 9,Baltimore Ravens,16,Pittsburgh Steelers,23,-7
+11/4/18,Round 9,Cleveland Browns,21,Kansas City Chiefs,37,-16
+11/4/18,Round 9,Miami Dolphins,13,New York Jets,6,7
+11/4/18,Round 9,Buffalo Bills,9,Chicago Bears,41,-32
+11/4/18,Round 9,Carolina Panthers,42,Tampa Bay Buccaneers,28,14
+11/4/18,Round 9,Seattle Seahawks,17,Los Angeles Chargers,25,-8
+11/4/18,Round 9,Denver Broncos,17,Houston Texans,19,-2
+11/4/18,Round 9,New Orleans Saints,45,Los Angeles Rams,35,10
+11/4/18,Round 9,New England Patriots,31,Green Bay Packers,17,14
+11/5/18,Round 9,Dallas Cowboys,14,Tennessee Titans,28,-14
+11/8/18,Round 10,Pittsburgh Steelers,52,Carolina Panthers,21,31
+11/11/18,Round 10,Tampa Bay Buccaneers,3,Washington Redskins,16,-13
+11/11/18,Round 10,Kansas City Chiefs,26,Arizona Cardinals,14,12
+11/11/18,Round 10,New York Jets,10,Buffalo Bills,41,-31
+11/11/18,Round 10,Indianapolis Colts,29,Jacksonville Jaguars,26,3
+11/11/18,Round 10,Chicago Bears,34,Detroit Lions,22,12
+11/11/18,Round 10,Green Bay Packers,31,Miami Dolphins,12,19
+11/11/18,Round 10,Cincinnati Bengals,14,New Orleans Saints,51,-37
+11/11/18,Round 10,Tennessee Titans,34,New England Patriots,10,24
+11/11/18,Round 10,Cleveland Browns,28,Atlanta Falcons,16,12
+11/11/18,Round 10,Oakland Raiders,6,Los Angeles Chargers,20,-14
+11/11/18,Round 10,Los Angeles Rams,36,Seattle Seahawks,31,5
+11/11/18,Round 10,Philadelphia Eagles,20,Dallas Cowboys,27,-7
+11/12/18,Round 10,San Francisco 49ers,23,New York Giants,27,-4
+11/15/18,Round 11,Seattle Seahawks,27,Green Bay Packers,24,3
+11/18/18,Round 11,Indianapolis Colts,38,Tennessee Titans,10,28
+11/18/18,Round 11,New York Giants,38,Tampa Bay Buccaneers,35,3
+11/18/18,Round 11,Chicago Bears,25,Minnesota Vikings,20,5
+11/18/18,Round 11,New Orleans Saints,48,Philadelphia Eagles,7,41
+11/18/18,Round 11,Detroit Lions,20,Carolina Panthers,19,1
+11/18/18,Round 11,Atlanta Falcons,19,Dallas Cowboys,22,-3
+11/18/18,Round 11,Baltimore Ravens,24,Cincinnati Bengals,21,3
+11/18/18,Round 11,Washington Redskins,21,Houston Texans,23,-2
+11/18/18,Round 11,Arizona Cardinals,21,Oakland Raiders,23,-2
+11/18/18,Round 11,Los Angeles Chargers,22,Denver Broncos,23,-1
+11/18/18,Round 11,Jacksonville Jaguars,16,Pittsburgh Steelers,20,-4
+11/19/18,Round 11,Los Angeles Rams,54,Kansas City Chiefs,51,3
+11/22/18,Round 12,Detroit Lions,16,Chicago Bears,23,-7
+11/22/18,Round 12,Dallas Cowboys,31,Washington Redskins,23,8
+11/22/18,Round 12,New Orleans Saints,31,Atlanta Falcons,17,14
+11/25/18,Round 12,Philadelphia Eagles,25,New York Giants,22,3
+11/25/18,Round 12,Buffalo Bills,24,Jacksonville Jaguars,21,3
+11/25/18,Round 12,Carolina Panthers,27,Seattle Seahawks,30,-3
+11/25/18,Round 12,Baltimore Ravens,34,Oakland Raiders,17,17
+11/25/18,Round 12,Tampa Bay Buccaneers,27,San Francisco 49ers,9,18
+11/25/18,Round 12,Indianapolis Colts,27,Miami Dolphins,24,3
+11/25/18,Round 12,Cincinnati Bengals,20,Cleveland Browns,35,-15
+11/25/18,Round 12,New York Jets,13,New England Patriots,27,-14
+11/25/18,Round 12,Los Angeles Chargers,45,Arizona Cardinals,10,35
+11/25/18,Round 12,Denver Broncos,24,Pittsburgh Steelers,17,7
+11/25/18,Round 12,Minnesota Vikings,24,Green Bay Packers,17,7
+11/26/18,Round 12,Houston Texans,34,Tennessee Titans,17,17
+11/29/18,Round 13,Dallas Cowboys,13,New Orleans Saints,10,3
+12/2/18,Round 13,New York Giants,30,Chicago Bears,27,3
+12/2/18,Round 13,Green Bay Packers,17,Arizona Cardinals,20,-3
+12/2/18,Round 13,Indianapolis Colts,0,Jacksonville Jaguars,6,-6
+12/2/18,Round 13,Houston Texans,29,Cleveland Browns,13,16
+12/2/18,Round 13,Tampa Bay Buccaneers,24,Carolina Panthers,17,7
+12/2/18,Round 13,Miami Dolphins,21,Buffalo Bills,17,4
+12/2/18,Round 13,Cincinnati Bengals,10,Denver Broncos,24,-14
+12/2/18,Round 13,Atlanta Falcons,16,Baltimore Ravens,26,-10
+12/2/18,Round 13,Pittsburgh Steelers,30,Los Angeles Chargers,33,-3
+12/2/18,Round 13,Detroit Lions,16,Los Angeles Rams,30,-14
+12/2/18,Round 13,Oakland Raiders,33,Kansas City Chiefs,40,-7
+12/2/18,Round 13,Tennessee Titans,26,New York Jets,22,4
+12/2/18,Round 13,New England Patriots,24,Minnesota Vikings,10,14
+12/2/18,Round 13,Seattle Seahawks,43,San Francisco 49ers,16,27
+12/3/18,Round 13,Philadelphia Eagles,28,Washington Redskins,13,15
+12/6/18,Round 14,Tennessee Titans,30,Jacksonville Jaguars,9,21
+12/9/18,Round 14,Cleveland Browns,26,Carolina Panthers,20,6
+12/9/18,Round 14,Chicago Bears,15,Los Angeles Rams,6,9
+12/9/18,Round 14,Kansas City Chiefs,27,Baltimore Ravens,24,3
+12/9/18,Round 14,Houston Texans,21,Indianapolis Colts,24,-3
+12/9/18,Round 14,Miami Dolphins,34,New England Patriots,33,1
+12/9/18,Round 14,Washington Redskins,16,New York Giants,40,-24
+12/9/18,Round 14,Tampa Bay Buccaneers,14,New Orleans Saints,28,-14
+12/9/18,Round 14,Green Bay Packers,34,Atlanta Falcons,20,14
+12/9/18,Round 14,Buffalo Bills,23,New York Jets,27,-4
+12/9/18,Round 14,Los Angeles Chargers,26,Cincinnati Bengals,21,5
+12/9/18,Round 14,San Francisco 49ers,20,Denver Broncos,14,6
+12/9/18,Round 14,Dallas Cowboys,29,Philadelphia Eagles,23,6
+12/9/18,Round 14,Arizona Cardinals,3,Detroit Lions,17,-14
+12/9/18,Round 14,Oakland Raiders,24,Pittsburgh Steelers,21,3
+12/10/18,Round 14,Seattle Seahawks,21,Minnesota Vikings,7,14
+12/13/18,Round 15,Kansas City Chiefs,28,Los Angeles Chargers,29,-1
+12/15/18,Round 15,New York Jets,22,Houston Texans,29,-7
+12/15/18,Round 15,Denver Broncos,16,Cleveland Browns,17,-1
+12/16/18,Round 15,Atlanta Falcons,40,Arizona Cardinals,14,26
+12/16/18,Round 15,Cincinnati Bengals,30,Oakland Raiders,16,14
+12/16/18,Round 15,Minnesota Vikings,41,Miami Dolphins,17,24
+12/16/18,Round 15,Indianapolis Colts,23,Dallas Cowboys,0,23
+12/16/18,Round 15,Baltimore Ravens,20,Tampa Bay Buccaneers,12,8
+12/16/18,Round 15,Buffalo Bills,14,Detroit Lions,13,1
+12/16/18,Round 15,Chicago Bears,24,Green Bay Packers,17,7
+12/16/18,Round 15,Jacksonville Jaguars,13,Washington Redskins,16,-3
+12/16/18,Round 15,New York Giants,0,Tennessee Titans,17,-17
+12/16/18,Round 15,San Francisco 49ers,26,Seattle Seahawks,23,3
+12/16/18,Round 15,Pittsburgh Steelers,17,New England Patriots,10,7
+12/16/18,Round 15,Los Angeles Rams,23,Philadelphia Eagles,30,-7
+12/17/18,Round 15,Carolina Panthers,9,New Orleans Saints,12,-3
+12/23/18,Round 16,Indianapolis Colts,28,New York Giants,27,1
+12/23/18,Round 16,Philadelphia Eagles,32,Houston Texans,30,2
+12/23/18,Round 16,Miami Dolphins,7,Jacksonville Jaguars,17,-10
+12/23/18,Round 16,Tennessee Titans,25,Washington Redskins,16,9
+12/23/18,Round 16,New York Jets,38,Green Bay Packers,44,-6
+12/23/18,Round 16,Cleveland Browns,26,Cincinnati Bengals,18,8
+12/23/18,Round 16,Dallas Cowboys,27,Tampa Bay Buccaneers,20,7
+12/23/18,Round 16,Detroit Lions,9,Minnesota Vikings,27,-18
+12/23/18,Round 16,New England Patriots,24,Buffalo Bills,12,12
+12/23/18,Round 16,Carolina Panthers,10,Atlanta Falcons,24,-14
+12/23/18,Round 16,Los Angeles Chargers,10,Baltimore Ravens,22,-12
+12/23/18,Round 16,San Francisco 49ers,9,Chicago Bears,14,-5
+12/23/18,Round 16,Arizona Cardinals,9,Los Angeles Rams,31,-22
+12/23/18,Round 16,New Orleans Saints,31,Pittsburgh Steelers,28,3
+12/23/18,Round 16,Seattle Seahawks,38,Kansas City Chiefs,31,7
+12/24/18,Round 16,Oakland Raiders,27,Denver Broncos,14,13
+12/30/18,Round 17,Kansas City Chiefs,35,Oakland Raiders,3,32
+12/30/18,Round 17,Buffalo Bills,42,Miami Dolphins,17,25
+12/30/18,Round 17,Tennessee Titans,17,Indianapolis Colts,33,-16
+12/30/18,Round 17,Minnesota Vikings,10,Chicago Bears,24,-14
+12/30/18,Round 17,Baltimore Ravens,26,Cleveland Browns,24,2
+12/30/18,Round 17,Green Bay Packers,0,Detroit Lions,31,-31
+12/30/18,Round 17,New England Patriots,38,New York Jets,3,35
+12/30/18,Round 17,New Orleans Saints,14,Carolina Panthers,33,-19
+12/30/18,Round 17,Houston Texans,20,Jacksonville Jaguars,3,17
+12/30/18,Round 17,New York Giants,35,Dallas Cowboys,36,-1
+12/30/18,Round 17,Washington Redskins,0,Philadelphia Eagles,24,-24
+12/30/18,Round 17,Tampa Bay Buccaneers,32,Atlanta Falcons,34,-2
+12/30/18,Round 17,Pittsburgh Steelers,16,Cincinnati Bengals,13,3
+12/30/18,Round 17,Seattle Seahawks,27,Arizona Cardinals,24,3
+12/30/18,Round 17,Los Angeles Rams,48,San Francisco 49ers,32,16
+12/30/18,Round 17,Denver Broncos,9,Los Angeles Chargers,23,-14
+1/5/19,Round 18,Houston Texans,7,Indianapolis Colts,21,-14
+1/5/19,Round 18,Dallas Cowboys,24,Seattle Seahawks,22,2
+1/6/19,Round 18,Baltimore Ravens,17,Los Angeles Chargers,23,-6
+1/6/19,Round 18,Chicago Bears,15,Philadelphia Eagles,16,-1
+1/12/19,Round 19,Indianapolis Colts,13,Kansas City Chiefs,31,-18
+1/12/19,Round 19,Dallas Cowboys,22,Los Angeles Rams,30,-8
+1/13/19,Round 19,Los Angeles Chargers,28,New England Patriots,41,-13
+1/13/19,Round 19,Philadelphia Eagles,14,New Orleans Saints,20,-6
+1/20/19,Round 20,New Orleans Saints,23,Los Angeles Rams,26,-3
+1/20/19,Round 20,Kansas City Chiefs,31,New England Patriots,37,-6
+2/3/19,Round 200,Los Angeles Rams,3,New England Patriots,13,-10
