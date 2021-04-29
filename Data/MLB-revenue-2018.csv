@@ -1,30 +1,30 @@
-﻿Teams,City,Revenue
-Los Angeles Dodgers,Los Angeles,3000000000
-Chicago Cubs,Chicago,2900000000
-San Francisco Giants,San Francisco,2850000000
-Boston Red Sox,Boston Red,2800000000
-New York Mets,New York,2100000000
-St. Louis Cardinals,Saint Louis,1900000000
-Los Angeles Angels,Los Angeles,1800000000
-Philadelphia Phillies,Philadelphia,1700000000
-Washington Nationals,Washington D.C.,1675000000
-Houston Astros,Houston,1650000000
-Atlanta Braves,Atlanta,1625000000
-Texas Rangers,Arlington,1600000000
-Chicago White Sox,Chicago White,1500000000
-Seattle Mariners,Seattle,1450000000
-Toronto Blue Jays,Toronto Blue,1350000000
-San Diego Padres,San Diego,1270000000
-Pittsburgh Pirates,Pittsburgh,1260000000
-Detroit Tigers,Detroit,1225000000
-Arizona Diamondbacks,Phoenix,1210000000
-Baltimore Orioles,Baltimore,1200000000
-Minnesota Twins,Minnesota,1150000000
-Colorado Rockies,Denver,1100000000
-Cleveland Indians,Cleveland,1045000000
-Milwaukee Brewers,Milwaukee,1030000000
-Oakland Athletics,Oakland,1020000000
-Kansas City Royals,Kansas City,1015000000
-Cincinnati Reds,Cincinnati,1010000000
-Miami Marlins,Miami,1000000000
-Tampa Bay Rays,Tampa Bay,900000000
+﻿Team,City,State/Province,Revenue
+Los Angeles Dodgers,Los Angeles,CA,3000000000
+Chicago Cubs,Chicago,IL,2900000000
+San Francisco Giants,San Francisco,CA,2850000000
+Boston Red Sox,Boston,MA,2800000000
+New York Mets,New York,NY,2100000000
+St. Louis Cardinals,Saint Louis,MO,1900000000
+Los Angeles Angels,Los Angeles,CA,1800000000
+Philadelphia Phillies,Philadelphia,PA,1700000000
+Washington Nationals,Washington,DC,1675000000
+Houston Astros,Houston,TX,1650000000
+Atlanta Braves,Atlanta,GA,1625000000
+Texas Rangers,Arlington,TX,1600000000
+Chicago White Sox,Chicago,IL,1500000000
+Seattle Mariners,Seattle,WA,1450000000
+Toronto Blue Jays,Toronto,ON,1350000000
+San Diego Padres,San Diego,CA,1270000000
+Pittsburgh Pirates,Pittsburgh,PA,1260000000
+Detroit Tigers,Detroit,MI,1225000000
+Arizona Diamondbacks,Phoenix,AZ,1210000000
+Baltimore Orioles,Baltimore,MD,1200000000
+Minnesota Twins,Minneapolis,MN,1150000000
+Colorado Rockies,Denver,CO,1100000000
+Cleveland Indians,Cleveland,OH,1045000000
+Milwaukee Brewers,Milwaukee,WI,1030000000
+Oakland Athletics,Oakland,CA,1020000000
+Kansas City Royals,Kansas City,MO,1015000000
+Cincinnati Reds,Cincinnati,OH,1010000000
+Miami Marlins,Miami,FL,1000000000
+Tampa Bay Rays,Tampa Bay,FL,900000000

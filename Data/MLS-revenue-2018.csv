@@ -1,23 +1,23 @@
-﻿Teams,City,Revenue
-Atlanta United,Atlanta,47000000
-LA Galaxy,Los Angeles,63000000
-Seattle Sounders,Seattle,52000000
-Toronto FC,Toronto,49000000
-Portland Timbers,Portland,48000000
-New York City FC,New York City,42000000
-Orlando City SC,Orlando,44000000
-Sporting Kansas City,Kansas City,41000000
-D.C. United,Washington D.C.,26000000
-New York Red Bulls,Harrison,38000000
-Minnesota United,Saint Paul,24000000
-Chicago Fire,Chicago,27000000
-San Jose Earthquakes,San Jose,36000000
-New England Revolution,Boston,28000000
-Houston Dynamo,Houston,28000000
-FC Dallas,Dallas,34000000
-Philadelphia Union,Philadelphia,26000000
-Real Salt Lake,Salt Lake,22000000
-Montreal Impact,Montreal,24000000
-Vancouver Whitecaps,Vancouver,22000000
-Columbus Crew,Columbus,24000000
-Colorado Rapids,Denver,18000000
+﻿Team,City,State/Province,Revenue
+Atlanta United,Atlanta,GA,47000000
+LA Galaxy,Los Angeles,CA,63000000
+Seattle Sounders,Seattle,WA,52000000
+Toronto FC,Toronto,ON,49000000
+Portland Timbers,Portland,OR,48000000
+New York City FC,New York City,NY,42000000
+Orlando City SC,Orlando,FL,44000000
+Sporting Kansas City,Kansas City,MO,41000000
+D.C. United,Washington,DC,26000000
+New York Red Bulls,Harrison,NY,38000000
+Minnesota United,Saint Paul,MN,24000000
+Chicago Fire,Chicago,IL,27000000
+San Jose Earthquakes,San Jose,CA,36000000
+New England Revolution,Boston,MA,28000000
+Houston Dynamo,Houston,TX,28000000
+FC Dallas,Dallas,TX,34000000
+Philadelphia Union,Philadelphia,PA,26000000
+Real Salt Lake,Salt Lake,UT,22000000
+Montreal Impact,Montreal,QC,24000000
+Vancouver Whitecaps,Vancouver,BC,22000000
+Columbus Crew,Columbus,OH,24000000
+Colorado Rapids,Denver,CO,18000000
