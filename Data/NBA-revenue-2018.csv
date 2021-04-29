@@ -1,31 +1,31 @@
-﻿Team,City,Revenue
-New York Knicks,New York City,3600000000
-Los Angeles Lakers,Los Angeles,3300000000
-Golden State Warriors,San Franciso,3100000000
-Chicago Bulls,Chicago,2600000000
-Boston Celtics,Boston,2500000000
-Brooklyn Nets,Brooklyn,2300000000
-Houston Rockets,Houston,2200000000
-Los Angeles Clippers,Los Angeles,2150000000
-Dallas Mavericks,Dallas,1900000000
-Miami Heat,Miami,1700000000
-San Antonio Spurs,San Antonio,1550000000
-Toronto Raptors,Toronto,1400000000
-Sacramento Kings,Sacramento,1375000000
-Washington Wizards,Washington D.C.,1350000000
-Cleveland Cavaliers,Cleveland,1325000000
-Portland Trail Blazers,Portland,1300000000
-Phoenix Suns,Phoenix,1280000000
-Oklahoma City Thunder,Oklahoma,1250000000
-Orlando Magic,Orlando,1225000000
-Utah Jazz,Salt Lake City,1200000000
-Philadelphia 76ers,Philadelphia,1180000000
-Indiana Pacers,Indianapolis,1175000000
-Atlanta Hawks,Atlanta,1150000000
-Denver Nuggets,Denver,1125000000
-Detroit Pistons,Detroit,1100000000
-Milwaukee Bucks,Milwaukee,1075000000
-Minnesota Timberwolves,Minnesota,1060000000
-Charlotte Hornets,Charlotte,1050000000
-Memphis Grizzlies,Memphis,1025000000
-New Orleans Pelicans,New Orleans,1000000000
+﻿Team,City,State/Province,Revenue
+New York Knicks,New York City,NY,3600000000
+Los Angeles Lakers,Los Angeles,CA,3300000000
+Golden State Warriors,San Franciso,CA,3100000000
+Chicago Bulls,Chicago,IL,2600000000
+Boston Celtics,Boston,MA,2500000000
+Brooklyn Nets,Brooklyn,NY,2300000000
+Houston Rockets,Houston,TX,2200000000
+Los Angeles Clippers,Los Angeles,CA,2150000000
+Dallas Mavericks,Dallas,TX,1900000000
+Miami Heat,Miami,FL,1700000000
+San Antonio Spurs,San Antonio,TX,1550000000
+Toronto Raptors,Toronto,ON,1400000000
+Sacramento Kings,Sacramento,CA,1375000000
+Washington Wizards,Washington,DC,1350000000
+Cleveland Cavaliers,Cleveland,OH,1325000000
+Portland Trail Blazers,Portland,OR,1300000000
+Phoenix Suns,Phoenix,AZ,1280000000
+Oklahoma City Thunder,Oklahoma City,OK,1250000000
+Orlando Magic,Orlando,FL,1225000000
+Utah Jazz,Salt Lake City,UT,1200000000
+Philadelphia 76ers,Philadelphia,PA,1180000000
+Indiana Pacers,Indianapolis,IN,1175000000
+Atlanta Hawks,Atlanta,GA,1150000000
+Denver Nuggets,Denver,CO,1125000000
+Detroit Pistons,Detroit,MI,1100000000
+Milwaukee Bucks,Milwaukee,WI,1075000000
+Minnesota Timberwolves,Minneapolis,MN,1060000000
+Charlotte Hornets,Charlotte,NC,1050000000
+Memphis Grizzlies,Memphis,TN,1025000000
+New Orleans Pelicans,New Orleans,LA,1000000000

@@ -1,33 +1,33 @@
-﻿Team,City,Revenue
-Dallas Cowboys,Dallas,950000000
-New England Patriots,Foxborough,600000000
-New York Giants,East Rutherford,519000000
-Houston Texans,Houston,497000000
-New York Jets,East Rutherford,475000000
-San Francisco 49ers,San Francisco,492000000
-Washington Redskins,Washington D.C.,493000000
-Atlanta Falcons,Atlanta,458000000
-Philadelphia Eagles,Philadelphia,482000000
-Green Bay Packers,Green Bay,456000000
-Miami Dolphins,Miami,443000000
-Chicago Bears,Chicago,453000000
-Denver Broncos,Denver,446000000
-New Orleans Saints,New Orleans,441000000
-Pittsburgh Steelers,Pittsburgh,439000000
-Seattle Seahawks,Seattle,439000000
-Baltimore Ravens,Baltimore,438000000
-Minnesota Vikings,Minnesota,427000000
-Carolina Panthers,Charlotte,424000000
-Jacksonville Jaguars,Jacksonville,424000000
-Kansas City Chiefs,Kansas City,410000000
-Los Angeles Rams,Los Angeles,401000000
-Arizona Cardinals,Phoenix,400000000
-Tampa Bay Buccaneers,Tampa Bay,400000000
-Detroit Lions,Detroit,385000000
-Cleveland Browns,Cleveland,399000000
-Indianapolis Colts,Indianapolis,393000000
-Tennessee Titans,Nashville,394000000
-Buffalo Bills,Buffalo,386000000
-Cincinnati Bengals,Cincinnati,380000000
-Los Angeles Chargers,Los Angeles,375000000
-Las Vegas Raiders,Las Vegas,357000000
+﻿Team,City,State/Province,Revenue
+Dallas Cowboys,Dallas,TX,950000000
+New England Patriots,Foxborough,MA,600000000
+New York Giants,East Rutherford,NY,519000000
+Houston Texans,Houston,TX,497000000
+New York Jets,East Rutherford,NY,475000000
+San Francisco 49ers,San Francisco,CA,492000000
+Washington Redskins,Washington,DC,493000000
+Atlanta Falcons,Atlanta,GA,458000000
+Philadelphia Eagles,Philadelphia,PA,482000000
+Green Bay Packers,Green Bay,WI,456000000
+Miami Dolphins,Miami,FL,443000000
+Chicago Bears,Chicago,IL,453000000
+Denver Broncos,Denver,CO,446000000
+New Orleans Saints,New Orleans,LA,441000000
+Pittsburgh Steelers,Pittsburgh,PA,439000000
+Seattle Seahawks,Seattle,WA,439000000
+Baltimore Ravens,Baltimore,MD,438000000
+Minnesota Vikings,Minnesota,MN,427000000
+Carolina Panthers,Charlotte,NC,424000000
+Jacksonville Jaguars,Jacksonville,FL,424000000
+Kansas City Chiefs,Kansas City,MO,410000000
+Los Angeles Rams,Los Angeles,CA,401000000
+Arizona Cardinals,Phoenix,AZ,400000000
+Tampa Bay Buccaneers,Tampa Bay,FL,400000000
+Detroit Lions,Detroit,MI,385000000
+Cleveland Browns,Cleveland,OH,399000000
+Indianapolis Colts,Indianapolis,IN,393000000
+Tennessee Titans,Nashville,TN,394000000
+Buffalo Bills,Buffalo,NY,386000000
+Cincinnati Bengals,Cincinnati,OH,380000000
+Los Angeles Chargers,Los Angeles,CA,375000000
+Las Vegas Raiders,Las Vegas,NV,357000000
