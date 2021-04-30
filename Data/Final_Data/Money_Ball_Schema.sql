@@ -1,7 +1,6 @@
 ﻿-- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
 -- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
 
-
 CREATE TABLE "all_cities" (
     "City" VARCHAR   NOT NULL,
     CONSTRAINT "pk_all_cities" PRIMARY KEY (
@@ -10,88 +9,73 @@ CREATE TABLE "all_cities" (
 );
 
 CREATE TABLE "mlb" (
-    "Team" VARCHAR (30),
-    "City" VARCHAR (30),
-    "State" VARCHAR (30),
-    "Revenue" NUMERIC,
-    "Population" NUMERIC,
-    "Income" NUMERIC,
-    "Points_For" NUMERIC,
-    "Points_Against" NUMERIC,
-    "Wins" NUMERIC,
-    "Games" NUMERIC,
-    "Wins_Per" NUMERIC,
-    CONSTRAINT "pk_mlb" PRIMARY KEY (
-        "City"
-     )
+    "Team" VARCHAR   NOT NULL,
+    "City" VARCHAR   NOT NULL,
+    "State" VARCHAR   NOT NULL,
+    "Revenue" INT   NOT NULL,
+    "Population" INT   NOT NULL,
+    "Income" INT   NOT NULL,
+    "Points_For" INT   NOT NULL,
+    "Points_Against" INT   NOT NULL,
+    "Wins" INT   NOT NULL,
+    "Games" INT   NOT NULL,
+    "Wins_Per" DEC   NOT NULL
 );
 
 CREATE TABLE "mls" (
-    "Team" VARCHAR (30),
-    "City" VARCHAR (30),
-    "State" VARCHAR (30),
-    "Revenue" NUMERIC,
-    "Population" NUMERIC,
-    "Income" NUMERIC,
-    "Points_For" NUMERIC,
-    "Points_Against" NUMERIC,
-    "Wins" NUMERIC,
-    "Games" NUMERIC,
-    "Wins_Per" NUMERIC,
-    CONSTRAINT "pk_mls" PRIMARY KEY (
-        "City"
-     )
+    "Team" VARCHAR   NOT NULL,
+    "City" VARCHAR   NOT NULL,
+    "State" VARCHAR   NOT NULL,
+    "Revenue" INT   NOT NULL,
+    "Population" INT   NOT NULL,
+    "Income" INT   NOT NULL,
+    "Points_For" INT   NOT NULL,
+    "Points_Against" INT   NOT NULL,
+    "Wins" INT   NOT NULL,
+    "Games" INT   NOT NULL,
+    "Wins_Per" DEC   NOT NULL
 );
 
 CREATE TABLE "nba" (
-    "Team" VARCHAR (30),
-    "City" VARCHAR (30),
-    "State" VARCHAR (30),
-    "Revenue" NUMERIC,
-    "Population" NUMERIC,
-    "Income" NUMERIC,
-    "Points_For" NUMERIC,
-    "Points_Against" NUMERIC,
-    "Wins" NUMERIC,
-    "Games" NUMERIC,
-    "Wins_Per" NUMERIC,
-    CONSTRAINT "pk_nba" PRIMARY KEY (
-        "City"
-     )
+    "Team" VARCHAR   NOT NULL,
+    "City" VARCHAR   NOT NULL,
+    "State" VARCHAR   NOT NULL,
+    "Revenue" INT   NOT NULL,
+    "Population" INT   NOT NULL,
+    "Income" INT   NOT NULL,
+    "Points_For" INT   NOT NULL,
+    "Points_Against" INT   NOT NULL,
+    "Wins" INT   NOT NULL,
+    "Games" INT   NOT NULL,
+    "Wins_Per" DEC   NOT NULL
 );
 
 CREATE TABLE "nfl" (
-    "Team" VARCHAR (30),
-    "City" VARCHAR (30),
-    "State" VARCHAR (30),
-    "Revenue" NUMERIC,
-    "Population" NUMERIC,
-    "Income" NUMERIC,
-    "Points_For" NUMERIC,
-    "Points_Against" NUMERIC,
-    "Wins" NUMERIC,
-    "Games" NUMERIC,
-    "Wins_Per" NUMERIC,
-    CONSTRAINT "pk_nfl" PRIMARY KEY (
-        "City"
-     )
+    "Team" VARCHAR   NOT NULL,
+    "City" VARCHAR   NOT NULL,
+    "State" VARCHAR   NOT NULL,
+    "Revenue" INT   NOT NULL,
+    "Population" INT   NOT NULL,
+    "Income" INT   NOT NULL,
+    "Points_For" INT   NOT NULL,
+    "Points_Against" INT   NOT NULL,
+    "Wins" INT   NOT NULL,
+    "Games" INT   NOT NULL,
+    "Wins_Per" DEC   NOT NULL
 );
 
 CREATE TABLE "nhl" (
-    "Team" VARCHAR (30),
-    "City" VARCHAR (30),
-    "State" VARCHAR (30),
-    "Revenue" NUMERIC,
-    "Population" NUMERIC,
-    "Income" NUMERIC,
-    "Points_For" NUMERIC,
-    "Points_Against" NUMERIC,
-    "Wins" NUMERIC,
-    "Games" NUMERIC,
-    "Wins_Per" NUMERIC,
-    CONSTRAINT "pk_nhl" PRIMARY KEY (
-        "City"
-     )
+    "Team" VARCHAR   NOT NULL,
+    "City" VARCHAR   NOT NULL,
+    "State" VARCHAR   NOT NULL,
+    "Revenue" INT   NOT NULL,
+    "Population" INT   NOT NULL,
+    "Income" INT   NOT NULL,
+    "Points_For" INT   NOT NULL,
+    "Points_Against" INT   NOT NULL,
+    "Wins" INT   NOT NULL,
+    "Games" INT   NOT NULL,
+    "Wins_Per" DEC   NOT NULL
 );
 
 ALTER TABLE "mlb" ADD CONSTRAINT "fk_mlb_City" FOREIGN KEY("City")
