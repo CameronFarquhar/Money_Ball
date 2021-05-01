@@ -1,3 +1,3 @@
-d3.json('/api/v1.0/money_balls').then(data=>{
+d3.json('/Visuals').then(data=>{
     console.log(data);
 })
