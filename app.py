@@ -37,10 +37,11 @@ def welcome():
     return render_template("Home.html")
 
 
-@app.route("/Visuals")
+@app.route("/api/Visuals")
 def names():
-    results = pd.read_sql_query("SELECT * FROM nba", conn).to_dict()
-    return results
+    results_nba = pd.read_sql_query("SELECT * FROM nba", conn).to_dict()
+    results_nhl = pd.read_sql_query("SELECT * FROM nhl", conn).to_dict()
+    return results_nba, results_nhl
 
 # @app.route("/api/v1.0/Map")
 # def names():
