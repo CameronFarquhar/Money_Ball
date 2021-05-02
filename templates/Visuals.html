@@ -16,7 +16,8 @@
     <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i">
     
     
-    
+                           <!-- D3 JavaScript -->
+                           <script src="https://d3js.org/d3.v6.min.js"></script>
     
     
     
@@ -142,9 +143,26 @@
               <div class="u-align-justify u-container-style u-layout-cell u-size-38 u-layout-cell-2">
                 <div class="u-container-layout u-container-layout-2">
                   <div id="bar-one"></div>
-                      <script src="https://d3js.org/d3.v6.min.js"></script>
+
+
+                  <select id="selDataset" onchange="optionChanged(this.value)"></select>
+                      <!-- <script src="https://d3js.org/d3.v6.min.js"></script>
                       <script src="static/js/app.js"></script>
-                  <script src="plots.js"></script>
+                  <script src="plots.js"></script> -->
+
+                  <!-- <div class="panel panel-primary">
+                    <div class="panel-heading">
+                      <h3 class="panel-title">Demographic Info</h3>
+                    </div>
+                    <div id="team-data" class="panel-body">
+                    </div>
+                  </div> -->
+                  <div class="panel-heading">
+                    <h3 class="panel-title">Demographic Info</h3>
+                  </div>
+                  <div id="sample-metadata" class="panel-body">
+                  </div>
+
                 </div>
               </div>
             </div>
@@ -160,7 +178,7 @@
               <div class="u-align-left u-container-style u-layout-cell u-size-39 u-layout-cell-1">
                 <div class="u-container-layout u-container-layout-1">
                   <div id="bar-two"></div>
-                  <script src="plots.js"></script>
+                  <!-- <script src="plots.js"></script> -->
                 </div>
               </div>
               <div class="u-align-right u-container-style u-layout-cell u-size-21 u-layout-cell-2">
@@ -184,13 +202,13 @@
                 <div class="u-container-layout u-container-layout-1">
                   <h2 class="u-text u-text-1">Gauge the difference.</h2>
                   <div class="u-palette-1-base u-shape u-shape-rectangle u-shape-1"></div>
-                  <p class="u-text u-text-2">We all know that sports in general have a high margin of income. The gauge to the right shows just how much revenue these champion teams earned in their 2018 season.</p>
+                  <p class="u-text u-text-2">We all know that sports in general have a high margin of income. The gauge to the left shows just how much revenue these champion teams earned in their 2018 season.</p>
                 </div>
               </div>
               <div class="u-align-center u-container-style u-layout-cell u-right-cell u-size-41 u-size-xs-60 u-layout-cell-2" src="">
                 <div class="u-container-layout u-container-layout-2" src="">
                 <div id="gauge"></div>
-                  <script src="gauge.js"></script>
+                  <!-- <script src="plots.js"></script> -->
                 </div>
               </div>
             </div>
@@ -198,10 +216,47 @@
         </div>
       </div>
     </section>
-    
+    <section class="u-align-center u-clearfix u-section-5" id="sec-a897">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <div class="u-clearfix u-expanded-width u-gutter-0 u-layout-wrap u-layout-wrap-1">
+          <div class="u-layout" style="">
+            <div class="u-layout-row" style="">
+              <div class="u-align-left u-container-style u-layout-cell u-left-cell u-size-43 u-size-xs-60 u-layout-cell-1" src="">
+                <div class="u-container-layout u-valign-middle u-container-layout-1" src="">
+                <div id="line"></div>
+                  <!-- <script src="plots.js"></script> -->
+                </div>
+              </div>
+              <div class="u-align-right u-container-style u-layout-cell u-right-cell u-shape-rectangle u-size-17 u-size-xs-60 u-layout-cell-2">
+                <div class="u-container-layout u-container-layout-2">
+                  <h2 class="u-text u-text-1">What's the Score?</h2>
+                  <div class="u-palette-1-base u-shape u-shape-rectangle u-shape-1"></div>
+                  <p class="u-text u-text-2">To the left you can see the total amount of points scored by the winning championship teams in each city by sport.</p>
+                  <a href="" class="u-border-2 u-border-white u-btn u-btn-rectangle u-button-style u-none u-btn-1">learn more</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
     
     <footer class="u-align-left u-clearfix u-footer u-grey-80 u-footer" id="sec-e6d1"><div class="u-clearfix u-sheet u-sheet-1"></div></footer>
     <section class="u-backlink u-clearfix u-grey-80">
     </section>
+
+
+                            <!-- Leaflet JS -->
+  <!-- <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+  integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+  crossorigin=""></script> -->
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+                  <!-- API key -->
+                  <script type="text/javascript" src="../static/js/config.js"></script>
+                  <!-- JS -->
+                  <script type="text/javascript" src="../static/js/app.js"></script>
+                    <!-- D3 JavaScript -->
+  <script src="https://d3js.org/d3.v5.min.js"></script>
   </body>
 </html>

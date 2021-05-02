@@ -3,7 +3,7 @@
 // })
 
 function init() {
-    d3.json("../static/js/MLB_json.json").then((data)=> {
+    d3.json("../static/js/MLB.json").then((data)=> {
         // loop through names object and grab all the ids/names and eppend them to demographics dropdown
 
         for (var i = 0; i < 28; i++) {
@@ -35,7 +35,7 @@ function init() {
   };
   
   function demographics(Team){
-    d3.json("../static/js/MLB_json.json").then(function(data) {
+    d3.json("../static/js/MLB.json").then(function(data) {
       // assign variable path to metadata
 
       //   var metadata =  data.metadata;
@@ -65,7 +65,7 @@ function init() {
   
   
   function buildPlot(Team) {
-    d3.json("../static/js/MLB_json.json").then(function(data) {
+    d3.json("../static/js/MLB.json").then(function(data) {
   
       // filter the sample object by id
     // var filteredSample = data.Team.filter(Team => data.Team === Team)[0];
@@ -136,7 +136,7 @@ function init() {
   });}
   
   function gaugePlot(Team){
-    d3.json("../static/js/MLB_json.json").then(function(data) {
+    d3.json("../static/js/MLB.json").then(function(data) {
   
       // find the object that matches the id entered then grab the list with [0] and identify the value of the key with wfreq.
   
