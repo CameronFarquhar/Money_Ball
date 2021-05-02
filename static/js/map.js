@@ -1,36 +1,37 @@
-// d3.json('/api/Visuals').then(data=>{
-//     console.log(data);
-// })
+  var light = L.tileLayer("https://api.mapbox.com/styles/v1/mapbox/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", {
+  attribution: "Map data &copy; <a href=\"https://www.openstreetmap.org/\">OpenStreetMap</a> contributors, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>, Imagery © <a href=\"https://www.mapbox.com/\">Mapbox</a>",
+  maxZoom: 18,
+  id: "light-v10",
+  accessToken: API_KEY
+});
 
-var myMap = L.map("map", {
-    center: [39.8097, -98.5556],
-    zoom: 11
-  });
-  
-  // Adding tile layer
-  L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", {
-    attribution: "© <a href='https://www.mapbox.com/about/maps/'>Mapbox</a> © <a href='http://www.openstreetmap.org/copyright'>OpenStreetMap</a> <strong><a href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a></strong>",
-    tileSize: 512,
-    maxZoom: 4,
-    zoomOffset: -1,
-    id: "mapbox/streets-v11",
-    accessToken: API_KEY
-  }).addTo(myMap);
+var dark = L.tileLayer("https://api.mapbox.com/styles/v1/mapbox/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", {
+  attribution: "Map data &copy; <a href=\"https://www.openstreetmap.org/\">OpenStreetMap</a> contributors, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>, Imagery © <a href=\"https://www.mapbox.com/\">Mapbox</a>",
+  maxZoom: 18,
+  id: "dark-v10",
+  accessToken: API_KEY
+});
+
+var map = L.tileLayer("https://api.mapbox.com/styles/v1/mapbox/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}",{
+  attribution: "Map data &copy; <a href=\"https://www.openstreetmap.org/\">OpenStreetMap</a> contributors, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>, Imagery © <a href=\"https://www.mapbox.com/\">Mapbox</a>",
+  maxZoom: 18,
+  id: 'satellite-v9', // style URL
+  accessToken: API_KEY
+});
 
 
-// d3.json('../static/js/championship.json').then(function(data) {
-//     console.log(data);
-// })
 
 d3.json('../static/js/championship.json').then(function(data) {
   console.log(data.lat[0]);
   console.log(data.City[1]);
   // console.log(data.lat);
 
-    // var data.City = 
+  var winCircles = [];
+
+  console.log(winCircles);
 
 
-  for (var i = 0; i < 50; i++) {
+  for (var i = 0; i < 51; i++) {
     console.log(data.lat[i])
   //  Conditionals for depth color
     var color = "";
@@ -60,6 +61,7 @@ d3.json('../static/js/championship.json').then(function(data) {
     }
 
     // Add circles to map
+    winCircles.push(
     L.circle([data.lat[i], data.lng[i]], {
       fillOpacity: 0.7,
       colorOpacity: 0.7,
@@ -68,8 +70,34 @@ d3.json('../static/js/championship.json').then(function(data) {
       fillColor: color,
       // Adjust radius
       radius: data.total[i] * 20000
-    }).bindPopup("<h2> Location: " + data.City[i] + "</h2> <hr> <h3> Wins: " + data.total[i]).addTo(myMap);
+    })
+    .bindPopup("<h2> Location: " + data.City[i] + "</h2> <hr> <h3> Wins: " + data.total[i])
+    );
   }
+
+  circleLayer = L.layerGroup(winCircles);
+
+  var baseMaps = {
+  Light: light,
+  Dark: dark,
+  Sattellite: map
+  };
+      
+      
+  var overlayMaps = {
+  Championships: circleLayer
+  };
+
+  // Creating map object
+  var myMap = L.map("map", {
+  center: [40.7128, -74.0059],
+  zoom: 3,
+  layers: [light, circleLayer]
+});
+
+L.control.layers(baseMaps, overlayMaps).addTo(myMap);
+
+});
 
 var legend = L.control({ position: "bottomright" });
 
@@ -87,5 +115,3 @@ return div;
 };
 
 legend.addTo(myMap);
-
-});
