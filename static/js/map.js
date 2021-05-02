@@ -24,12 +24,15 @@ var myMap = L.map("map", {
 
 d3.json('../static/js/championship.json').then(function(data) {
   console.log(data.lat[0]);
-  console.log(data.total[1]);
-  console.log(data);
+  console.log(data.City[1]);
+  // console.log(data.lat);
 
-  for (var i = 0; i < data.length; i++) {
+    // var data.City = 
 
-   // Conditionals for depth color
+
+  for (var i = 0; i < 50; i++) {
+    console.log(data.lat[i])
+  //  Conditionals for depth color
     var color = "";
     if (data.total[i] > 50) {
       // color = "red"; 
@@ -55,9 +58,9 @@ d3.json('../static/js/championship.json').then(function(data) {
       // color = "green";
       color = "rgb(0,255,0)";
     }
-  console.log(data.total[1])
+
     // Add circles to map
-    L.circle([data.lat[i], data.lat[i]], {
+    L.circle([data.lat[i], data.lng[i]], {
       fillOpacity: 0.7,
       colorOpacity: 0.7,
       color: "black",
@@ -68,21 +71,21 @@ d3.json('../static/js/championship.json').then(function(data) {
     }).bindPopup("<h2> Location: " + data.City[i] + "</h2> <hr> <h3> Wins: " + data.total[i]).addTo(myMap);
   }
 
-// var legend = L.control({ position: "bottomright" });
+var legend = L.control({ position: "bottomright" });
 
-// legend.onAdd = function(map) {
-// var div = L.DomUtil.create("div", "legend");
-// div.innerHTML += "<h4>Depth</h4>";
-// div.innerHTML += '<i style="background: rgb(0,255,0)"></i><span>-10 - 10</span><br>';
-// div.innerHTML += '<i style="background: rgb(150,255,0)"></i><span>10-30</span><br>';
-// div.innerHTML += '<i style="background: rgb(255,255,0)"></i><span>30-50</span><br>';
-// div.innerHTML += '<i style="background: rgb(200,200,0)"></i><span>50-70</span><br>';
-// div.innerHTML += '<i style="background: rgb(225,100,0)"></i><span>70-90</span><br>';
-// div.innerHTML += '<i style="background: rgb(255,0,0)"></i><span>90+</span><br>';
+legend.onAdd = function(map) {
+var div = L.DomUtil.create("div", "legend");
+div.innerHTML += "<h4>Wins</h4>";
+div.innerHTML += '<i style="background: rgb(0,255,0)"></i><span>0-10</span><br>';
+div.innerHTML += '<i style="background: rgb(150,255,0)"></i><span>10-20</span><br>';
+div.innerHTML += '<i style="background: rgb(255,255,0)"></i><span>20-30</span><br>';
+div.innerHTML += '<i style="background: rgb(200,200,0)"></i><span>30-40</span><br>';
+div.innerHTML += '<i style="background: rgb(225,100,0)"></i><span>40-50</span><br>';
+div.innerHTML += '<i style="background: rgb(255,0,0)"></i><span>50+</span><br>';
 
-// return div;
-// };
+return div;
+};
 
+legend.addTo(myMap);
 
-
-})
+});

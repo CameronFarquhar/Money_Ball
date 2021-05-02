@@ -14,13 +14,6 @@ from config import sqlkey
 
 conn = create_engine(f'postgresql://postgres:{sqlkey}@localhost:5432/Money_Ball_DB').connect()
 
-# reflect an existing database into a new model
-# Base = automap_base()
-# # reflect the tables
-# Base.prepare(engine, reflect=True)
-
-# # Save reference to the table
-# Passenger = Base.classes.nba
 
 #################################################
 # Flask Setup
@@ -39,14 +32,14 @@ def welcome():
 
 @app.route("/api/Visuals")
 def names():
-    results_nba = pd.read_sql_query("SELECT * FROM nba", conn).to_dict()
-    results_nhl = pd.read_sql_query("SELECT * FROM nhl", conn).to_dict()
-    return results_nba, results_nhl
+    results_champion = pd.read_sql_query("SELECT * FROM champion_table", conn).to_dict()
+    # results_nhl = pd.read_sql_query("SELECT * FROM nhl", conn).to_dict()
+    return results_champion
 
 # @app.route("/api/v1.0/Map")
-# def names():
+# def map():
 #     results = pd.read_sql_query("SELECT * FROM champion_table", conn).to_dict()
-#     return results, nfl_results, 
+#     return results
 
 if __name__ == '__main__':
     app.run(debug=True)
