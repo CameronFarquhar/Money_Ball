@@ -13,13 +13,6 @@ function init() {
                     .text(data.Team[i])
                     .property("value");
         }
-        // console.log(data.Team)
-        // data.Team.forEach((name) => {
-        //     d3.select("#selDataset")
-        //     .append("option")
-        //     .text(name)
-        //     .property("value");
-        // });
 
         // apply an ID for the intial plots
         buildPlot(data.Team[0]);
@@ -36,29 +29,28 @@ function init() {
   
   function demographics(Team){
     d3.json("../static/js/MLB.json").then(function(data) {
-      // assign variable path to metadata
-
-      //   var metadata =  data.metadata;
-    //   console.log(metadata);
 
       // tell JS where you want to put the new list of elements
       var panel = d3.select("#sample-metadata");
   
-      // filtered metadata by selected id so you grab only the object that matches the id
-    //   var filteredInput = data.filter(results => results.Team.toString() === Team);
-    //   console.log(filteredInput)
-  
-      // clear out the panel upon new entry
+    for (var i = 0; i < 28; i++) {
+      // loop through data and append specified team info to panel
+      if (Team === data.Team[i]) {
+        panel.append("li").text("City : " + data.City[i]);
+        panel.append("li").text("State : " + data.State[i]);
+        panel.append("li").text("Population: " + data.Population[i]);
+        panel.append("li").text("Median Income $: " + data.Income[i]);
+        panel.append("li").text("Team Revenue: $" + data.Revenue[i]);
+        panel.append("li").text("Total Yearly Points: " + data.Points_For[i]);
+        panel.append("li").text("Points Against: " + data.Points_Against[i]);
+        panel.append("li").text("Season Wins: " + data.Wins[i]);
+        panel.append("li").text("Games Played : " + data.Games[i]);
+        panel.append("li").text("Win Percentage : " + data.Wins_Per[i] + "%");
+        console.log(data.population[i])
+      }
+      // clear the output
       panel.html("");
-  
-      // loop through each key and append them to the panel
-        panel.append("li").text(Team);
-
-    //   Object.entries(data).forEach((key, value)=> {
-    //     panel.append("li").text(key[0] + ": " + value);
-    //     console.log(value)
-    //   });
-
+    }
     }
      );
   }
