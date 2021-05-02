@@ -1,4 +1,4 @@
-// d3.json('/api/Visuals').then(data=>{
-//     console.log(data);
-// })
+d3.json('/api/Visuals').then(data=>{
+    console.log(data);
+})
 
