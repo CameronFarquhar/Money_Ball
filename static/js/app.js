@@ -141,24 +141,24 @@ function init() {
       var data = [
         {
           domain: { x: [0, 1], y: [0, 1] },
-          value: data.Wins_Per[0],
-          title: { text: "Win Percerentage"},
+          value: data.Revenue[0],
+          title: { text: "MLB Team Revenue"},
           type: "indicator",
           mode: "gauge+number",
           gauge: {
-            axis: { range: [null, 1], color: "blue" },
+            axis: { range: [null, 3000000000], color: "blue" },
             bar: { color: "rgb(0,30,110)", thickness: 0.25 },
             steps: [
-              { range: [0, .1], color: "rgba(0, 150, 50, 0.1)"},
-              { range: [.1, .2], color: "rgba(0, 150, 50, 0.2)" },
-              { range: [.2, .3], color: "rgba(0, 150, 50, 0.3)" },
-              { range: [.3, .4], color: "rgba(0, 150, 50, 0.4)" },
-              { range: [.4, .5], color: "rgba(0, 150, 50, 0.5)" },
-              { range: [.5, .6], color: "rgba(0, 150, 50, 0.6)" },
-              { range: [.6, .7], color: "rgba(0, 150, 50, 0.7)" },
-              { range: [.7, .8], color: "rgba(0, 150, 50, 0.8)" },
-              { range: [.8, .9], color: "rgba(0, 150, 50, 0.9)" },
-              { range: [.9, 1], color: "rgba(0, 150, 50, 1)" }
+              { range: [0, 10000000], color: "rgba(0, 150, 50, 0.1)"},
+              { range: [250000000, 500000000], color: "rgba(0, 150, 50, 0.2)" },
+              { range: [500000000, 100000000], color: "rgba(0, 150, 50, 0.3)" },
+              { range: [100000000, 250000000], color: "rgba(0, 150, 50, 0.4)" },
+              { range: [250000000, 500000000], color: "rgba(0, 150, 50, 0.5)" },
+              { range: [500000000, 1000000000], color: "rgba(0, 150, 50, 0.6)" },
+              { range: [1000000000, 1500000000], color: "rgba(0, 150, 50, 0.7)" },
+              { range: [1500000000, 2000000000], color: "rgba(0, 150, 50, 0.8)" },
+              { range: [2000000000, 2500000000], color: "rgba(0, 150, 50, 0.9)" },
+              { range: [2500000000, 3000000000], color: "rgba(0, 150, 50, 1)" }
             ],
             threshold: {
               line: { color: "red", width: 4 },
