@@ -1,0 +1,1353 @@
+﻿date,round,home_team,home_score,away_team,away_score,home_result
+10/3/18,Round 0,Anaheim Ducks,5,San Jose Sharks,2,3
+10/3/18,Round 0,Montreal Canadiens,2,Toronto Maple Leafs,3,-1
+10/3/18,Round 0,Calgary Flames,2,Vancouver Canucks,5,-3
+10/3/18,Round 0,Boston Bruins,0,Washington Capitals,7,-7
+10/4/18,Round 0,Boston Bruins,4,Buffalo Sabres,0,4
+10/4/18,Round 0,New York Islanders,2,Carolina Hurricanes,1,1
+10/4/18,Round 0,Minnesota Wild,1,Colorado Avalanche,4,-3
+10/4/18,Round 0,Arizona Coyotes,0,Dallas Stars,3,-3
+10/4/18,Round 0,Columbus Blue Jackets,3,Detroit Red Wings,2,1
+10/4/18,Round 0,Nashville Predators,3,New York Rangers,2,1
+10/4/18,Round 0,Chicago Blackhawks,4,Ottawa Senators,3,1
+10/4/18,Round 0,Washington Capitals,6,Pittsburgh Penguins,7,-1
+10/4/18,Round 0,Winnipeg Jets,5,St. Louis Blues,1,4
+10/4/18,Round 0,Philadelphia Flyers,5,Vegas Golden Knights,2,3
+10/5/18,Round 0,Carolina Hurricanes,3,Columbus Blue Jackets,1,2
+10/5/18,Round 0,San Jose Sharks,3,Los Angeles Kings,2,1
+10/6/18,Round 0,Anaheim Ducks,1,Arizona Coyotes,0,1
+10/6/18,Round 0,New York Rangers,1,Buffalo Sabres,3,-2
+10/6/18,Round 0,Vancouver Canucks,4,Calgary Flames,7,-3
+10/6/18,Round 0,Philadelphia Flyers,2,Colorado Avalanche,5,-3
+10/6/18,Round 0,Winnipeg Jets,1,Dallas Stars,5,-4
+10/6/18,Round 0,Vegas Golden Knights,2,Minnesota Wild,1,1
+10/6/18,Round 0,Edmonton Oilers,2,New Jersey Devils,5,-3
+10/6/18,Round 0,Nashville Predators,4,New York Islanders,3,1
+10/6/18,Round 0,Montreal Canadiens,5,Pittsburgh Penguins,1,4
+10/6/18,Round 0,Chicago Blackhawks,5,St. Louis Blues,4,1
+10/6/18,Round 0,Florida Panthers,1,Tampa Bay Lightning,2,-1
+10/6/18,Round 0,Ottawa Senators,5,Toronto Maple Leafs,3,2
+10/7/18,Round 0,New York Rangers,5,Carolina Hurricanes,8,-3
+10/7/18,Round 0,Toronto Maple Leafs,7,Chicago Blackhawks,6,1
+10/7/18,Round 0,Detroit Red Wings,2,Los Angeles Kings,4,-2
+10/8/18,Round 0,Detroit Red Wings,2,Anaheim Ducks,3,-1
+10/8/18,Round 0,Ottawa Senators,3,Boston Bruins,6,-3
+10/8/18,Round 0,Vegas Golden Knights,2,Buffalo Sabres,4,-2
+10/8/18,Round 0,San Jose Sharks,0,New York Islanders,4,-4
+10/9/18,Round 0,Vancouver Canucks,3,Carolina Hurricanes,5,-2
+10/9/18,Round 0,Colorado Avalanche,2,Columbus Blue Jackets,5,-3
+10/9/18,Round 0,Toronto Maple Leafs,7,Dallas Stars,4,3
+10/9/18,Round 0,Calgary Flames,3,Nashville Predators,0,3
+10/9/18,Round 0,San Jose Sharks,8,Philadelphia Flyers,2,6
+10/9/18,Round 0,Los Angeles Kings,1,Winnipeg Jets,2,-1
+10/10/18,Round 0,Arizona Coyotes,3,Anaheim Ducks,2,1
+10/10/18,Round 0,Philadelphia Flyers,7,Ottawa Senators,4,3
+10/10/18,Round 0,Vegas Golden Knights,2,Washington Capitals,5,-3
+10/11/18,Round 0,Edmonton Oilers,1,Boston Bruins,4,-3
+10/11/18,Round 0,Colorado Avalanche,6,Buffalo Sabres,1,5
+10/11/18,Round 0,Toronto Maple Leafs,5,Detroit Red Wings,3,2
+10/11/18,Round 0,Columbus Blue Jackets,5,Florida Panthers,4,1
+10/11/18,Round 0,Chicago Blackhawks,3,Minnesota Wild,4,-1
+10/11/18,Round 0,Los Angeles Kings,3,Montreal Canadiens,0,3
+10/11/18,Round 0,Washington Capitals,0,New Jersey Devils,6,-6
+10/11/18,Round 0,Winnipeg Jets,0,Nashville Predators,3,-3
+10/11/18,Round 0,San Jose Sharks,2,New York Rangers,3,-1
+10/11/18,Round 0,Vegas Golden Knights,2,Pittsburgh Penguins,4,-2
+10/11/18,Round 0,Calgary Flames,3,St. Louis Blues,5,-2
+10/11/18,Round 0,Vancouver Canucks,4,Tampa Bay Lightning,1,3
+10/13/18,Round 0,Buffalo Sabres,3,Arizona Coyotes,0,3
+10/13/18,Round 0,Detroit Red Wings,2,Boston Bruins,8,-6
+10/13/18,Round 0,St. Louis Blues,3,Chicago Blackhawks,4,-1
+10/13/18,Round 0,Calgary Flames,3,Colorado Avalanche,2,1
+10/13/18,Round 0,Anaheim Ducks,3,Dallas Stars,5,-2
+10/13/18,Round 0,Vancouver Canucks,3,Florida Panthers,2,1
+10/13/18,Round 0,Carolina Hurricanes,5,Minnesota Wild,4,1
+10/13/18,Round 0,Pittsburgh Penguins,3,Montreal Canadiens,4,-1
+10/13/18,Round 0,New York Islanders,2,Nashville Predators,5,-3
+10/13/18,Round 0,Edmonton Oilers,2,New York Rangers,1,1
+10/13/18,Round 0,Los Angeles Kings,1,Ottawa Senators,5,-4
+10/13/18,Round 0,Vegas Golden Knights,1,Philadelphia Flyers,0,1
+10/13/18,Round 0,Columbus Blue Jackets,2,Tampa Bay Lightning,8,-6
+10/13/18,Round 0,Toronto Maple Leafs,4,Washington Capitals,2,2
+10/14/18,Round 0,San Jose Sharks,2,New Jersey Devils,3,-1
+10/14/18,Round 0,Anaheim Ducks,3,St. Louis Blues,2,1
+10/14/18,Round 0,Carolina Hurricanes,1,Winnipeg Jets,3,-2
+10/15/18,Round 0,Detroit Red Wings,3,Montreal Canadiens,7,-4
+10/15/18,Round 0,Minnesota Wild,2,Nashville Predators,4,-2
+10/15/18,Round 0,Dallas Stars,1,Ottawa Senators,4,-3
+10/15/18,Round 0,Los Angeles Kings,1,Toronto Maple Leafs,4,-3
+10/16/18,Round 0,Arizona Coyotes,1,Minnesota Wild,2,-1
+10/16/18,Round 0,Dallas Stars,0,New Jersey Devils,3,-3
+10/16/18,Round 0,Colorado Avalanche,2,New York Rangers,3,-1
+10/16/18,Round 0,Florida Panthers,5,Philadelphia Flyers,6,-1
+10/16/18,Round 0,Vancouver Canucks,3,Pittsburgh Penguins,2,1
+10/16/18,Round 0,Carolina Hurricanes,2,Tampa Bay Lightning,4,-2
+10/16/18,Round 0,Buffalo Sabres,1,Vegas Golden Knights,4,-3
+10/16/18,Round 0,Edmonton Oilers,5,Winnipeg Jets,4,1
+10/17/18,Round 0,New York Islanders,1,Anaheim Ducks,4,-3
+10/17/18,Round 0,Boston Bruins,2,Calgary Flames,5,-3
+10/17/18,Round 0,St. Louis Blues,2,Montreal Canadiens,3,-1
+10/17/18,Round 0,New York Rangers,3,Washington Capitals,4,-1
+10/18/18,Round 0,Philadelphia Flyers,3,Columbus Blue Jackets,6,-3
+10/18/18,Round 0,Arizona Coyotes,4,Chicago Blackhawks,1,3
+10/18/18,Round 0,Boston Bruins,2,Edmonton Oilers,3,-1
+10/18/18,Round 0,New York Islanders,7,Los Angeles Kings,2,5
+10/18/18,Round 0,Colorado Avalanche,5,New Jersey Devils,3,2
+10/18/18,Round 0,Buffalo Sabres,1,San Jose Sharks,5,-4
+10/18/18,Round 0,Detroit Red Wings,1,Tampa Bay Lightning,3,-2
+10/18/18,Round 0,Pittsburgh Penguins,3,Toronto Maple Leafs,0,3
+10/18/18,Round 0,Vancouver Canucks,1,Winnipeg Jets,4,-3
+10/19/18,Round 0,Nashville Predators,5,Calgary Flames,3,2
+10/19/18,Round 0,Minnesota Wild,3,Dallas Stars,1,2
+10/19/18,Round 0,Florida Panthers,6,Washington Capitals,5,1
+10/20/18,Round 0,Colorado Avalanche,3,Carolina Hurricanes,1,2
+10/20/18,Round 0,Chicago Blackhawks,4,Columbus Blue Jackets,1,3
+10/20/18,Round 0,Nashville Predators,3,Edmonton Oilers,0,3
+10/20/18,Round 0,Detroit Red Wings,4,Florida Panthers,3,1
+10/20/18,Round 0,Buffalo Sabres,5,Los Angeles Kings,1,4
+10/20/18,Round 0,Tampa Bay Lightning,4,Minnesota Wild,5,-1
+10/20/18,Round 0,Montreal Canadiens,3,Ottawa Senators,4,-1
+10/20/18,Round 0,New Jersey Devils,2,Philadelphia Flyers,5,-3
+10/20/18,Round 0,New York Islanders,1,San Jose Sharks,4,-3
+10/20/18,Round 0,St. Louis Blues,4,Toronto Maple Leafs,1,3
+10/20/18,Round 0,Boston Bruins,1,Vancouver Canucks,2,-1
+10/20/18,Round 0,Anaheim Ducks,1,Vegas Golden Knights,3,-2
+10/20/18,Round 0,Arizona Coyotes,3,Winnipeg Jets,5,-2
+10/21/18,Round 0,Buffalo Sabres,4,Anaheim Ducks,2,2
+10/21/18,Round 0,Tampa Bay Lightning,6,Chicago Blackhawks,3,3
+10/21/18,Round 0,Calgary Flames,4,New York Rangers,1,3
+10/22/18,Round 0,Carolina Hurricanes,3,Detroit Red Wings,1,2
+10/22/18,Round 0,Colorado Avalanche,4,Philadelphia Flyers,1,3
+10/22/18,Round 0,Washington Capitals,5,Vancouver Canucks,2,3
+10/22/18,Round 0,St. Louis Blues,4,Winnipeg Jets,5,-1
+10/23/18,Round 0,Arizona Coyotes,4,Columbus Blue Jackets,1,3
+10/23/18,Round 0,Anaheim Ducks,1,Chicago Blackhawks,3,-2
+10/23/18,Round 0,Los Angeles Kings,2,Dallas Stars,4,-2
+10/23/18,Round 0,Pittsburgh Penguins,6,Edmonton Oilers,5,1
+10/23/18,Round 0,Calgary Flames,2,Montreal Canadiens,3,-1
+10/23/18,Round 0,San Jose Sharks,5,Nashville Predators,4,1
+10/23/18,Round 0,Florida Panthers,2,New York Rangers,5,-3
+10/23/18,Round 0,Boston Bruins,4,Ottawa Senators,1,3
+10/24/18,Round 0,Tampa Bay Lightning,1,Colorado Avalanche,0,1
+10/24/18,Round 0,Florida Panthers,3,New York Islanders,2,1
+10/24/18,Round 0,Vancouver Canucks,3,Vegas Golden Knights,2,1
+10/24/18,Round 0,Toronto Maple Leafs,4,Winnipeg Jets,2,2
+10/25/18,Round 0,Vancouver Canucks,1,Arizona Coyotes,4,-3
+10/25/18,Round 0,Philadelphia Flyers,0,Boston Bruins,3,-3
+10/25/18,Round 0,Montreal Canadiens,3,Buffalo Sabres,4,-1
+10/25/18,Round 0,Pittsburgh Penguins,9,Calgary Flames,1,8
+10/25/18,Round 0,New York Rangers,1,Chicago Blackhawks,4,-3
+10/25/18,Round 0,Anaheim Ducks,2,Dallas Stars,5,-3
+10/25/18,Round 0,Washington Capitals,1,Edmonton Oilers,4,-3
+10/25/18,Round 0,Los Angeles Kings,1,Minnesota Wild,4,-3
+10/25/18,Round 0,Nashville Predators,4,New Jersey Devils,3,1
+10/25/18,Round 0,Columbus Blue Jackets,7,St. Louis Blues,4,3
+10/26/18,Round 0,San Jose Sharks,3,Carolina Hurricanes,4,-1
+10/26/18,Round 0,Ottawa Senators,3,Colorado Avalanche,6,-3
+10/26/18,Round 0,Winnipeg Jets,2,Detroit Red Wings,1,1
+10/26/18,Round 0,Tampa Bay Lightning,3,Vegas Golden Knights,2,1
+10/27/18,Round 0,Tampa Bay Lightning,1,Arizona Coyotes,7,-6
+10/27/18,Round 0,Montreal Canadiens,3,Boston Bruins,0,3
+10/27/18,Round 0,Buffalo Sabres,4,Columbus Blue Jackets,5,-1
+10/27/18,Round 0,Washington Capitals,4,Calgary Flames,3,1
+10/27/18,Round 0,Colorado Avalanche,2,Minnesota Wild,3,-1
+10/27/18,Round 0,Florida Panthers,2,New Jersey Devils,3,-1
+10/27/18,Round 0,Edmonton Oilers,5,Nashville Predators,3,2
+10/27/18,Round 0,New York Islanders,6,Philadelphia Flyers,1,5
+10/27/18,Round 0,Chicago Blackhawks,3,St. Louis Blues,7,-4
+10/27/18,Round 0,Winnipeg Jets,2,Toronto Maple Leafs,3,-1
+10/27/18,Round 0,Pittsburgh Penguins,5,Vancouver Canucks,0,5
+10/28/18,Round 0,San Jose Sharks,4,Anaheim Ducks,3,1
+10/28/18,Round 0,New York Islanders,2,Carolina Hurricanes,1,1
+10/28/18,Round 0,Edmonton Oilers,2,Chicago Blackhawks,1,1
+10/28/18,Round 0,Dallas Stars,2,Detroit Red Wings,4,-2
+10/28/18,Round 0,New York Rangers,3,Los Angeles Kings,4,-1
+10/28/18,Round 0,Ottawa Senators,3,Vegas Golden Knights,4,-1
+10/29/18,Round 0,Calgary Flames,3,Toronto Maple Leafs,1,2
+10/29/18,Round 0,Minnesota Wild,2,Vancouver Canucks,5,-3
+10/30/18,Round 0,Philadelphia Flyers,3,Anaheim Ducks,2,1
+10/30/18,Round 0,Ottawa Senators,1,Arizona Coyotes,5,-4
+10/30/18,Round 0,Calgary Flames,2,Buffalo Sabres,1,1
+10/30/18,Round 0,Boston Bruins,3,Carolina Hurricanes,2,1
+10/30/18,Round 0,Detroit Red Wings,5,Columbus Blue Jackets,3,2
+10/30/18,Round 0,Minnesota Wild,4,Edmonton Oilers,3,1
+10/30/18,Round 0,Dallas Stars,4,Montreal Canadiens,1,3
+10/30/18,Round 0,Vegas Golden Knights,1,Nashville Predators,4,-3
+10/30/18,Round 0,New York Islanders,6,Pittsburgh Penguins,3,3
+10/30/18,Round 0,New York Rangers,4,San Jose Sharks,3,1
+10/30/18,Round 0,New Jersey Devils,3,Tampa Bay Lightning,8,-5
+10/31/18,Round 0,Chicago Blackhawks,2,Vancouver Canucks,4,-2
+11/1/18,Round 0,New York Rangers,3,Anaheim Ducks,2,1
+11/1/18,Round 0,Colorado Avalanche,5,Calgary Flames,6,-1
+11/1/18,Round 0,New Jersey Devils,3,Detroit Red Wings,4,-1
+11/1/18,Round 0,Chicago Blackhawks,0,Edmonton Oilers,4,-4
+11/1/18,Round 0,Winnipeg Jets,4,Florida Panthers,2,2
+11/1/18,Round 0,Philadelphia Flyers,5,Los Angeles Kings,2,3
+11/1/18,Round 0,Washington Capitals,4,Montreal Canadiens,6,-2
+11/1/18,Round 0,Pittsburgh Penguins,2,New York Islanders,3,-1
+11/1/18,Round 0,Buffalo Sabres,2,Ottawa Senators,4,-2
+11/1/18,Round 0,Columbus Blue Jackets,4,San Jose Sharks,1,3
+11/1/18,Round 0,Vegas Golden Knights,3,St. Louis Blues,5,-2
+11/1/18,Round 0,Nashville Predators,4,Tampa Bay Lightning,1,3
+11/1/18,Round 0,Dallas Stars,2,Toronto Maple Leafs,1,1
+11/2/18,Round 0,Carolina Hurricanes,3,Arizona Coyotes,4,-1
+11/2/18,Round 0,Colorado Avalanche,6,Vancouver Canucks,7,-1
+11/2/18,Round 0,Florida Panthers,4,Winnipeg Jets,2,2
+11/3/18,Round 0,Ottawa Senators,2,Buffalo Sabres,9,-7
+11/3/18,Round 0,Chicago Blackhawks,3,Calgary Flames,5,-2
+11/3/18,Round 0,Edmonton Oilers,4,Detroit Red Wings,3,1
+11/3/18,Round 0,Columbus Blue Jackets,1,Los Angeles Kings,4,-3
+11/3/18,Round 0,Tampa Bay Lightning,4,Montreal Canadiens,1,3
+11/3/18,Round 0,Boston Bruins,0,Nashville Predators,1,-1
+11/3/18,Round 0,New Jersey Devils,0,New York Islanders,3,-3
+11/3/18,Round 0,Toronto Maple Leafs,5,Pittsburgh Penguins,0,5
+11/3/18,Round 0,Philadelphia Flyers,3,San Jose Sharks,4,-1
+11/3/18,Round 0,Minnesota Wild,5,St. Louis Blues,1,4
+11/3/18,Round 0,Carolina Hurricanes,0,Vegas Golden Knights,3,-3
+11/3/18,Round 0,Dallas Stars,4,Washington Capitals,3,1
+11/4/18,Round 0,Columbus Blue Jackets,2,Anaheim Ducks,3,-1
+11/4/18,Round 0,Buffalo Sabres,1,New York Rangers,3,-2
+11/4/18,Round 0,Tampa Bay Lightning,4,Ottawa Senators,3,1
+11/5/18,Round 0,Philadelphia Flyers,5,Arizona Coyotes,2,3
+11/5/18,Round 0,Dallas Stars,1,Boston Bruins,2,-1
+11/5/18,Round 0,Montreal Canadiens,4,New York Islanders,3,1
+11/5/18,Round 0,New Jersey Devils,5,Pittsburgh Penguins,1,4
+11/5/18,Round 0,Edmonton Oilers,2,Washington Capitals,4,-2
+11/6/18,Round 0,Dallas Stars,1,Columbus Blue Jackets,4,-3
+11/6/18,Round 0,Vancouver Canucks,2,Detroit Red Wings,3,-1
+11/6/18,Round 0,Anaheim Ducks,1,Los Angeles Kings,4,-3
+11/6/18,Round 0,Montreal Canadiens,3,New York Rangers,5,-2
+11/6/18,Round 0,New Jersey Devils,3,Ottawa Senators,7,-4
+11/6/18,Round 0,Minnesota Wild,3,San Jose Sharks,4,-1
+11/6/18,Round 0,Carolina Hurricanes,1,St. Louis Blues,4,-3
+11/6/18,Round 0,Edmonton Oilers,2,Tampa Bay Lightning,5,-3
+11/6/18,Round 0,Vegas Golden Knights,1,Toronto Maple Leafs,3,-2
+11/7/18,Round 0,Calgary Flames,2,Anaheim Ducks,3,-1
+11/7/18,Round 0,Nashville Predators,4,Colorado Avalanche,1,3
+11/7/18,Round 0,Pittsburgh Penguins,1,Washington Capitals,2,-1
+11/8/18,Round 0,Vancouver Canucks,8,Boston Bruins,5,3
+11/8/18,Round 0,Carolina Hurricanes,4,Chicago Blackhawks,3,1
+11/8/18,Round 0,San Jose Sharks,3,Dallas Stars,4,-1
+11/8/18,Round 0,Edmonton Oilers,1,Florida Panthers,4,-3
+11/8/18,Round 0,Minnesota Wild,3,Los Angeles Kings,1,2
+11/8/18,Round 0,Buffalo Sabres,6,Montreal Canadiens,5,1
+11/8/18,Round 0,Vegas Golden Knights,5,Ottawa Senators,3,2
+11/8/18,Round 0,Arizona Coyotes,4,Philadelphia Flyers,5,-1
+11/8/18,Round 0,New York Islanders,2,Tampa Bay Lightning,4,-2
+11/9/18,Round 0,Minnesota Wild,5,Anaheim Ducks,1,4
+11/9/18,Round 0,New York Rangers,2,Detroit Red Wings,3,-1
+11/9/18,Round 0,San Jose Sharks,0,St. Louis Blues,4,-4
+11/9/18,Round 0,New Jersey Devils,1,Toronto Maple Leafs,6,-5
+11/9/18,Round 0,Colorado Avalanche,2,Winnipeg Jets,5,-3
+11/9/18,Round 0,Columbus Blue Jackets,2,Washington Capitals,1,1
+11/10/18,Round 0,Toronto Maple Leafs,1,Boston Bruins,5,-4
+11/10/18,Round 0,Vancouver Canucks,3,Buffalo Sabres,4,-1
+11/10/18,Round 0,Detroit Red Wings,4,Carolina Hurricanes,3,1
+11/10/18,Round 0,New York Rangers,5,Columbus Blue Jackets,4,1
+11/10/18,Round 0,Nashville Predators,5,Dallas Stars,4,1
+11/10/18,Round 0,New York Islanders,2,Florida Panthers,4,-2
+11/10/18,Round 0,Calgary Flames,1,Los Angeles Kings,0,1
+11/10/18,Round 0,Vegas Golden Knights,4,Montreal Canadiens,5,-1
+11/10/18,Round 0,Chicago Blackhawks,0,Philadelphia Flyers,4,-4
+11/10/18,Round 0,Arizona Coyotes,0,Pittsburgh Penguins,4,-4
+11/10/18,Round 0,Ottawa Senators,6,Tampa Bay Lightning,4,2
+11/11/18,Round 0,Vegas Golden Knights,1,Boston Bruins,4,-3
+11/11/18,Round 0,Colorado Avalanche,4,Edmonton Oilers,1,3
+11/11/18,Round 0,Ottawa Senators,1,Florida Panthers,5,-4
+11/11/18,Round 0,Calgary Flames,1,San Jose Sharks,3,-2
+11/11/18,Round 0,Minnesota Wild,3,St. Louis Blues,2,1
+11/11/18,Round 0,New Jersey Devils,2,Winnipeg Jets,5,-3
+11/11/18,Round 0,Arizona Coyotes,4,Washington Capitals,1,3
+11/12/18,Round 0,Nashville Predators,1,Anaheim Ducks,2,-1
+11/12/18,Round 0,Chicago Blackhawks,2,Carolina Hurricanes,3,-1
+11/12/18,Round 0,Columbus Blue Jackets,2,Dallas Stars,1,1
+11/12/18,Round 0,Vancouver Canucks,1,New York Rangers,2,-1
+11/13/18,Round 0,Tampa Bay Lightning,1,Buffalo Sabres,2,-1
+11/13/18,Round 0,Arizona Coyotes,1,Detroit Red Wings,6,-5
+11/13/18,Round 0,Montreal Canadiens,2,Edmonton Oilers,6,-4
+11/13/18,Round 0,Toronto Maple Leafs,5,Los Angeles Kings,1,4
+11/13/18,Round 0,Washington Capitals,5,Minnesota Wild,2,3
+11/13/18,Round 0,Pittsburgh Penguins,2,New Jersey Devils,4,-2
+11/13/18,Round 0,Vancouver Canucks,2,New York Islanders,5,-3
+11/13/18,Round 0,Florida Panthers,2,Philadelphia Flyers,1,1
+11/13/18,Round 0,Nashville Predators,4,San Jose Sharks,5,-1
+11/14/18,Round 0,St. Louis Blues,0,Chicago Blackhawks,1,-1
+11/14/18,Round 0,Boston Bruins,3,Colorado Avalanche,6,-3
+11/14/18,Round 0,Anaheim Ducks,0,Vegas Golden Knights,5,-5
+11/14/18,Round 0,Washington Capitals,1,Winnipeg Jets,3,-2
+11/15/18,Round 0,Nashville Predators,1,Arizona Coyotes,2,-1
+11/15/18,Round 0,Florida Panthers,3,Columbus Blue Jackets,7,-4
+11/15/18,Round 0,Montreal Canadiens,3,Calgary Flames,2,1
+11/15/18,Round 0,Vancouver Canucks,2,Minnesota Wild,6,-4
+11/15/18,Round 0,New York Rangers,5,New York Islanders,7,-2
+11/15/18,Round 0,Detroit Red Wings,1,Ottawa Senators,2,-1
+11/15/18,Round 0,New Jersey Devils,3,Philadelphia Flyers,0,3
+11/15/18,Round 0,Tampa Bay Lightning,4,Pittsburgh Penguins,3,1
+11/15/18,Round 0,Toronto Maple Leafs,5,San Jose Sharks,3,2
+11/16/18,Round 0,Toronto Maple Leafs,2,Anaheim Ducks,1,1
+11/16/18,Round 0,Los Angeles Kings,2,Chicago Blackhawks,1,1
+11/16/18,Round 0,Washington Capitals,3,Colorado Avalanche,2,1
+11/16/18,Round 0,Boston Bruins,0,Dallas Stars,1,-1
+11/16/18,Round 0,St. Louis Blues,4,Vegas Golden Knights,1,3
+11/16/18,Round 0,Buffalo Sabres,2,Winnipeg Jets,1,1
+11/17/18,Round 0,Boston Bruins,2,Arizona Coyotes,1,1
+11/17/18,Round 0,Columbus Blue Jackets,4,Carolina Hurricanes,1,3
+11/17/18,Round 0,Edmonton Oilers,2,Calgary Flames,4,-2
+11/17/18,Round 0,Buffalo Sabres,3,Minnesota Wild,2,1
+11/17/18,Round 0,Detroit Red Wings,3,New Jersey Devils,2,1
+11/17/18,Round 0,Los Angeles Kings,3,Nashville Predators,5,-2
+11/17/18,Round 0,Florida Panthers,2,New York Rangers,4,-2
+11/17/18,Round 0,Pittsburgh Penguins,4,Ottawa Senators,6,-2
+11/17/18,Round 0,Tampa Bay Lightning,6,Philadelphia Flyers,5,1
+11/17/18,Round 0,St. Louis Blues,0,San Jose Sharks,4,-4
+11/17/18,Round 0,Montreal Canadiens,3,Vancouver Canucks,2,1
+11/18/18,Round 0,Colorado Avalanche,4,Anaheim Ducks,3,1
+11/18/18,Round 0,New Jersey Devils,1,Carolina Hurricanes,2,-1
+11/18/18,Round 0,Minnesota Wild,1,Chicago Blackhawks,3,-2
+11/18/18,Round 0,Vegas Golden Knights,6,Edmonton Oilers,3,3
+11/18/18,Round 0,Dallas Stars,6,New York Islanders,2,4
+11/19/18,Round 0,Vegas Golden Knights,2,Calgary Flames,7,-5
+11/19/18,Round 0,Washington Capitals,5,Montreal Canadiens,4,1
+11/19/18,Round 0,Tampa Bay Lightning,2,Nashville Predators,3,-1
+11/19/18,Round 0,Dallas Stars,1,New York Rangers,2,-1
+11/19/18,Round 0,Florida Panthers,7,Ottawa Senators,5,2
+11/19/18,Round 0,Buffalo Sabres,5,Pittsburgh Penguins,4,1
+11/19/18,Round 0,Los Angeles Kings,2,St. Louis Blues,0,2
+11/19/18,Round 0,Columbus Blue Jackets,2,Toronto Maple Leafs,4,-2
+11/19/18,Round 0,Winnipeg Jets,6,Vancouver Canucks,3,3
+11/20/18,Round 0,Edmonton Oilers,4,San Jose Sharks,3,1
+11/21/18,Round 0,Vancouver Canucks,3,Anaheim Ducks,4,-1
+11/21/18,Round 0,Vegas Golden Knights,3,Arizona Coyotes,2,1
+11/21/18,Round 0,Philadelphia Flyers,2,Buffalo Sabres,5,-3
+11/21/18,Round 0,Toronto Maple Leafs,2,Carolina Hurricanes,5,-3
+11/21/18,Round 0,Winnipeg Jets,3,Calgary Flames,6,-3
+11/21/18,Round 0,Boston Bruins,2,Detroit Red Wings,3,-1
+11/21/18,Round 0,Colorado Avalanche,7,Los Angeles Kings,3,4
+11/21/18,Round 0,Ottawa Senators,4,Minnesota Wild,6,-2
+11/21/18,Round 0,Montreal Canadiens,2,New Jersey Devils,5,-3
+11/21/18,Round 0,St. Louis Blues,1,Nashville Predators,4,-3
+11/21/18,Round 0,New York Islanders,0,New York Rangers,5,-5
+11/21/18,Round 0,Dallas Stars,1,Pittsburgh Penguins,5,-4
+11/21/18,Round 0,Florida Panthers,3,Tampa Bay Lightning,7,-4
+11/21/18,Round 0,Chicago Blackhawks,2,Washington Capitals,4,-2
+11/23/18,Round 0,Edmonton Oilers,1,Anaheim Ducks,2,-1
+11/23/18,Round 0,Colorado Avalanche,5,Arizona Coyotes,1,4
+11/23/18,Round 0,Pittsburgh Penguins,1,Boston Bruins,2,-1
+11/23/18,Round 0,Montreal Canadiens,2,Buffalo Sabres,3,-1
+11/23/18,Round 0,Florida Panthers,1,Carolina Hurricanes,4,-3
+11/23/18,Round 0,Toronto Maple Leafs,2,Columbus Blue Jackets,4,-2
+11/23/18,Round 0,Ottawa Senators,4,Dallas Stars,6,-2
+11/23/18,Round 0,Winnipeg Jets,2,Minnesota Wild,4,-2
+11/23/18,Round 0,New York Islanders,4,New Jersey Devils,3,1
+11/23/18,Round 0,New York Rangers,0,Philadelphia Flyers,4,-4
+11/23/18,Round 0,Vancouver Canucks,0,San Jose Sharks,4,-4
+11/23/18,Round 0,Nashville Predators,2,St. Louis Blues,6,-4
+11/23/18,Round 0,Chicago Blackhawks,2,Tampa Bay Lightning,4,-2
+11/23/18,Round 0,Calgary Flames,0,Vegas Golden Knights,2,-2
+11/23/18,Round 0,Detroit Red Wings,1,Washington Capitals,3,-2
+11/24/18,Round 0,Dallas Stars,2,Colorado Avalanche,3,-1
+11/24/18,Round 0,Buffalo Sabres,3,Detroit Red Wings,2,1
+11/24/18,Round 0,Chicago Blackhawks,5,Florida Panthers,4,1
+11/24/18,Round 0,Vancouver Canucks,4,Los Angeles Kings,2,2
+11/24/18,Round 0,Boston Bruins,3,Montreal Canadiens,2,1
+11/24/18,Round 0,Carolina Hurricanes,1,New York Islanders,4,-3
+11/24/18,Round 0,Washington Capitals,5,New York Rangers,3,2
+11/24/18,Round 0,Columbus Blue Jackets,2,Pittsburgh Penguins,4,-2
+11/24/18,Round 0,Winnipeg Jets,8,St. Louis Blues,4,4
+11/24/18,Round 0,Philadelphia Flyers,0,Toronto Maple Leafs,6,-6
+11/24/18,Round 0,San Jose Sharks,0,Vegas Golden Knights,6,-6
+11/25/18,Round 0,Calgary Flames,6,Arizona Coyotes,1,5
+11/25/18,Round 0,Edmonton Oilers,2,Los Angeles Kings,5,-3
+11/25/18,Round 0,Anaheim Ducks,2,Nashville Predators,5,-3
+11/25/18,Round 0,New Jersey Devils,2,Tampa Bay Lightning,5,-3
+11/26/18,Round 0,Columbus Blue Jackets,7,Detroit Red Wings,5,2
+11/26/18,Round 0,New Jersey Devils,3,Florida Panthers,4,-1
+11/26/18,Round 0,Washington Capitals,4,New York Islanders,1,3
+11/26/18,Round 0,Ottawa Senators,2,New York Rangers,4,-2
+11/26/18,Round 0,Boston Bruins,2,Toronto Maple Leafs,4,-2
+11/27/18,Round 0,San Jose Sharks,2,Buffalo Sabres,3,-1
+11/27/18,Round 0,Vegas Golden Knights,8,Chicago Blackhawks,3,5
+11/27/18,Round 0,Dallas Stars,0,Edmonton Oilers,1,-1
+11/27/18,Round 0,Arizona Coyotes,4,Minnesota Wild,3,1
+11/27/18,Round 0,Carolina Hurricanes,2,Montreal Canadiens,1,1
+11/27/18,Round 0,Colorado Avalanche,3,Nashville Predators,2,1
+11/27/18,Round 0,Ottawa Senators,4,Philadelphia Flyers,3,1
+11/27/18,Round 0,Anaheim Ducks,3,Tampa Bay Lightning,1,2
+11/27/18,Round 0,Los Angeles Kings,2,Vancouver Canucks,1,1
+11/27/18,Round 0,Pittsburgh Penguins,4,Winnipeg Jets,3,1
+11/28/18,Round 0,Dallas Stars,4,Calgary Flames,3,1
+11/28/18,Round 0,Pittsburgh Penguins,3,Colorado Avalanche,6,-3
+11/28/18,Round 0,St. Louis Blues,3,Detroit Red Wings,4,-1
+11/28/18,Round 0,Anaheim Ducks,3,Florida Panthers,2,1
+11/28/18,Round 0,San Jose Sharks,3,Toronto Maple Leafs,5,-2
+11/29/18,Round 0,New York Islanders,1,Boston Bruins,2,-1
+11/29/18,Round 0,Minnesota Wild,2,Columbus Blue Jackets,4,-2
+11/29/18,Round 0,Los Angeles Kings,2,Edmonton Oilers,3,-1
+11/29/18,Round 0,Arizona Coyotes,3,Nashville Predators,0,3
+11/29/18,Round 0,New York Rangers,0,Ottawa Senators,3,-3
+11/29/18,Round 0,Buffalo Sabres,4,Tampa Bay Lightning,5,-1
+11/29/18,Round 0,Vegas Golden Knights,4,Vancouver Canucks,3,1
+11/29/18,Round 0,Chicago Blackhawks,5,Winnipeg Jets,6,-1
+11/30/18,Round 0,Anaheim Ducks,2,Carolina Hurricanes,1,1
+11/30/18,Round 0,Los Angeles Kings,1,Calgary Flames,4,-3
+11/30/18,Round 0,St. Louis Blues,3,Colorado Avalanche,2,1
+11/30/18,Round 0,Buffalo Sabres,2,Florida Panthers,3,-1
+11/30/18,Round 0,New Jersey Devils,3,Washington Capitals,6,-3
+12/1/18,Round 0,St. Louis Blues,1,Arizona Coyotes,6,-5
+12/1/18,Round 0,Detroit Red Wings,4,Boston Bruins,2,2
+12/1/18,Round 0,Vegas Golden Knights,1,Edmonton Oilers,2,-1
+12/1/18,Round 0,Tampa Bay Lightning,5,Florida Panthers,4,1
+12/1/18,Round 0,Toronto Maple Leafs,5,Minnesota Wild,3,2
+12/1/18,Round 0,New York Rangers,2,Montreal Canadiens,5,-3
+12/1/18,Round 0,Winnipeg Jets,4,New Jersey Devils,3,1
+12/1/18,Round 0,Chicago Blackhawks,2,Nashville Predators,5,-3
+12/1/18,Round 0,Columbus Blue Jackets,2,New York Islanders,3,-1
+12/1/18,Round 0,San Jose Sharks,2,Ottawa Senators,6,-4
+12/1/18,Round 0,Philadelphia Flyers,4,Pittsburgh Penguins,2,2
+12/1/18,Round 0,Dallas Stars,2,Vancouver Canucks,1,1
+12/2/18,Round 0,Calgary Flames,3,Chicago Blackhawks,2,1
+12/2/18,Round 0,Colorado Avalanche,2,Detroit Red Wings,0,2
+12/2/18,Round 0,Carolina Hurricanes,0,Los Angeles Kings,2,-2
+12/2/18,Round 0,San Jose Sharks,3,Montreal Canadiens,1,2
+12/2/18,Round 0,Winnipeg Jets,4,New York Rangers,3,1
+12/2/18,Round 0,Anaheim Ducks,6,Washington Capitals,5,1
+12/3/18,Round 0,Edmonton Oilers,1,Dallas Stars,4,-3
+12/3/18,Round 0,Tampa Bay Lightning,5,New Jersey Devils,1,4
+12/3/18,Round 0,Buffalo Sabres,1,Nashville Predators,2,-1
+12/4/18,Round 0,Toronto Maple Leafs,4,Buffalo Sabres,3,1
+12/4/18,Round 0,Calgary Flames,9,Columbus Blue Jackets,6,3
+12/4/18,Round 0,Tampa Bay Lightning,6,Detroit Red Wings,5,1
+12/4/18,Round 0,Boston Bruins,0,Florida Panthers,5,-5
+12/4/18,Round 0,Arizona Coyotes,2,Los Angeles Kings,1,1
+12/4/18,Round 0,Ottawa Senators,2,Montreal Canadiens,5,-3
+12/4/18,Round 0,Winnipeg Jets,3,New York Islanders,1,2
+12/4/18,Round 0,Colorado Avalanche,3,Pittsburgh Penguins,6,-3
+12/4/18,Round 0,Minnesota Wild,3,Vancouver Canucks,2,1
+12/4/18,Round 0,Washington Capitals,3,Vegas Golden Knights,5,-2
+12/5/18,Round 0,Chicago Blackhawks,2,Anaheim Ducks,4,-2
+12/5/18,Round 0,Carolina Hurricanes,1,San Jose Sharks,5,-4
+12/5/18,Round 0,Edmonton Oilers,3,St. Louis Blues,2,1
+12/6/18,Round 0,Washington Capitals,4,Arizona Coyotes,2,2
+12/6/18,Round 0,Minnesota Wild,0,Calgary Flames,2,-2
+12/6/18,Round 0,Colorado Avalanche,5,Florida Panthers,2,3
+12/6/18,Round 0,New Jersey Devils,6,Los Angeles Kings,3,3
+12/6/18,Round 0,Montreal Canadiens,5,Ottawa Senators,2,3
+12/6/18,Round 0,Columbus Blue Jackets,4,Philadelphia Flyers,3,1
+12/6/18,Round 0,New York Islanders,2,Pittsburgh Penguins,6,-4
+12/6/18,Round 0,Boston Bruins,2,Tampa Bay Lightning,3,-1
+12/6/18,Round 0,Detroit Red Wings,5,Toronto Maple Leafs,4,1
+12/6/18,Round 0,Nashville Predators,3,Vancouver Canucks,5,-2
+12/6/18,Round 0,Chicago Blackhawks,3,Vegas Golden Knights,4,-1
+12/7/18,Round 0,Carolina Hurricanes,4,Anaheim Ducks,1,3
+12/7/18,Round 0,San Jose Sharks,2,Dallas Stars,3,-1
+12/7/18,Round 0,Minnesota Wild,2,Edmonton Oilers,7,-5
+12/7/18,Round 0,St. Louis Blues,1,Winnipeg Jets,0,1
+12/8/18,Round 0,San Jose Sharks,5,Arizona Coyotes,3,2
+12/8/18,Round 0,Toronto Maple Leafs,3,Boston Bruins,6,-3
+12/8/18,Round 0,Philadelphia Flyers,6,Buffalo Sabres,2,4
+12/8/18,Round 0,Washington Capitals,4,Columbus Blue Jackets,0,4
+12/8/18,Round 0,Nashville Predators,2,Calgary Flames,5,-3
+12/8/18,Round 0,New York Islanders,3,Detroit Red Wings,2,1
+12/8/18,Round 0,New York Rangers,5,Florida Panthers,4,1
+12/8/18,Round 0,Vegas Golden Knights,1,Los Angeles Kings,5,-4
+12/8/18,Round 0,Pittsburgh Penguins,1,Ottawa Senators,2,-1
+12/8/18,Round 0,Colorado Avalanche,1,Tampa Bay Lightning,7,-6
+12/9/18,Round 0,New Jersey Devils,5,Anaheim Ducks,6,-1
+12/9/18,Round 0,Montreal Canadiens,3,Chicago Blackhawks,2,1
+12/9/18,Round 0,Calgary Flames,0,Edmonton Oilers,1,-1
+12/9/18,Round 0,Boston Bruins,2,Ottawa Senators,1,1
+12/9/18,Round 0,Vancouver Canucks,6,St. Louis Blues,1,5
+12/9/18,Round 0,Dallas Stars,2,Vegas Golden Knights,4,-2
+12/9/18,Round 0,Philadelphia Flyers,1,Winnipeg Jets,7,-6
+12/10/18,Round 0,Los Angeles Kings,1,Detroit Red Wings,3,-2
+12/10/18,Round 0,Pittsburgh Penguins,2,New York Islanders,1,1
+12/10/18,Round 0,New Jersey Devils,2,San Jose Sharks,5,-3
+12/10/18,Round 0,New York Rangers,3,Tampa Bay Lightning,6,-3
+12/11/18,Round 0,Arizona Coyotes,3,Boston Bruins,4,-1
+12/11/18,Round 0,Los Angeles Kings,3,Buffalo Sabres,4,-1
+12/11/18,Round 0,Toronto Maple Leafs,4,Carolina Hurricanes,1,3
+12/11/18,Round 0,Vancouver Canucks,3,Columbus Blue Jackets,2,1
+12/11/18,Round 0,Edmonton Oilers,6,Colorado Avalanche,4,2
+12/11/18,Round 0,Montreal Canadiens,1,Minnesota Wild,7,-6
+12/11/18,Round 0,Ottawa Senators,1,Nashville Predators,3,-2
+12/11/18,Round 0,Florida Panthers,3,St. Louis Blues,4,-1
+12/11/18,Round 0,Chicago Blackhawks,3,Winnipeg Jets,6,-3
+12/11/18,Round 0,Detroit Red Wings,2,Washington Capitals,6,-4
+12/12/18,Round 0,Dallas Stars,3,Anaheim Ducks,6,-3
+12/12/18,Round 0,Philadelphia Flyers,5,Calgary Flames,6,-1
+12/12/18,Round 0,Pittsburgh Penguins,3,Chicago Blackhawks,6,-3
+12/12/18,Round 0,Vegas Golden Knights,3,New York Islanders,2,1
+12/13/18,Round 0,Arizona Coyotes,1,Buffalo Sabres,3,-2
+12/13/18,Round 0,Los Angeles Kings,1,Columbus Blue Jackets,4,-3
+12/13/18,Round 0,Florida Panthers,1,Minnesota Wild,5,-4
+12/13/18,Round 0,Carolina Hurricanes,4,Montreal Canadiens,6,-2
+12/13/18,Round 0,Vancouver Canucks,3,Nashville Predators,4,-1
+12/13/18,Round 0,Dallas Stars,2,San Jose Sharks,3,-1
+12/13/18,Round 0,Toronto Maple Leafs,1,Tampa Bay Lightning,4,-3
+12/13/18,Round 0,Edmonton Oilers,4,Winnipeg Jets,5,-1
+12/14/18,Round 0,Washington Capitals,6,Carolina Hurricanes,5,1
+12/14/18,Round 0,Winnipeg Jets,4,Chicago Blackhawks,3,1
+12/14/18,Round 0,Ottawa Senators,4,Detroit Red Wings,2,2
+12/14/18,Round 0,Philadelphia Flyers,1,Edmonton Oilers,4,-3
+12/14/18,Round 0,Vegas Golden Knights,4,New Jersey Devils,5,-1
+12/14/18,Round 0,Arizona Coyotes,4,New York Rangers,3,1
+12/14/18,Round 0,Boston Bruins,3,Pittsburgh Penguins,5,-2
+12/14/18,Round 0,Colorado Avalanche,3,St. Louis Blues,4,-1
+12/15/18,Round 0,Anaheim Ducks,2,Columbus Blue Jackets,1,1
+12/15/18,Round 0,Dallas Stars,4,Colorado Avalanche,6,-2
+12/15/18,Round 0,Toronto Maple Leafs,3,Florida Panthers,4,-1
+12/15/18,Round 0,Calgary Flames,2,Minnesota Wild,1,1
+12/15/18,Round 0,Ottawa Senators,2,Montreal Canadiens,5,-3
+12/15/18,Round 0,New Jersey Devils,1,Nashville Predators,2,-1
+12/15/18,Round 0,Detroit Red Wings,3,New York Islanders,4,-1
+12/15/18,Round 0,Los Angeles Kings,3,Pittsburgh Penguins,4,-1
+12/15/18,Round 0,Philadelphia Flyers,1,Vancouver Canucks,5,-4
+12/15/18,Round 0,Buffalo Sabres,3,Washington Capitals,4,-1
+12/16/18,Round 0,Buffalo Sabres,4,Boston Bruins,2,2
+12/16/18,Round 0,Arizona Coyotes,0,Carolina Hurricanes,3,-3
+12/16/18,Round 0,San Jose Sharks,7,Chicago Blackhawks,3,4
+12/16/18,Round 0,Vegas Golden Knights,4,New York Rangers,3,1
+12/16/18,Round 0,Calgary Flames,7,St. Louis Blues,2,5
+12/16/18,Round 0,Edmonton Oilers,2,Vancouver Canucks,4,-2
+12/16/18,Round 0,Tampa Bay Lightning,4,Winnipeg Jets,5,-1
+12/17/18,Round 0,Vegas Golden Knights,0,Columbus Blue Jackets,1,-1
+12/17/18,Round 0,New York Islanders,4,Colorado Avalanche,1,3
+12/17/18,Round 0,Boston Bruins,4,Montreal Canadiens,0,4
+12/17/18,Round 0,Nashville Predators,3,Ottawa Senators,4,-1
+12/17/18,Round 0,Anaheim Ducks,4,Pittsburgh Penguins,2,2
+12/18/18,Round 0,New York Islanders,3,Arizona Coyotes,1,2
+12/18/18,Round 0,Florida Panthers,5,Buffalo Sabres,2,3
+12/18/18,Round 0,Nashville Predators,1,Chicago Blackhawks,2,-1
+12/18/18,Round 0,Calgary Flames,0,Dallas Stars,2,-2
+12/18/18,Round 0,St. Louis Blues,4,Edmonton Oilers,1,3
+12/18/18,Round 0,Winnipeg Jets,1,Los Angeles Kings,4,-3
+12/18/18,Round 0,San Jose Sharks,4,Minnesota Wild,0,4
+12/18/18,Round 0,Toronto Maple Leafs,7,New Jersey Devils,2,5
+12/18/18,Round 0,Anaheim Ducks,1,New York Rangers,3,-2
+12/18/18,Round 0,Detroit Red Wings,2,Philadelphia Flyers,3,-1
+12/18/18,Round 0,Tampa Bay Lightning,5,Vancouver Canucks,2,3
+12/19/18,Round 0,Montreal Canadiens,1,Colorado Avalanche,2,-1
+12/19/18,Round 0,Pittsburgh Penguins,2,Washington Capitals,1,1
+12/20/18,Round 0,Montreal Canadiens,2,Arizona Coyotes,1,1
+12/20/18,Round 0,Anaheim Ducks,1,Boston Bruins,3,-2
+12/20/18,Round 0,Detroit Red Wings,4,Carolina Hurricanes,1,3
+12/20/18,Round 0,New Jersey Devils,1,Columbus Blue Jackets,2,-1
+12/20/18,Round 0,Tampa Bay Lightning,5,Calgary Flames,4,1
+12/20/18,Round 0,Chicago Blackhawks,5,Dallas Stars,2,3
+12/20/18,Round 0,Nashville Predators,1,Philadelphia Flyers,2,-1
+12/20/18,Round 0,Minnesota Wild,1,Pittsburgh Penguins,2,-1
+12/20/18,Round 0,Winnipeg Jets,5,San Jose Sharks,3,2
+12/20/18,Round 0,Florida Panthers,1,Toronto Maple Leafs,6,-5
+12/20/18,Round 0,St. Louis Blues,1,Vancouver Canucks,5,-4
+12/20/18,Round 0,New York Islanders,2,Vegas Golden Knights,4,-2
+12/21/18,Round 0,Chicago Blackhawks,2,Colorado Avalanche,1,1
+12/21/18,Round 0,Ottawa Senators,2,New Jersey Devils,5,-3
+12/21/18,Round 0,Buffalo Sabres,1,Washington Capitals,2,-1
+12/22/18,Round 0,Colorado Avalanche,4,Arizona Coyotes,6,-2
+12/22/18,Round 0,Nashville Predators,2,Boston Bruins,5,-3
+12/22/18,Round 0,Anaheim Ducks,0,Buffalo Sabres,3,-3
+12/22/18,Round 0,Pittsburgh Penguins,3,Carolina Hurricanes,0,3
+12/22/18,Round 0,St. Louis Blues,3,Calgary Flames,1,2
+12/22/18,Round 0,Florida Panthers,2,Detroit Red Wings,1,1
+12/22/18,Round 0,Tampa Bay Lightning,6,Edmonton Oilers,3,3
+12/22/18,Round 0,Dallas Stars,2,Minnesota Wild,1,1
+12/22/18,Round 0,Washington Capitals,4,Ottawa Senators,0,4
+12/22/18,Round 0,Columbus Blue Jackets,4,Philadelphia Flyers,3,1
+12/22/18,Round 0,Los Angeles Kings,3,San Jose Sharks,2,1
+12/22/18,Round 0,New York Rangers,3,Toronto Maple Leafs,5,-2
+12/22/18,Round 0,Winnipeg Jets,1,Vancouver Canucks,0,1
+12/22/18,Round 0,Montreal Canadiens,4,Vegas Golden Knights,3,1
+12/23/18,Round 0,Boston Bruins,3,Carolina Hurricanes,5,-2
+12/23/18,Round 0,Florida Panthers,6,Chicago Blackhawks,3,3
+12/23/18,Round 0,New York Islanders,3,Dallas Stars,1,2
+12/23/18,Round 0,Columbus Blue Jackets,3,New Jersey Devils,0,3
+12/23/18,Round 0,Philadelphia Flyers,3,New York Rangers,2,1
+12/23/18,Round 0,Arizona Coyotes,4,San Jose Sharks,3,1
+12/23/18,Round 0,Detroit Red Wings,4,Toronto Maple Leafs,5,-1
+12/23/18,Round 0,Los Angeles Kings,4,Vegas Golden Knights,3,1
+12/27/18,Round ,New Jersey Devils,5,Boston Bruins,2,3
+12/27/18,Round ,Minnesota Wild,2,Chicago Blackhawks,5,-3
+12/27/18,Round ,Vancouver Canucks,4,Edmonton Oilers,2,2
+12/27/18,Round ,Arizona Coyotes,1,Los Angeles Kings,2,-1
+12/27/18,Round ,Columbus Blue Jackets,4,New York Rangers,3,1
+12/27/18,Round ,Detroit Red Wings,2,Pittsburgh Penguins,5,-3
+12/27/18,Round ,Anaheim Ducks,2,San Jose Sharks,4,-2
+12/27/18,Round ,Philadelphia Flyers,5,Tampa Bay Lightning,6,-1
+12/27/18,Round ,Colorado Avalanche,1,Vegas Golden Knights,2,-1
+12/27/18,Round ,Calgary Flames,4,Winnipeg Jets,1,3
+12/27/18,Round ,Carolina Hurricanes,1,Washington Capitals,3,-2
+12/27/18,Round 0,Dallas Stars,2,Nashville Predators,0,2
+12/27/18,Round 0,Buffalo Sabres,1,St. Louis Blues,4,-3
+12/28/18,Round ,Toronto Maple Leafs,4,Columbus Blue Jackets,2,2
+12/28/18,Round ,Montreal Canadiens,5,Florida Panthers,3,2
+12/28/18,Round ,Ottawa Senators,3,New York Islanders,6,-3
+12/29/18,Round ,Arizona Coyotes,5,Anaheim Ducks,4,1
+12/29/18,Round ,Boston Bruins,3,Buffalo Sabres,2,1
+12/29/18,Round ,Chicago Blackhawks,3,Colorado Avalanche,2,1
+12/29/18,Round ,Detroit Red Wings,1,Dallas Stars,5,-4
+12/29/18,Round ,San Jose Sharks,7,Edmonton Oilers,4,3
+12/29/18,Round ,Philadelphia Flyers,1,Florida Panthers,2,-1
+12/29/18,Round ,Vegas Golden Knights,4,Los Angeles Kings,1,3
+12/29/18,Round ,New York Rangers,4,Nashville Predators,3,1
+12/29/18,Round ,Washington Capitals,3,Ottawa Senators,2,1
+12/29/18,Round ,Pittsburgh Penguins,6,St. Louis Blues,1,5
+12/29/18,Round ,Montreal Canadiens,5,Tampa Bay Lightning,6,-1
+12/29/18,Round 0,Vancouver Canucks,3,Calgary Flames,2,1
+12/29/18,Round 0,Carolina Hurricanes,0,New Jersey Devils,2,-2
+12/29/18,Round 0,New York Islanders,4,Toronto Maple Leafs,0,4
+12/29/18,Round 0,Minnesota Wild,3,Winnipeg Jets,1,2
+12/30/18,Round 0,Vegas Golden Knights,5,Arizona Coyotes,1,4
+12/31/18,Round 0,Tampa Bay Lightning,2,Anaheim Ducks,1,1
+12/31/18,Round 0,New York Islanders,3,Buffalo Sabres,1,2
+12/31/18,Round 0,Philadelphia Flyers,1,Carolina Hurricanes,3,-2
+12/31/18,Round 0,Ottawa Senators,3,Columbus Blue Jackets,6,-3
+12/31/18,Round 0,San Jose Sharks,5,Calgary Flames,8,-3
+12/31/18,Round 0,Los Angeles Kings,3,Colorado Avalanche,2,1
+12/31/18,Round 0,Montreal Canadiens,3,Dallas Stars,2,1
+12/31/18,Round 0,Florida Panthers,4,Detroit Red Wings,3,1
+12/31/18,Round 0,Winnipeg Jets,4,Edmonton Oilers,3,1
+12/31/18,Round 0,Pittsburgh Penguins,3,Minnesota Wild,2,1
+12/31/18,Round 0,Vancouver Canucks,0,New Jersey Devils,4,-4
+12/31/18,Round 0,New York Rangers,2,St. Louis Blues,1,1
+12/31/18,Round 0,Nashville Predators,6,Washington Capitals,3,3
+1/1/19,Round 0,Boston Bruins,4,Chicago Blackhawks,2,2
+1/1/19,Round 0,Philadelphia Flyers,0,Nashville Predators,4,-4
+1/1/19,Round 0,Los Angeles Kings,0,Vegas Golden Knights,2,-2
+1/2/19,Round ,New Jersey Devils,4,Dallas Stars,5,-1
+1/2/19,Round 0,Edmonton Oilers,3,Arizona Coyotes,1,2
+1/2/19,Round 0,San Jose Sharks,5,Colorado Avalanche,4,1
+1/2/19,Round 0,Calgary Flames,5,Detroit Red Wings,3,2
+1/2/19,Round 0,Pittsburgh Penguins,7,New York Rangers,2,5
+1/2/19,Round 0,Vancouver Canucks,4,Ottawa Senators,3,1
+1/3/19,Round ,Calgary Flames,4,Boston Bruins,6,-2
+1/3/19,Round ,Florida Panthers,3,Buffalo Sabres,4,-1
+1/3/19,Round ,Tampa Bay Lightning,6,Los Angeles Kings,2,4
+1/3/19,Round ,Carolina Hurricanes,5,Philadelphia Flyers,3,2
+1/3/19,Round 0,Vancouver Canucks,0,Montreal Canadiens,2,-2
+1/3/19,Round 0,Chicago Blackhawks,2,New York Islanders,3,-1
+1/3/19,Round 0,Washington Capitals,2,St. Louis Blues,5,-3
+1/3/19,Round 0,Minnesota Wild,4,Toronto Maple Leafs,3,1
+1/4/19,Round ,Vegas Golden Knights,3,Anaheim Ducks,2,1
+1/4/19,Round ,New Jersey Devils,3,Arizona Coyotes,2,1
+1/4/19,Round ,Columbus Blue Jackets,2,Carolina Hurricanes,4,-2
+1/4/19,Round ,New York Rangers,1,Colorado Avalanche,6,-5
+1/4/19,Round ,Washington Capitals,1,Dallas Stars,2,-1
+1/4/19,Round ,Nashville Predators,3,Detroit Red Wings,4,-1
+1/4/19,Round 0,Winnipeg Jets,0,Pittsburgh Penguins,4,-4
+1/5/19,Round ,Buffalo Sabres,1,Boston Bruins,2,-1
+1/5/19,Round ,Columbus Blue Jackets,4,Florida Panthers,3,1
+1/5/19,Round ,Nashville Predators,4,Montreal Canadiens,1,3
+1/5/19,Round ,Minnesota Wild,4,Ottawa Senators,3,1
+1/5/19,Round ,Tampa Bay Lightning,2,San Jose Sharks,5,-3
+1/5/19,Round ,New York Islanders,4,St. Louis Blues,3,1
+1/5/19,Round 0,Edmonton Oilers,0,Los Angeles Kings,4,-4
+1/5/19,Round 0,Calgary Flames,3,Philadelphia Flyers,2,1
+1/5/19,Round 0,Vancouver Canucks,0,Toronto Maple Leafs,5,-5
+1/6/19,Round ,Washington Capitals,3,Detroit Red Wings,2,1
+1/6/19,Round ,Carolina Hurricanes,5,Ottawa Senators,4,1
+1/6/19,Round ,Chicago Blackhawks,5,Pittsburgh Penguins,3,2
+1/6/19,Round ,New Jersey Devils,2,Vegas Golden Knights,3,-1
+1/6/19,Round ,Dallas Stars,1,Winnipeg Jets,5,-4
+1/6/19,Round 0,Edmonton Oilers,4,Anaheim Ducks,0,4
+1/6/19,Round 0,New York Rangers,0,Arizona Coyotes,5,-5
+1/7/19,Round ,Calgary Flames,4,Chicago Blackhawks,3,1
+1/7/19,Round ,Los Angeles Kings,1,San Jose Sharks,3,-2
+1/7/19,Round 0,Minnesota Wild,1,Montreal Canadiens,0,1
+1/7/19,Round 0,St. Louis Blues,3,Philadelphia Flyers,0,3
+1/7/19,Round 0,Nashville Predators,4,Toronto Maple Leafs,0,4
+1/8/19,Round ,New Jersey Devils,1,Buffalo Sabres,5,-4
+1/8/19,Round ,Montreal Canadiens,3,Detroit Red Wings,2,1
+1/8/19,Round ,Carolina Hurricanes,4,New York Islanders,3,1
+1/8/19,Round ,Florida Panthers,1,Pittsburgh Penguins,5,-4
+1/8/19,Round ,Edmonton Oilers,2,San Jose Sharks,7,-5
+1/8/19,Round ,Dallas Stars,3,St. Louis Blues,1,2
+1/8/19,Round ,New York Rangers,2,Vegas Golden Knights,4,-2
+1/8/19,Round ,Colorado Avalanche,4,Winnipeg Jets,7,-3
+1/8/19,Round ,Philadelphia Flyers,3,Washington Capitals,5,-2
+1/8/19,Round 0,Minnesota Wild,0,Boston Bruins,4,-4
+1/8/19,Round 0,Columbus Blue Jackets,0,Tampa Bay Lightning,4,-4
+1/9/19,Round ,Ottawa Senators,2,Anaheim Ducks,1,1
+1/9/19,Round ,Colorado Avalanche,3,Calgary Flames,5,-2
+1/9/19,Round ,Nashville Predators,4,Chicago Blackhawks,3,1
+1/10/19,Round ,Washington Capitals,4,Boston Bruins,2,2
+1/10/19,Round ,Nashville Predators,3,Columbus Blue Jackets,4,-1
+1/10/19,Round ,Florida Panthers,3,Edmonton Oilers,4,-1
+1/10/19,Round ,Ottawa Senators,4,Los Angeles Kings,1,3
+1/10/19,Round ,Winnipeg Jets,2,Minnesota Wild,3,-1
+1/10/19,Round ,New York Islanders,4,New York Rangers,3,1
+1/10/19,Round ,Montreal Canadiens,1,St. Louis Blues,4,-3
+1/10/19,Round ,Arizona Coyotes,4,Vancouver Canucks,3,1
+1/10/19,Round ,San Jose Sharks,3,Vegas Golden Knights,2,1
+1/10/19,Round 0,Toronto Maple Leafs,4,New Jersey Devils,2,2
+1/10/19,Round 0,Dallas Stars,1,Philadelphia Flyers,2,-1
+1/10/19,Round 0,Carolina Hurricanes,1,Tampa Bay Lightning,3,-2
+1/11/19,Round 0,Pittsburgh Penguins,7,Anaheim Ducks,4,3
+1/11/19,Round 0,Buffalo Sabres,3,Carolina Hurricanes,4,-1
+1/11/19,Round 0,Florida Panthers,3,Calgary Flames,4,-1
+1/11/19,Round 0,Detroit Red Wings,2,Winnipeg Jets,4,-2
+1/12/19,Round ,Tampa Bay Lightning,5,Buffalo Sabres,3,2
+1/12/19,Round ,Vegas Golden Knights,4,Chicago Blackhawks,3,1
+1/12/19,Round ,St. Louis Blues,3,Dallas Stars,1,2
+1/12/19,Round ,Arizona Coyotes,3,Edmonton Oilers,2,1
+1/12/19,Round ,Pittsburgh Penguins,2,Los Angeles Kings,5,-3
+1/12/19,Round ,Detroit Red Wings,5,Minnesota Wild,2,3
+1/12/19,Round ,Philadelphia Flyers,2,New Jersey Devils,3,-1
+1/12/19,Round ,New York Rangers,2,New York Islanders,1,1
+1/12/19,Round ,Ottawa Senators,1,San Jose Sharks,4,-3
+1/12/19,Round ,Boston Bruins,3,Toronto Maple Leafs,2,1
+1/12/19,Round ,Columbus Blue Jackets,2,Washington Capitals,1,1
+1/12/19,Round 0,Colorado Avalanche,0,Montreal Canadiens,3,-3
+1/13/19,Round ,Nashville Predators,3,Carolina Hurricanes,6,-3
+1/13/19,Round ,New York Rangers,5,Columbus Blue Jackets,7,-2
+1/13/19,Round ,Arizona Coyotes,1,Calgary Flames,7,-6
+1/13/19,Round ,Tampa Bay Lightning,1,New York Islanders,5,-4
+1/13/19,Round ,Florida Panthers,1,Vancouver Canucks,5,-4
+1/13/19,Round ,Anaheim Ducks,3,Winnipeg Jets,4,-1
+1/14/19,Round ,Montreal Canadiens,3,Boston Bruins,2,1
+1/14/19,Round ,Buffalo Sabres,2,Edmonton Oilers,7,-5
+1/14/19,Round ,Chicago Blackhawks,5,New Jersey Devils,8,-3
+1/14/19,Round ,Minnesota Wild,4,Philadelphia Flyers,7,-3
+1/14/19,Round ,Colorado Avalanche,6,Toronto Maple Leafs,3,3
+1/14/19,Round ,St. Louis Blues,4,Washington Capitals,1,3
+1/15/19,Round ,New Jersey Devils,1,Columbus Blue Jackets,4,-3
+1/15/19,Round ,Anaheim Ducks,1,Detroit Red Wings,3,-2
+1/15/19,Round ,Los Angeles Kings,2,Minnesota Wild,3,-1
+1/15/19,Round ,Florida Panthers,1,Montreal Canadiens,5,-4
+1/15/19,Round ,Washington Capitals,2,Nashville Predators,7,-5
+1/15/19,Round ,St. Louis Blues,1,New York Islanders,2,-1
+1/15/19,Round ,Carolina Hurricanes,2,New York Rangers,6,-4
+1/15/19,Round ,Pittsburgh Penguins,2,San Jose Sharks,5,-3
+1/15/19,Round ,Vegas Golden Knights,1,Winnipeg Jets,4,-3
+1/15/19,Round 0,Tampa Bay Lightning,2,Dallas Stars,0,2
+1/16/19,Round ,San Jose Sharks,3,Arizona Coyotes,6,-3
+1/16/19,Round ,Buffalo Sabres,4,Calgary Flames,3,1
+1/16/19,Round ,Colorado Avalanche,2,Ottawa Senators,5,-3
+1/16/19,Round ,Boston Bruins,3,Philadelphia Flyers,4,-1
+1/16/19,Round ,Edmonton Oilers,3,Vancouver Canucks,2,1
+1/17/19,Round ,St. Louis Blues,2,Boston Bruins,5,-3
+1/17/19,Round ,Los Angeles Kings,2,Dallas Stars,1,1
+1/17/19,Round ,Winnipeg Jets,5,Nashville Predators,1,4
+1/17/19,Round ,New Jersey Devils,1,New York Islanders,4,-3
+1/17/19,Round ,Chicago Blackhawks,3,New York Rangers,4,-1
+1/17/19,Round ,Toronto Maple Leafs,4,Tampa Bay Lightning,2,2
+1/17/19,Round 0,Anaheim Ducks,3,Minnesota Wild,0,3
+1/18/19,Round ,Pittsburgh Penguins,3,Arizona Coyotes,2,1
+1/18/19,Round ,Ottawa Senators,4,Carolina Hurricanes,1,3
+1/18/19,Round ,Montreal Canadiens,4,Columbus Blue Jackets,1,3
+1/18/19,Round ,Detroit Red Wings,4,Calgary Flames,6,-2
+1/18/19,Round ,Toronto Maple Leafs,1,Florida Panthers,3,-2
+1/18/19,Round ,Buffalo Sabres,3,Vancouver Canucks,4,-1
+1/18/19,Round 0,New York Islanders,2,Washington Capitals,0,2
+1/19/19,Round ,New York Rangers,3,Boston Bruins,2,1
+1/19/19,Round ,Los Angeles Kings,1,Colorado Avalanche,7,-6
+1/19/19,Round ,Winnipeg Jets,2,Dallas Stars,4,-2
+1/19/19,Round ,Calgary Flames,5,Edmonton Oilers,2,3
+1/19/19,Round ,Columbus Blue Jackets,1,Minnesota Wild,2,-1
+1/19/19,Round ,Philadelphia Flyers,5,Montreal Canadiens,2,3
+1/19/19,Round ,Anaheim Ducks,3,New Jersey Devils,2,1
+1/19/19,Round ,Florida Panthers,4,Nashville Predators,2,2
+1/19/19,Round ,Ottawa Senators,2,St. Louis Blues,3,-1
+1/19/19,Round ,San Jose Sharks,3,Tampa Bay Lightning,6,-3
+1/19/19,Round ,Pittsburgh Penguins,3,Vegas Golden Knights,7,-4
+1/20/19,Round ,Washington Capitals,5,Chicago Blackhawks,8,-3
+1/20/19,Round ,Carolina Hurricanes,7,Edmonton Oilers,4,3
+1/20/19,Round ,Arizona Coyotes,4,Toronto Maple Leafs,2,2
+1/20/19,Round ,Detroit Red Wings,2,Vancouver Canucks,3,-1
+1/20/19,Round 0,Anaheim Ducks,0,New York Islanders,3,-3
+1/21/19,Round ,Nashville Predators,4,Colorado Avalanche,1,3
+1/21/19,Round ,St. Louis Blues,3,Los Angeles Kings,4,-1
+1/21/19,Round ,Minnesota Wild,4,Vegas Golden Knights,2,2
+1/22/19,Round ,Carolina Hurricanes,2,Calgary Flames,3,-1
+1/22/19,Round ,New York Islanders,2,Chicago Blackhawks,3,-1
+1/22/19,Round ,Detroit Red Wings,3,Edmonton Oilers,2,1
+1/22/19,Round ,Arizona Coyotes,3,Ottawa Senators,2,1
+1/22/19,Round ,San Jose Sharks,7,Washington Capitals,6,1
+1/22/19,Round 0,San Jose Sharks,2,Florida Panthers,6,-4
+1/23/19,Round ,St. Louis Blues,5,Anaheim Ducks,1,4
+1/23/19,Round ,Carolina Hurricanes,5,Vancouver Canucks,2,3
+1/23/19,Round ,Nashville Predators,2,Vegas Golden Knights,1,1
+1/23/19,Round 0,Minnesota Wild,5,Colorado Avalanche,2,3
+1/23/19,Round 0,Arizona Coyotes,1,Montreal Canadiens,2,-1
+1/23/19,Round 0,Washington Capitals,3,Toronto Maple Leafs,6,-3
+1/28/19,Round ,Winnipeg Jets,1,Philadelphia Flyers,3,-2
+1/28/19,Round ,New Jersey Devils,6,Pittsburgh Penguins,3,3
+1/30/19,Round 0,Winnipeg Jets,4,Boston Bruins,3,1
+1/30/19,Round 0,Buffalo Sabres,5,Columbus Blue Jackets,4,1
+1/30/19,Round 0,Philadelphia Flyers,1,New York Rangers,0,1
+1/31/19,Round ,Philadelphia Flyers,3,Boston Bruins,2,1
+1/31/19,Round ,New York Rangers,4,New Jersey Devils,3,1
+1/31/19,Round ,Columbus Blue Jackets,3,Winnipeg Jets,4,-1
+1/31/19,Round 0,Buffalo Sabres,0,Dallas Stars,1,-1
+1/31/19,Round 0,Tampa Bay Lightning,2,Pittsburgh Penguins,4,-2
+2/2/19,Round 0,Chicago Blackhawks,7,Buffalo Sabres,3,4
+2/2/19,Round 0,Vegas Golden Knights,2,Carolina Hurricanes,5,-3
+2/2/19,Round 0,Minnesota Wild,1,Dallas Stars,3,-2
+2/2/19,Round 0,Toronto Maple Leafs,2,Detroit Red Wings,3,-1
+2/2/19,Round 0,Nashville Predators,4,Florida Panthers,1,3
+2/2/19,Round 0,Tampa Bay Lightning,1,New York Islanders,0,1
+2/2/19,Round 0,Ottawa Senators,3,Pittsburgh Penguins,5,-2
+2/2/19,Round 0,Calgary Flames,3,Washington Capitals,4,-1
+2/2/19,Round 0,New Jersey Devils,3,Montreal Canadiens,2,1
+2/2/19,Round 0,Edmonton Oilers,4,Philadelphia Flyers,5,-1
+2/3/19,Round 0,St. Louis Blues,4,Columbus Blue Jackets,2,2
+2/3/19,Round 0,Vancouver Canucks,5,Colorado Avalanche,1,4
+2/3/19,Round 0,Vegas Golden Knights,1,Florida Panthers,3,-2
+2/3/19,Round 0,Chicago Blackhawks,4,Minnesota Wild,3,1
+2/3/19,Round 0,Dallas Stars,3,Nashville Predators,1,2
+2/3/19,Round 0,Los Angeles Kings,2,New York Islanders,4,-2
+2/3/19,Round 0,Tampa Bay Lightning,3,New York Rangers,2,1
+2/3/19,Round 0,Detroit Red Wings,2,Ottawa Senators,0,2
+2/3/19,Round 0,Arizona Coyotes,2,San Jose Sharks,3,-1
+2/3/19,Round 0,Pittsburgh Penguins,2,Toronto Maple Leafs,3,-1
+2/3/19,Round 0,Anaheim Ducks,3,Winnipeg Jets,9,-6
+2/3/19,Round 0,Calgary Flames,4,Carolina Hurricanes,3,1
+2/3/19,Round 0,Edmonton Oilers,3,Montreal Canadiens,4,-1
+2/3/19,Round 0,Boston Bruins,1,Washington Capitals,0,1
+2/5/19,Round 0,Arizona Coyotes,4,Dallas Stars,5,-1
+2/5/19,Round 0,Los Angeles Kings,4,New York Rangers,3,1
+2/5/19,Round 0,Vancouver Canucks,1,Philadelphia Flyers,2,-1
+2/5/19,Round 0,Anaheim Ducks,1,Toronto Maple Leafs,6,-5
+2/6/19,Round 0,New York Islanders,1,Boston Bruins,3,-2
+2/6/19,Round 0,Minnesota Wild,4,Buffalo Sabres,5,-1
+2/6/19,Round 0,Columbus Blue Jackets,6,Colorado Avalanche,3,3
+2/6/19,Round 0,Chicago Blackhawks,6,Edmonton Oilers,2,4
+2/6/19,Round 0,St. Louis Blues,3,Florida Panthers,2,1
+2/6/19,Round 0,Anaheim Ducks,1,Montreal Canadiens,4,-3
+2/6/19,Round 0,Los Angeles Kings,5,New Jersey Devils,1,4
+2/6/19,Round 0,Arizona Coyotes,2,Nashville Predators,5,-3
+2/6/19,Round 0,Carolina Hurricanes,4,Pittsburgh Penguins,0,4
+2/6/19,Round 0,Vegas Golden Knights,3,Tampa Bay Lightning,2,1
+2/6/19,Round 0,San Jose Sharks,3,Winnipeg Jets,2,1
+2/6/19,Round 0,Vancouver Canucks,2,Washington Capitals,3,-1
+2/7/19,Round 0,Boston Bruins,3,New York Rangers,4,-1
+2/7/19,Round 0,Ottawa Senators,4,Toronto Maple Leafs,5,-1
+2/8/19,Round 0,Columbus Blue Jackets,4,Arizona Coyotes,2,2
+2/8/19,Round 0,Carolina Hurricanes,6,Buffalo Sabres,5,1
+2/8/19,Round 0,San Jose Sharks,5,Calgary Flames,2,3
+2/8/19,Round 0,Vancouver Canucks,3,Chicago Blackhawks,4,-1
+2/8/19,Round 0,Vegas Golden Knights,4,Detroit Red Wings,3,1
+2/8/19,Round 0,Pittsburgh Penguins,2,Florida Panthers,3,-1
+2/8/19,Round 0,Edmonton Oilers,4,Minnesota Wild,1,3
+2/8/19,Round 0,Winnipeg Jets,2,Montreal Canadiens,5,-3
+2/8/19,Round 0,New York Islanders,2,New Jersey Devils,1,1
+2/8/19,Round 0,Dallas Stars,2,Nashville Predators,3,-1
+2/8/19,Round 0,Anaheim Ducks,0,Ottawa Senators,4,-4
+2/8/19,Round 0,Los Angeles Kings,3,Philadelphia Flyers,2,1
+2/8/19,Round 0,St. Louis Blues,1,Tampa Bay Lightning,0,1
+2/8/19,Round 0,Colorado Avalanche,3,Washington Capitals,4,-1
+2/8/19,Round 0,Carolina Hurricanes,1,New York Rangers,2,-1
+2/9/19,Round 0,Dallas Stars,2,Arizona Coyotes,3,-1
+2/9/19,Round 0,Los Angeles Kings,4,Boston Bruins,5,-1
+2/9/19,Round 0,Detroit Red Wings,1,Buffalo Sabres,3,-2
+2/9/19,Round 0,Minnesota Wild,4,New Jersey Devils,2,2
+2/9/19,Round 0,Colorado Avalanche,3,New York Islanders,4,-1
+2/9/19,Round 0,Winnipeg Jets,2,Ottawa Senators,5,-3
+2/9/19,Round 0,Anaheim Ducks,2,Philadelphia Flyers,6,-4
+2/9/19,Round 0,Nashville Predators,2,St. Louis Blues,3,-1
+2/10/19,Round ,Minnesota Wild,1,New York Islanders,2,-1
+2/10/19,Round 0,San Jose Sharks,5,Edmonton Oilers,2,3
+2/10/19,Round 0,Toronto Maple Leafs,4,Montreal Canadiens,3,1
+2/10/19,Round 0,Pittsburgh Penguins,4,Tampa Bay Lightning,5,-1
+2/10/19,Round 0,Calgary Flames,3,Vancouver Canucks,4,-1
+2/10/19,Round 0,Columbus Blue Jackets,4,Vegas Golden Knights,3,1
+2/10/19,Round 0,Florida Panthers,5,Washington Capitals,4,1
+2/10/19,Round 0,Colorado Avalanche,1,Boston Bruins,2,-1
+2/10/19,Round 0,Winnipeg Jets,3,Buffalo Sabres,1,2
+2/10/19,Round 0,Detroit Red Wings,2,Chicago Blackhawks,5,-3
+2/10/19,Round 0,Tampa Bay Lightning,5,Florida Panthers,2,3
+2/10/19,Round 0,Carolina Hurricanes,2,New Jersey Devils,3,-1
+2/10/19,Round 0,St. Louis Blues,5,Nashville Predators,4,1
+2/11/19,Round 0,Toronto Maple Leafs,1,New York Rangers,4,-3
+2/12/19,Round 0,Pittsburgh Penguins,4,Philadelphia Flyers,1,3
+2/12/19,Round 0,San Jose Sharks,7,Vancouver Canucks,2,5
+2/12/19,Round 0,Los Angeles Kings,4,Washington Capitals,6,-2
+2/13/19,Round 0,Chicago Blackhawks,3,Boston Bruins,6,-3
+2/13/19,Round 0,New York Islanders,1,Buffalo Sabres,3,-2
+2/13/19,Round 0,Washington Capitals,0,Columbus Blue Jackets,3,-3
+2/13/19,Round 0,Toronto Maple Leafs,5,Colorado Avalanche,2,3
+2/13/19,Round 0,Dallas Stars,3,Florida Panthers,0,3
+2/13/19,Round 0,Philadelphia Flyers,4,Minnesota Wild,5,-1
+2/13/19,Round 0,Detroit Red Wings,3,Nashville Predators,2,1
+2/13/19,Round 0,Carolina Hurricanes,4,Ottawa Senators,1,3
+2/13/19,Round 0,New Jersey Devils,3,St. Louis Blues,8,-5
+2/13/19,Round 0,Calgary Flames,3,Tampa Bay Lightning,6,-3
+2/13/19,Round 0,Arizona Coyotes,5,Vegas Golden Knights,2,3
+2/13/19,Round 0,New York Rangers,3,Winnipeg Jets,4,-1
+2/13/19,Round 0,Vancouver Canucks,0,Anaheim Ducks,1,-1
+2/14/19,Round ,New Jersey Devils,2,Chicago Blackhawks,5,-3
+2/14/19,Round ,Vancouver Canucks,4,Los Angeles Kings,3,1
+2/14/19,Round ,Washington Capitals,5,San Jose Sharks,1,4
+2/14/19,Round ,Toronto Maple Leafs,6,Vegas Golden Knights,3,3
+2/14/19,Round ,Colorado Avalanche,4,Winnipeg Jets,1,3
+2/14/19,Round 0,Edmonton Oilers,1,Pittsburgh Penguins,3,-2
+2/14/19,Round 0,St. Louis Blues,4,Arizona Coyotes,0,4
+2/15/19,Round 0,New York Islanders,3,Columbus Blue Jackets,0,3
+2/15/19,Round 0,Ottawa Senators,2,Detroit Red Wings,3,-1
+2/15/19,Round 0,Calgary Flames,2,Florida Panthers,3,-1
+2/15/19,Round 0,Montreal Canadiens,1,Nashville Predators,3,-2
+2/15/19,Round 0,Dallas Stars,0,Tampa Bay Lightning,6,-6
+2/15/19,Round 0,Boston Bruins,3,Anaheim Ducks,0,3
+2/16/19,Round ,Columbus Blue Jackets,5,Chicago Blackhawks,2,3
+2/16/19,Round ,Boston Bruins,4,Los Angeles Kings,2,2
+2/16/19,Round ,Edmonton Oilers,2,New York Islanders,5,-3
+2/16/19,Round ,Vancouver Canucks,2,San Jose Sharks,3,-1
+2/16/19,Round ,Nashville Predators,1,Vegas Golden Knights,5,-4
+2/16/19,Round ,Ottawa Senators,4,Winnipeg Jets,3,1
+2/16/19,Round 0,New York Rangers,6,Buffalo Sabres,2,4
+2/16/19,Round 0,Edmonton Oilers,1,Carolina Hurricanes,3,-2
+2/16/19,Round 0,New Jersey Devils,5,Minnesota Wild,4,1
+2/16/19,Round 0,Toronto Maple Leafs,0,Arizona Coyotes,2,-2
+2/16/19,Round 0,Dallas Stars,0,Carolina Hurricanes,3,-3
+2/16/19,Round 0,St. Louis Blues,3,Colorado Avalanche,0,3
+2/16/19,Round 0,Detroit Red Wings,5,Philadelphia Flyers,6,-1
+2/16/19,Round 0,Calgary Flames,5,Pittsburgh Penguins,4,1
+2/16/19,Round 0,Montreal Canadiens,0,Tampa Bay Lightning,3,-3
+2/17/19,Round 0,Philadelphia Flyers,3,Detroit Red Wings,1,2
+2/17/19,Round 0,St. Louis Blues,4,Minnesota Wild,0,4
+2/17/19,Round 0,Buffalo Sabres,1,New Jersey Devils,4,-3
+2/17/19,Round 0,New York Rangers,5,Pittsburgh Penguins,6,-1
+2/18/19,Round 0,Washington Capitals,2,Anaheim Ducks,5,-3
+2/18/19,Round 0,Montreal Canadiens,3,Florida Panthers,6,-3
+2/18/19,Round 0,Arizona Coyotes,2,Calgary Flames,5,-3
+2/19/19,Round ,New York Rangers,2,Carolina Hurricanes,1,1
+2/19/19,Round ,Nashville Predators,5,Dallas Stars,3,2
+2/19/19,Round ,Arizona Coyotes,3,Edmonton Oilers,2,1
+2/19/19,Round ,Buffalo Sabres,2,Florida Panthers,4,-2
+2/19/19,Round ,Columbus Blue Jackets,2,Montreal Canadiens,3,-1
+2/19/19,Round ,Pittsburgh Penguins,4,New Jersey Devils,3,1
+2/19/19,Round ,Tampa Bay Lightning,5,Philadelphia Flyers,2,3
+2/19/19,Round ,Toronto Maple Leafs,2,St. Louis Blues,3,-1
+2/19/19,Round 0,Tampa Bay Lightning,5,Columbus Blue Jackets,1,4
+2/19/19,Round 0,Ottawa Senators,7,Chicago Blackhawks,8,-1
+2/19/19,Round 0,Vegas Golden Knights,0,Colorado Avalanche,3,-3
+2/19/19,Round 0,Washington Capitals,3,Los Angeles Kings,2,1
+2/19/19,Round 0,Boston Bruins,6,San Jose Sharks,5,1
+2/19/19,Round 0,Anaheim Ducks,4,Minnesota Wild,0,4
+2/20/19,Round 0,New York Islanders,2,Calgary Flames,4,-2
+2/21/19,Round 0,Winnipeg Jets,1,Colorado Avalanche,7,-6
+2/21/19,Round 0,Chicago Blackhawks,5,Detroit Red Wings,4,1
+2/21/19,Round 0,Boston Bruins,3,Vegas Golden Knights,2,1
+2/22/19,Round ,Anaheim Ducks,1,Calgary Flames,2,-1
+2/22/19,Round ,Colorado Avalanche,5,Chicago Blackhawks,3,2
+2/22/19,Round ,Minnesota Wild,3,Detroit Red Wings,2,1
+2/22/19,Round ,Winnipeg Jets,6,Vegas Golden Knights,3,3
+2/22/19,Round 0,St. Louis Blues,2,Dallas Stars,5,-3
+2/22/19,Round 0,New York Islanders,3,Edmonton Oilers,4,-1
+2/22/19,Round 0,Carolina Hurricanes,4,Florida Panthers,3,1
+2/22/19,Round 0,Philadelphia Flyers,1,Montreal Canadiens,5,-4
+2/22/19,Round 0,Ottawa Senators,0,New Jersey Devils,4,-4
+2/22/19,Round 0,Los Angeles Kings,1,Nashville Predators,2,-1
+2/22/19,Round 0,Minnesota Wild,4,New York Rangers,1,3
+2/22/19,Round 0,San Jose Sharks,4,Pittsburgh Penguins,0,4
+2/22/19,Round 0,Buffalo Sabres,1,Tampa Bay Lightning,2,-1
+2/22/19,Round 0,Washington Capitals,3,Toronto Maple Leafs,2,1
+2/22/19,Round 0,Arizona Coyotes,3,Vancouver Canucks,2,1
+2/22/19,Round 0,Columbus Blue Jackets,3,Ottawa Senators,0,3
+2/23/19,Round 0,Washington Capitals,2,Buffalo Sabres,5,-3
+2/23/19,Round 0,San Jose Sharks,0,Columbus Blue Jackets,4,-4
+2/23/19,Round 0,Carolina Hurricanes,3,Dallas Stars,0,3
+2/23/19,Round 0,Los Angeles Kings,1,Florida Panthers,6,-5
+2/23/19,Round 0,Colorado Avalanche,5,Nashville Predators,0,5
+2/23/19,Round 0,New Jersey Devils,2,New York Rangers,5,-3
+2/23/19,Round 0,Boston Bruins,1,St. Louis Blues,2,-1
+2/24/19,Round ,Winnipeg Jets,1,Arizona Coyotes,4,-3
+2/24/19,Round ,St. Louis Blues,1,Minnesota Wild,2,-1
+2/24/19,Round ,Calgary Flames,2,Ottawa Senators,1,1
+2/24/19,Round 0,Anaheim Ducks,1,Edmonton Oilers,2,-1
+2/24/19,Round 0,Pittsburgh Penguins,3,Philadelphia Flyers,4,-1
+2/24/19,Round 0,Montreal Canadiens,3,Toronto Maple Leafs,6,-3
+2/24/19,Round 0,New York Islanders,4,Vancouver Canucks,0,4
+2/24/19,Round 0,Dallas Stars,4,Chicago Blackhawks,3,1
+2/24/19,Round 0,San Jose Sharks,5,Detroit Red Wings,3,2
+2/24/19,Round 0,New York Rangers,5,Washington Capitals,6,-1
+2/25/19,Round ,Florida Panthers,4,Colorado Avalanche,3,1
+2/25/19,Round ,Edmonton Oilers,2,Nashville Predators,3,-1
+2/25/19,Round ,Los Angeles Kings,3,Tampa Bay Lightning,4,-1
+2/25/19,Round 0,Anaheim Ducks,0,Vancouver Canucks,4,-4
+2/26/19,Round 0,Montreal Canadiens,1,New Jersey Devils,2,-1
+2/26/19,Round 0,Buffalo Sabres,3,Toronto Maple Leafs,5,-2
+2/27/19,Round 0,Florida Panthers,3,Arizona Coyotes,4,-1
+2/27/19,Round 0,San Jose Sharks,1,Boston Bruins,4,-3
+2/27/19,Round 0,Los Angeles Kings,1,Carolina Hurricanes,6,-5
+2/27/19,Round 0,Pittsburgh Penguins,5,Columbus Blue Jackets,2,3
+2/27/19,Round 0,Montreal Canadiens,8,Detroit Red Wings,1,7
+2/27/19,Round 0,Calgary Flames,3,New York Islanders,1,2
+2/27/19,Round 0,Buffalo Sabres,2,Philadelphia Flyers,5,-3
+2/27/19,Round 0,Nashville Predators,0,St. Louis Blues,2,-2
+2/27/19,Round 0,Dallas Stars,1,Vegas Golden Knights,4,-3
+2/27/19,Round 0,Minnesota Wild,3,Winnipeg Jets,2,1
+2/27/19,Round 0,Ottawa Senators,2,Washington Capitals,7,-5
+2/28/19,Round ,Vancouver Canucks,2,Arizona Coyotes,5,-3
+2/28/19,Round ,Tampa Bay Lightning,1,Boston Bruins,4,-3
+2/28/19,Round ,Philadelphia Flyers,3,Columbus Blue Jackets,4,-1
+2/28/19,Round ,Dallas Stars,4,Los Angeles Kings,3,1
+2/28/19,Round ,Toronto Maple Leafs,1,New York Islanders,6,-5
+2/28/19,Round ,Edmonton Oilers,4,Ottawa Senators,2,2
+2/28/19,Round ,Florida Panthers,5,Vegas Golden Knights,6,-1
+2/28/19,Round 0,Chicago Blackhawks,4,Anaheim Ducks,3,1
+2/28/19,Round 0,Vancouver Canucks,2,Colorado Avalanche,3,-1
+2/28/19,Round 0,Calgary Flames,2,New Jersey Devils,1,1
+2/28/19,Round 0,Tampa Bay Lightning,4,New York Rangers,3,1
+2/28/19,Round 0,Edmonton Oilers,2,Toronto Maple Leafs,6,-4
+3/1/19,Round ,Pittsburgh Penguins,3,Buffalo Sabres,4,-1
+3/1/19,Round ,St. Louis Blues,2,Carolina Hurricanes,5,-3
+3/1/19,Round ,Philadelphia Flyers,6,New Jersey Devils,3,3
+3/1/19,Round ,Washington Capitals,3,New York Islanders,1,2
+3/1/19,Round ,Montreal Canadiens,4,New York Rangers,2,2
+3/1/19,Round ,Colorado Avalanche,3,San Jose Sharks,4,-1
+3/1/19,Round ,Nashville Predators,3,Winnipeg Jets,5,-2
+3/1/19,Round 0,Vegas Golden Knights,3,Anaheim Ducks,0,3
+3/2/19,Round ,Detroit Red Wings,1,Arizona Coyotes,3,-2
+3/2/19,Round ,Minnesota Wild,4,Calgary Flames,2,2
+3/2/19,Round ,Carolina Hurricanes,4,Florida Panthers,3,1
+3/2/19,Round ,Pittsburgh Penguins,5,Montreal Canadiens,1,4
+3/2/19,Round ,Dallas Stars,4,St. Louis Blues,1,3
+3/2/19,Round ,Ottawa Senators,1,Tampa Bay Lightning,5,-4
+3/2/19,Round ,Buffalo Sabres,2,Toronto Maple Leafs,5,-3
+3/2/19,Round 0,New Jersey Devils,0,Boston Bruins,1,-1
+3/2/19,Round 0,Edmonton Oilers,4,Columbus Blue Jackets,0,4
+3/2/19,Round 0,Chicago Blackhawks,3,Los Angeles Kings,6,-3
+3/3/19,Round 0,Colorado Avalanche,1,Anaheim Ducks,2,-1
+3/3/19,Round 0,Ottawa Senators,3,Florida Panthers,2,1
+3/3/19,Round 0,Philadelphia Flyers,4,New York Islanders,1,3
+3/3/19,Round 0,Washington Capitals,3,New York Rangers,2,1
+3/3/19,Round 0,Vancouver Canucks,0,Vegas Golden Knights,3,-3
+3/4/19,Round 0,Winnipeg Jets,5,Columbus Blue Jackets,2,3
+3/4/19,Round 0,Nashville Predators,3,Minnesota Wild,2,1
+3/4/19,Round 0,Chicago Blackhawks,2,San Jose Sharks,5,-3
+3/5/19,Round 0,Edmonton Oilers,4,Buffalo Sabres,3,1
+3/5/19,Round 0,Toronto Maple Leafs,6,Calgary Flames,2,4
+3/5/19,Round 0,Anaheim Ducks,3,Arizona Coyotes,1,2
+3/5/19,Round 0,Carolina Hurricanes,3,Boston Bruins,4,-1
+3/5/19,Round 0,Detroit Red Wings,3,Colorado Avalanche,4,-1
+3/5/19,Round 0,New York Rangers,0,Dallas Stars,1,-1
+3/5/19,Round 0,Montreal Canadiens,3,Los Angeles Kings,1,2
+3/5/19,Round 0,Columbus Blue Jackets,2,New Jersey Devils,1,1
+3/5/19,Round 0,Minnesota Wild,4,Nashville Predators,5,-1
+3/5/19,Round 0,Ottawa Senators,4,New York Islanders,5,-1
+3/5/19,Round 0,Florida Panthers,2,Pittsburgh Penguins,3,-1
+3/5/19,Round 0,Winnipeg Jets,2,Tampa Bay Lightning,5,-3
+3/7/19,Round 0,St. Louis Blues,5,Anaheim Ducks,4,1
+3/7/19,Round 0,Washington Capitals,5,Philadelphia Flyers,3,2
+3/7/19,Round 0,Toronto Maple Leafs,2,Vancouver Canucks,3,-1
+3/7/19,Round 0,Calgary Flames,1,Vegas Golden Knights,2,-1
+3/8/19,Round 0,Calgary Flames,0,Arizona Coyotes,2,-2
+3/8/19,Round 0,Florida Panthers,3,Boston Bruins,4,-1
+3/8/19,Round 0,Buffalo Sabres,4,Chicago Blackhawks,5,-1
+3/8/19,Round 0,Colorado Avalanche,0,Dallas Stars,4,-4
+3/8/19,Round 0,New York Rangers,2,Detroit Red Wings,3,-1
+3/8/19,Round 0,Vancouver Canucks,2,Edmonton Oilers,3,-1
+3/8/19,Round 0,St. Louis Blues,4,Los Angeles Kings,0,4
+3/8/19,Round 0,New York Islanders,4,Ottawa Senators,2,2
+3/8/19,Round 0,Columbus Blue Jackets,0,Pittsburgh Penguins,3,-3
+3/8/19,Round 0,Montreal Canadiens,2,San Jose Sharks,5,-3
+3/8/19,Round 0,Minnesota Wild,3,Tampa Bay Lightning,0,3
+3/9/19,Round 0,Montreal Canadiens,2,Anaheim Ducks,8,-6
+3/9/19,Round 0,Winnipeg Jets,8,Carolina Hurricanes,1,7
+3/9/19,Round 0,Minnesota Wild,2,Florida Panthers,6,-4
+3/9/19,Round 0,New Jersey Devils,0,Washington Capitals,3,-3
+3/9/19,Round 0,Buffalo Sabres,0,Colorado Avalanche,3,-3
+3/9/19,Round 0,St. Louis Blues,2,San Jose Sharks,3,-1
+3/10/19,Round 0,Los Angeles Kings,2,Arizona Coyotes,4,-2
+3/10/19,Round 0,Ottawa Senators,2,Boston Bruins,3,-1
+3/10/19,Round 0,Pittsburgh Penguins,1,Columbus Blue Jackets,4,-3
+3/10/19,Round 0,Chicago Blackhawks,2,Dallas Stars,1,1
+3/10/19,Round 0,Toronto Maple Leafs,3,Edmonton Oilers,2,1
+3/10/19,Round 0,Carolina Hurricanes,5,Nashville Predators,3,2
+3/10/19,Round 0,Philadelphia Flyers,5,New York Islanders,2,3
+3/10/19,Round 0,New Jersey Devils,2,New York Rangers,4,-2
+3/10/19,Round 0,Detroit Red Wings,2,Tampa Bay Lightning,3,-1
+3/10/19,Round 0,Vegas Golden Knights,6,Vancouver Canucks,2,4
+3/10/19,Round 0,Detroit Red Wings,1,Florida Panthers,6,-5
+3/10/19,Round 0,Boston Bruins,2,Pittsburgh Penguins,4,-2
+3/10/19,Round 0,Winnipeg Jets,1,Washington Capitals,3,-2
+3/11/19,Round 0,Los Angeles Kings,3,Anaheim Ducks,2,1
+3/11/19,Round 0,Vegas Golden Knights,3,Calgary Flames,6,-3
+3/11/19,Round 0,Columbus Blue Jackets,0,New York Islanders,2,-2
+3/11/19,Round 0,Ottawa Senators,2,Philadelphia Flyers,3,-1
+3/11/19,Round 0,Tampa Bay Lightning,6,Toronto Maple Leafs,2,4
+3/12/19,Round ,Nashville Predators,2,Anaheim Ducks,3,-1
+3/12/19,Round ,New Jersey Devils,4,Calgary Flames,9,-5
+3/12/19,Round ,Detroit Red Wings,1,Montreal Canadiens,3,-2
+3/12/19,Round 0,Arizona Coyotes,1,Chicago Blackhawks,7,-6
+3/12/19,Round 0,Carolina Hurricanes,3,Colorado Avalanche,0,3
+3/12/19,Round 0,New York Rangers,2,Edmonton Oilers,3,-1
+3/12/19,Round 0,San Jose Sharks,3,Minnesota Wild,0,3
+3/12/19,Round 0,Dallas Stars,2,Buffalo Sabres,0,2
+3/12/19,Round 0,Boston Bruins,4,Columbus Blue Jackets,7,-3
+3/12/19,Round 0,Washington Capitals,3,Pittsburgh Penguins,5,-2
+3/13/19,Round ,New York Rangers,1,Vancouver Canucks,4,-3
+3/13/19,Round 0,Arizona Coyotes,3,St. Louis Blues,1,2
+3/13/19,Round 0,San Jose Sharks,5,Winnipeg Jets,4,1
+3/13/19,Round 0,Chicago Blackhawks,5,Toronto Maple Leafs,4,1
+3/14/19,Round ,Anaheim Ducks,1,Arizona Coyotes,6,-5
+3/14/19,Round ,Tampa Bay Lightning,5,Detroit Red Wings,4,1
+3/14/19,Round ,Nashville Predators,3,Los Angeles Kings,1,2
+3/14/19,Round ,Dallas Stars,4,Minnesota Wild,1,3
+3/14/19,Round ,Montreal Canadiens,1,New York Islanders,2,-1
+3/14/19,Round ,Washington Capitals,5,Philadelphia Flyers,2,3
+3/14/19,Round ,Florida Panthers,4,San Jose Sharks,2,2
+3/14/19,Round ,Boston Bruins,3,Winnipeg Jets,4,-1
+3/14/19,Round 0,New Jersey Devils,6,Edmonton Oilers,3,3
+3/14/19,Round 0,Pittsburgh Penguins,5,Buffalo Sabres,0,5
+3/14/19,Round 0,St. Louis Blues,0,Ottawa Senators,2,-2
+3/15/19,Round ,New York Rangers,1,Calgary Flames,5,-4
+3/15/19,Round ,Anaheim Ducks,5,Colorado Avalanche,3,2
+3/15/19,Round ,Vegas Golden Knights,2,Dallas Stars,1,1
+3/15/19,Round ,New Jersey Devils,3,Vancouver Canucks,2,1
+3/15/19,Round 0,Carolina Hurricanes,0,Columbus Blue Jackets,3,-3
+3/15/19,Round 0,Philadelphia Flyers,6,Toronto Maple Leafs,7,-1
+3/16/19,Round 0,Columbus Blue Jackets,1,Boston Bruins,2,-1
+3/16/19,Round 0,Buffalo Sabres,2,Carolina Hurricanes,4,-2
+3/16/19,Round 0,New York Islanders,1,Detroit Red Wings,2,-1
+3/16/19,Round 0,Florida Panthers,4,Los Angeles Kings,3,1
+3/16/19,Round 0,Chicago Blackhawks,2,Montreal Canadiens,0,2
+3/16/19,Round 0,Toronto Maple Leafs,2,Ottawa Senators,6,-4
+3/16/19,Round 0,St. Louis Blues,5,Pittsburgh Penguins,1,4
+3/16/19,Round 0,Washington Capitals,3,Tampa Bay Lightning,6,-3
+3/16/19,Round 0,Calgary Flames,1,Winnipeg Jets,2,-1
+3/17/19,Round 0,Edmonton Oilers,3,Arizona Coyotes,2,1
+3/17/19,Round 0,New York Rangers,2,Minnesota Wild,5,-3
+3/17/19,Round 0,Nashville Predators,4,San Jose Sharks,2,2
+3/17/19,Round 0,St. Louis Blues,3,Buffalo Sabres,4,-1
+3/17/19,Round 0,New Jersey Devils,0,Colorado Avalanche,3,-3
+3/17/19,Round 0,Vancouver Canucks,3,Dallas Stars,2,1
+3/17/19,Round 0,New York Islanders,3,Minnesota Wild,2,1
+3/17/19,Round 0,Philadelphia Flyers,2,Pittsburgh Penguins,1,1
+3/18/19,Round ,Arizona Coyotes,1,Tampa Bay Lightning,4,-3
+3/18/19,Round 0,Florida Panthers,2,Anaheim Ducks,3,-1
+3/18/19,Round 0,Edmonton Oilers,3,Vegas Golden Knights,6,-3
+3/19/19,Round ,Edmonton Oilers,2,St. Louis Blues,7,-5
+3/19/19,Round 0,Vancouver Canucks,3,Chicago Blackhawks,2,1
+3/19/19,Round 0,Winnipeg Jets,3,Los Angeles Kings,2,1
+3/19/19,Round 0,Vegas Golden Knights,7,San Jose Sharks,3,4
+3/19/19,Round 0,Pittsburgh Penguins,2,Carolina Hurricanes,3,-1
+3/19/19,Round 0,Washington Capitals,4,New Jersey Devils,1,3
+3/19/19,Round 0,Boston Bruins,5,New York Islanders,0,5
+3/19/19,Round 0,Detroit Red Wings,3,New York Rangers,2,1
+3/19/19,Round 0,Montreal Canadiens,3,Philadelphia Flyers,1,2
+3/20/19,Round 0,Columbus Blue Jackets,2,Calgary Flames,4,-2
+3/20/19,Round 0,Florida Panthers,2,Dallas Stars,4,-2
+3/20/19,Round 0,Colorado Avalanche,3,Minnesota Wild,1,2
+3/20/19,Round 0,Toronto Maple Leafs,0,Nashville Predators,3,-3
+3/20/19,Round 0,Toronto Maple Leafs,4,Buffalo Sabres,2,2
+3/20/19,Round 0,Tampa Bay Lightning,5,Washington Capitals,4,1
+3/21/19,Round ,San Jose Sharks,2,Los Angeles Kings,4,-2
+3/21/19,Round 0,Winnipeg Jets,3,Anaheim Ducks,0,3
+3/21/19,Round 0,Ottawa Senators,4,Vancouver Canucks,7,-3
+3/21/19,Round 0,Tampa Bay Lightning,6,Carolina Hurricanes,3,3
+3/21/19,Round 0,Arizona Coyotes,2,Florida Panthers,4,-2
+3/21/19,Round 0,New York Islanders,0,Montreal Canadiens,4,-4
+3/21/19,Round 0,Boston Bruins,5,New Jersey Devils,1,4
+3/22/19,Round ,San Jose Sharks,3,Anaheim Ducks,4,-1
+3/22/19,Round 0,Ottawa Senators,1,Calgary Flames,5,-4
+3/22/19,Round 0,Philadelphia Flyers,3,Chicago Blackhawks,1,2
+3/22/19,Round 0,Colorado Avalanche,3,Dallas Stars,1,2
+3/22/19,Round 0,Columbus Blue Jackets,1,Edmonton Oilers,4,-3
+3/22/19,Round 0,Pittsburgh Penguins,2,Nashville Predators,1,1
+3/22/19,Round 0,Detroit Red Wings,2,St. Louis Blues,5,-3
+3/22/19,Round 0,Winnipeg Jets,0,Vegas Golden Knights,5,-5
+3/22/19,Round 0,Minnesota Wild,2,Washington Capitals,1,1
+3/23/19,Round 0,Minnesota Wild,1,Carolina Hurricanes,5,-4
+3/23/19,Round 0,Chicago Blackhawks,2,Colorado Avalanche,4,-2
+3/23/19,Round 0,Ottawa Senators,4,Edmonton Oilers,3,1
+3/23/19,Round 0,Boston Bruins,7,Florida Panthers,3,4
+3/23/19,Round 0,Buffalo Sabres,4,Montreal Canadiens,7,-3
+3/23/19,Round 0,Arizona Coyotes,1,New Jersey Devils,2,-1
+3/23/19,Round 0,New York Islanders,4,Philadelphia Flyers,2,2
+3/23/19,Round 0,New York Rangers,2,Toronto Maple Leafs,1,1
+3/23/19,Round 0,Nashville Predators,0,Winnipeg Jets,5,-5
+3/24/19,Round 0,Pittsburgh Penguins,3,Dallas Stars,2,1
+3/24/19,Round 0,Anaheim Ducks,3,Los Angeles Kings,4,-1
+3/24/19,Round 0,Tampa Bay Lightning,3,St. Louis Blues,4,-1
+3/24/19,Round 0,Calgary Flames,3,Vancouver Canucks,1,2
+3/24/19,Round 0,Detroit Red Wings,3,Vegas Golden Knights,2,1
+3/24/19,Round 0,Montreal Canadiens,1,Carolina Hurricanes,2,-1
+3/24/19,Round 0,Arizona Coyotes,0,New York Islanders,2,-2
+3/24/19,Round 0,Philadelphia Flyers,1,Washington Capitals,3,-2
+3/25/19,Round ,Dallas Stars,5,Winnipeg Jets,2,3
+3/25/19,Round 0,Colorado Avalanche,1,Chicago Blackhawks,2,-1
+3/25/19,Round 0,Columbus Blue Jackets,5,Vancouver Canucks,0,5
+3/25/19,Round 0,Buffalo Sabres,1,New Jersey Devils,3,-2
+3/25/19,Round 0,Pittsburgh Penguins,5,New York Rangers,2,3
+3/25/19,Round 0,Boston Bruins,4,Tampa Bay Lightning,5,-1
+3/25/19,Round 0,Florida Panthers,5,Toronto Maple Leafs,7,-2
+3/26/19,Round 0,Los Angeles Kings,3,Calgary Flames,0,3
+3/26/19,Round 0,Nashville Predators,1,Minnesota Wild,0,1
+3/26/19,Round 0,Detroit Red Wings,3,San Jose Sharks,2,1
+3/26/19,Round 0,Vegas Golden Knights,1,St. Louis Blues,3,-2
+3/26/19,Round 0,New York Islanders,0,Columbus Blue Jackets,4,-4
+3/26/19,Round 0,Florida Panthers,1,Montreal Canadiens,6,-5
+3/26/19,Round 0,Buffalo Sabres,0,Ottawa Senators,4,-4
+3/26/19,Round 0,Carolina Hurricanes,1,Washington Capitals,4,-3
+3/27/19,Round ,Dallas Stars,2,Calgary Flames,1,1
+3/27/19,Round ,Vegas Golden Knights,3,Colorado Avalanche,4,-1
+3/27/19,Round 0,Chicago Blackhawks,0,Arizona Coyotes,1,-1
+3/27/19,Round 0,Los Angeles Kings,4,Edmonton Oilers,8,-4
+3/27/19,Round 0,Anaheim Ducks,5,Vancouver Canucks,4,1
+3/27/19,Round 0,New York Rangers,3,Boston Bruins,6,-3
+3/27/19,Round 0,Toronto Maple Leafs,4,Philadelphia Flyers,5,-1
+3/28/19,Round ,Detroit Red Wings,5,Buffalo Sabres,4,1
+3/28/19,Round ,Washington Capitals,3,Carolina Hurricanes,2,1
+3/28/19,Round ,Montreal Canadiens,2,Columbus Blue Jackets,6,-4
+3/28/19,Round ,Dallas Stars,3,Edmonton Oilers,2,1
+3/28/19,Round ,Florida Panthers,5,Ottawa Senators,2,3
+3/28/19,Round ,Chicago Blackhawks,5,San Jose Sharks,4,1
+3/28/19,Round ,Los Angeles Kings,2,Vancouver Canucks,3,-1
+3/29/19,Round ,Anaheim Ducks,1,Calgary Flames,6,-5
+3/29/19,Round ,Arizona Coyotes,2,Colorado Avalanche,3,-1
+3/29/19,Round ,St. Louis Blues,2,New York Rangers,4,-2
+3/29/19,Round ,Nashville Predators,3,Pittsburgh Penguins,1,2
+3/29/19,Round ,Minnesota Wild,3,Vegas Golden Knights,2,1
+3/29/19,Round 0,New York Islanders,5,Winnipeg Jets,4,1
+3/29/19,Round 0,New Jersey Devils,0,Detroit Red Wings,4,-4
+3/30/19,Round ,Chicago Blackhawks,2,Los Angeles Kings,3,-1
+3/30/19,Round ,Dallas Stars,2,Vancouver Canucks,3,-1
+3/30/19,Round 0,Florida Panthers,4,Boston Bruins,1,3
+3/30/19,Round 0,Philadelphia Flyers,2,Carolina Hurricanes,5,-3
+3/30/19,Round 0,St. Louis Blues,3,New Jersey Devils,2,1
+3/30/19,Round 0,Buffalo Sabres,1,New York Islanders,5,-4
+3/30/19,Round 0,Toronto Maple Leafs,2,Ottawa Senators,4,-2
+3/30/19,Round 0,Washington Capitals,6,Tampa Bay Lightning,3,3
+3/30/19,Round 0,Montreal Canadiens,3,Winnipeg Jets,1,2
+3/31/19,Round 0,Anaheim Ducks,5,Edmonton Oilers,1,4
+3/31/19,Round 0,Columbus Blue Jackets,5,Nashville Predators,2,3
+3/31/19,Round 0,Vegas Golden Knights,3,San Jose Sharks,4,-1
+3/31/19,Round 0,Minnesota Wild,0,Arizona Coyotes,4,-4
+3/31/19,Round 0,Columbus Blue Jackets,4,Buffalo Sabres,0,4
+3/31/19,Round 0,Boston Bruins,3,Detroit Red Wings,6,-3
+3/31/19,Round 0,New York Rangers,3,Philadelphia Flyers,0,3
+3/31/19,Round 0,Carolina Hurricanes,1,Pittsburgh Penguins,3,-2
+4/1/19,Round 0,Calgary Flames,5,San Jose Sharks,3,2
+4/1/19,Round 0,Washington Capitals,3,Florida Panthers,5,-2
+4/1/19,Round 0,New York Rangers,2,New Jersey Devils,4,-2
+4/1/19,Round 0,Toronto Maple Leafs,2,New York Islanders,1,1
+4/1/19,Round 0,Tampa Bay Lightning,5,Ottawa Senators,2,3
+4/2/19,Round 0,Winnipeg Jets,4,Chicago Blackhawks,3,1
+4/2/19,Round 0,Calgary Flames,7,Los Angeles Kings,2,5
+4/2/19,Round 0,Colorado Avalanche,2,St. Louis Blues,3,-1
+4/2/19,Round 0,Edmonton Oilers,1,Vegas Golden Knights,3,-2
+4/3/19,Round ,Calgary Flames,1,Anaheim Ducks,3,-2
+4/3/19,Round ,St. Louis Blues,3,Chicago Blackhawks,4,-1
+4/3/19,Round ,Ottawa Senators,4,New York Rangers,1,3
+4/3/19,Round 0,Los Angeles Kings,3,Arizona Coyotes,1,2
+4/3/19,Round 0,Nashville Predators,3,Buffalo Sabres,2,1
+4/3/19,Round 0,Boston Bruins,6,Columbus Blue Jackets,2,4
+4/3/19,Round 0,Edmonton Oilers,2,Colorado Avalanche,6,-4
+4/3/19,Round 0,Philadelphia Flyers,2,Dallas Stars,6,-4
+4/3/19,Round 0,Pittsburgh Penguins,1,Detroit Red Wings,4,-3
+4/3/19,Round 0,Winnipeg Jets,1,Minnesota Wild,5,-4
+4/3/19,Round 0,Tampa Bay Lightning,4,Montreal Canadiens,2,2
+4/3/19,Round 0,Carolina Hurricanes,4,Toronto Maple Leafs,1,3
+4/3/19,Round 0,San Jose Sharks,2,Vancouver Canucks,4,-2
+4/5/19,Round ,Los Angeles Kings,2,Anaheim Ducks,5,-3
+4/5/19,Round ,Dallas Stars,1,Chicago Blackhawks,6,-5
+4/5/19,Round 0,Ottawa Senators,2,Buffalo Sabres,5,-3
+4/5/19,Round 0,New Jersey Devils,1,Carolina Hurricanes,3,-2
+4/5/19,Round 0,Winnipeg Jets,2,Colorado Avalanche,3,-1
+4/5/19,Round 0,San Jose Sharks,3,Edmonton Oilers,2,1
+4/5/19,Round 0,New York Islanders,2,Florida Panthers,1,1
+4/5/19,Round 0,Boston Bruins,3,Minnesota Wild,0,3
+4/5/19,Round 0,Vancouver Canucks,2,Nashville Predators,3,-1
+4/5/19,Round 0,Detroit Red Wings,1,Pittsburgh Penguins,4,-3
+4/5/19,Round 0,Philadelphia Flyers,3,St. Louis Blues,7,-4
+4/5/19,Round 0,Tampa Bay Lightning,3,Toronto Maple Leafs,1,2
+4/5/19,Round 0,Arizona Coyotes,4,Vegas Golden Knights,1,3
+4/5/19,Round 0,Montreal Canadiens,1,Washington Capitals,2,-1
+4/6/19,Round ,Winnipeg Jets,4,Arizona Coyotes,2,2
+4/6/19,Round ,Tampa Bay Lightning,6,Boston Bruins,3,3
+4/6/19,Round ,Edmonton Oilers,3,Calgary Flames,1,2
+4/6/19,Round ,Buffalo Sabres,7,Detroit Red Wings,1,6
+4/6/19,Round ,New Jersey Devils,4,Florida Panthers,3,1
+4/6/19,Round ,Vegas Golden Knights,2,Los Angeles Kings,5,-3
+4/6/19,Round ,Toronto Maple Leafs,5,Montreal Canadiens,6,-1
+4/6/19,Round ,Chicago Blackhawks,2,Nashville Predators,5,-3
+4/6/19,Round ,Columbus Blue Jackets,6,Ottawa Senators,2,4
+4/6/19,Round ,Carolina Hurricanes,4,Philadelphia Flyers,3,1
+4/6/19,Round ,New York Rangers,4,Pittsburgh Penguins,3,1
+4/6/19,Round ,Colorado Avalanche,2,San Jose Sharks,5,-3
+4/6/19,Round ,Vancouver Canucks,2,St. Louis Blues,3,-1
+4/6/19,Round 0,Columbus Blue Jackets,3,New York Rangers,2,1
+4/6/19,Round 0,Minnesota Wild,0,Dallas Stars,3,-3
+4/6/19,Round 0,New York Islanders,3,Washington Capitals,0,3
+4/11/19,Round 0,Tampa Bay Lightning,3,Columbus Blue Jackets,4,-1
+4/11/19,Round 0,Winnipeg Jets,1,St. Louis Blues,2,-1
+4/11/19,Round 0,New York Islanders,4,Pittsburgh Penguins,3,1
+4/12/19,Round 0,Boston Bruins,1,Toronto Maple Leafs,4,-3
+4/12/19,Round 0,Washington Capitals,4,Carolina Hurricanes,3,1
+4/12/19,Round 0,Calgary Flames,2,Colorado Avalanche,3,-1
+4/13/19,Round 0,Tampa Bay Lightning,1,Columbus Blue Jackets,3,-2
+4/13/19,Round 0,New York Islanders,4,Pittsburgh Penguins,1,3
+4/13/19,Round 0,Winnipeg Jets,3,St. Louis Blues,4,-1
+4/13/19,Round 0,San Jose Sharks,3,Vegas Golden Knights,6,-3
+4/13/19,Round 0,Washington Capitals,4,Carolina Hurricanes,3,1
+4/13/19,Round 0,Nashville Predators,2,Dallas Stars,1,1
+4/14/19,Round 0,Boston Bruins,4,Toronto Maple Leafs,1,3
+4/14/19,Round 0,Calgary Flames,2,Colorado Avalanche,3,-1
+4/15/19,Round 0,St. Louis Blues,3,Winnipeg Jets,6,-3
+4/15/19,Round 0,Vegas Golden Knights,6,San Jose Sharks,3,3
+4/16/19,Round 0,Carolina Hurricanes,5,Washington Capitals,0,5
+4/16/19,Round 0,Toronto Maple Leafs,3,Boston Bruins,2,1
+4/16/19,Round 0,Dallas Stars,2,Nashville Predators,3,-1
+4/16/19,Round 0,Colorado Avalanche,6,Calgary Flames,2,4
+4/16/19,Round 0,Columbus Blue Jackets,7,Tampa Bay Lightning,3,4
+4/16/19,Round 0,Pittsburgh Penguins,1,New York Islanders,3,-2
+4/17/19,Round 0,St. Louis Blues,1,Winnipeg Jets,2,-1
+4/17/19,Round 0,Vegas Golden Knights,5,San Jose Sharks,0,5
+4/18/19,Round 0,Toronto Maple Leafs,4,Boston Bruins,6,-2
+4/18/19,Round 0,Dallas Stars,5,Nashville Predators,1,4
+4/18/19,Round 0,Colorado Avalanche,3,Calgary Flames,2,1
+4/19/19,Round 0,Carolina Hurricanes,2,Washington Capitals,1,1
+4/19/19,Round 0,Winnipeg Jets,2,St. Louis Blues,3,-1
+4/19/19,Round 0,San Jose Sharks,5,Vegas Golden Knights,2,3
+4/20/19,Round 0,Boston Bruins,1,Toronto Maple Leafs,2,-1
+4/20/19,Round 0,Calgary Flames,1,Colorado Avalanche,5,-4
+4/20/19,Round 0,Nashville Predators,3,Dallas Stars,5,-2
+4/21/19,Round 0,St. Louis Blues,3,Winnipeg Jets,2,1
+4/21/19,Round 0,Washington Capitals,6,Carolina Hurricanes,0,6
+4/21/19,Round 0,Toronto Maple Leafs,2,Boston Bruins,4,-2
+4/22/19,Round 0,Vegas Golden Knights,1,San Jose Sharks,2,-1
+4/23/19,Round 0,Carolina Hurricanes,5,Washington Capitals,2,3
+4/23/19,Round 0,Dallas Stars,5,Nashville Predators,3,2
+4/24/19,Round 0,Boston Bruins,5,Toronto Maple Leafs,1,4
+4/24/19,Round 0,San Jose Sharks,5,Vegas Golden Knights,4,1
+4/25/19,Round 0,Washington Capitals,3,Carolina Hurricanes,4,-1
+4/26/19,Round 0,Boston Bruins,3,Columbus Blue Jackets,2,1
+4/26/19,Round 0,St. Louis Blues,2,Dallas Stars,4,-2
+4/27/19,Round 0,New York Islanders,0,Carolina Hurricanes,6,-6
+4/27/19,Round 0,San Jose Sharks,5,Colorado Avalanche,2,3
+4/28/19,Round 0,New York Islanders,0,Carolina Hurricanes,1,-1
+4/28/19,Round 0,Boston Bruins,2,Columbus Blue Jackets,3,-1
+4/29/19,Round 0,San Jose Sharks,3,Colorado Avalanche,4,-1
+4/30/19,Round 0,Dallas Stars,3,St. Louis Blues,4,-1
+5/1/19,Round 0,Columbus Blue Jackets,2,Boston Bruins,1,1
+5/1/19,Round 0,Colorado Avalanche,2,San Jose Sharks,4,-2
+5/2/19,Round 0,Carolina Hurricanes,5,New York Islanders,2,3
+5/2/19,Round 0,Dallas Stars,4,St. Louis Blues,2,2
+5/3/19,Round 0,Columbus Blue Jackets,1,Boston Bruins,4,-3
+5/3/19,Round 0,Colorado Avalanche,3,San Jose Sharks,0,3
+5/4/19,Round 0,Carolina Hurricanes,5,New York Islanders,2,3
+5/4/19,Round 0,St. Louis Blues,1,Dallas Stars,2,-1
+5/5/19,Round 0,Boston Bruins,4,Columbus Blue Jackets,3,1
+5/5/19,Round 0,Dallas Stars,1,St. Louis Blues,4,-3
+5/5/19,Round 0,San Jose Sharks,2,Colorado Avalanche,1,1
+5/7/19,Round 0,Columbus Blue Jackets,0,Boston Bruins,3,-3
+5/7/19,Round 0,Colorado Avalanche,4,San Jose Sharks,3,1
+5/8/19,Round 0,St. Louis Blues,2,Dallas Stars,1,1
+5/10/19,Round 0,Boston Bruins,5,Carolina Hurricanes,2,3
+5/12/19,Round 0,San Jose Sharks,6,St. Louis Blues,3,3
+5/12/19,Round 0,Boston Bruins,6,Carolina Hurricanes,2,4
+5/14/19,Round 0,San Jose Sharks,2,St. Louis Blues,4,-2
+5/15/19,Round 0,Carolina Hurricanes,1,Boston Bruins,2,-1
+5/16/19,Round 0,St. Louis Blues,4,San Jose Sharks,5,-1
+5/17/19,Round 0,Carolina Hurricanes,0,Boston Bruins,4,-4
+5/18/19,Round 0,St. Louis Blues,2,San Jose Sharks,1,1
+5/19/19,Round 0,San Jose Sharks,0,St. Louis Blues,5,-5
+5/22/19,Round 0,St. Louis Blues,5,San Jose Sharks,1,4
+5/28/19,Round 0,Boston Bruins,4,St. Louis Blues,2,2
+5/30/19,Round 0,Boston Bruins,2,St. Louis Blues,3,-1
+6/2/19,Round 0,St. Louis Blues,2,Boston Bruins,7,-5
+6/4/19,Round 0,St. Louis Blues,4,Boston Bruins,2,2
+6/7/19,Round 0,Boston Bruins,1,St. Louis Blues,2,-1
+6/10/19,Round 0,St. Louis Blues,1,Boston Bruins,5,-4
+6/13/19,Round 0,Boston Bruins,1,St. Louis Blues,4,-3

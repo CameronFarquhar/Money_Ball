@@ -1,4 +1,4 @@
-d3.csv('../static/js/OK_Championships_table_Clean.csv', function(err, rows){
+d3.csv('../static/js/Data/OK_Championships_table_Clean.csv', function(err, rows){
 
     function unpack(rows, key) {
         return rows.map(function(row) { return row[key]; });
