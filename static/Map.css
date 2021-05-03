@@ -90,7 +90,14 @@
   font-size: 1.125rem;
 }
 
+.map {
 
+  width: 49%;
+  margin-top: 100px;
+  margin-left: 50%;
+  margin-bottom: 10px;
+  max-height: 60%;
+}
 
 
 /*Legend specific*/
