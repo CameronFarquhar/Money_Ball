@@ -78,7 +78,6 @@ function init() {
     }
   }
 
-
   console.log(totalRev[0]/totalPoints[0])
     var dolPerPoint = totalRev[0]/totalPoints[0];
     var dolPerCap = totalRev[0]/totalPop[0];

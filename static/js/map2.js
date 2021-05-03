@@ -5,7 +5,7 @@ d3.csv('../static/js/OK_Championships_table_Clean.csv', function(err, rows){
     }
 
     var cityName = unpack(rows, 'City'),
-        cityPop = unpack(rows, '5 Major Sports Championships'),
+        cityWin = unpack(rows, '5 Major Sports Championships'),
         cityLat = unpack(rows, 'lat'),
         cityLon = unpack(rows, 'lng'),
         color = [,"rgb(255,65,54)","rgb(133,20,75)","rgb(255,133,27)","lightgrey"],
@@ -14,9 +14,9 @@ d3.csv('../static/js/OK_Championships_table_Clean.csv', function(err, rows){
         // scale = 50000
         
 
-    for ( var i = 0 ; i < cityPop.length; i++) {
-        var currentSize = cityPop[i];
-        var currentText = cityName[i] + ": Championships - " + cityPop[i];
+    for ( var i = 0 ; i < cityWin.length; i++) {
+        var currentSize = cityWin[i];
+        var currentText = cityName[i] + "<br>Championships: " + cityWin[i];
         citySize.push(currentSize);
         hoverText.push(currentText);
     }
@@ -57,3 +57,5 @@ d3.csv('../static/js/OK_Championships_table_Clean.csv', function(err, rows){
     Plotly.newPlot("map", data, layout, {showLink: false});
 
 });
+
+// example code found at https://plotly.com/javascript/bubble-maps/

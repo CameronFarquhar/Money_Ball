@@ -15,18 +15,20 @@ function init() {
         }
 
         // apply an ID for the intial plots
-        buildPlot(data.Team[0]);
+        // buildPlot(data.Team[0]);
         demographics(data.Team[0]);
         gaugePlot(data.Team[0]);
-        bulletPlot(data.Team[0]);
+        // bulletPlot(data.Team[0]);
+        revenuePlot(data.Team[0]);
     });
   };
   
   function optionChanged(Team){
-    buildPlot(Team);
+    // buildPlot(Team);
     demographics(Team);
     gaugePlot(Team);
-    bulletPlot(Team);
+    // bulletPlot(Team);
+    revenuePlot(Team);
   };
   
   function demographics(Team){
@@ -59,39 +61,88 @@ function init() {
   }
 
 
-  function buildPlot(Team) {
+
+  function revenuePlot(Team) {
     d3.json("../static/js/NHL.json").then(function(data) {
-  
-            var forPoints = [];
-            var againstPoints = [];
+    
+      var totalRev = [];
+      var totalPoints = [];
+      var totalPop = [];
+      var totalGames = [];
+      var totalIncome = [];
       for (var i = 0; i < 30; i++) {
-        // loop through data and append specified team info to panel
+  // loop through data and append specified team info to panel
         if (Team === data.Team[i]) {
-          forPoints.push(data.Points_For[i]);
-      againstPoints.push(data.Points_Against[i]);
-        }
-      }
+          totalRev.push(data.Revenue[i]);
+          totalPoints.push(data.Points_For[i]);
+          totalPop.push(data.Population[i]);
+          totalGames.push(data.Games[i]);
+          totalIncome.push(data.Income[i]);
+    }
+  }
+
+  console.log(totalRev[0]/totalPoints[0])
+    var dolPerPoint = totalRev[0]/totalPoints[0];
+    var dolPerCap = totalRev[0]/totalPop[0];
+    var dolPerGame = totalRev[0]/totalGames[0];
+    var dolPerIncome = totalRev[0]/totalIncome[0];
 
 
-      var trace1  = 
-        {
-          x: ['Points Scored', 'Points Against'],
-          y: [forPoints[0], againstPoints[0]],
-          marker:{
-            color: ['rgba(0,204,50,0.7)', 'rgba(204,20,20,0.7)']
-          },
-          type: 'bar'
-        };
+  var trace1  = 
+  {
+    x: ['$/Points(x1000)', '$/Capita', '$/Income(x10)', '$/Game(x1,000)'],
+    y: [dolPerPoint/1000,dolPerCap, dolPerIncome/10, dolPerGame/1000],
+    marker:{
+      color: ['rgba(200,0,0,0.7)', 'rgba(0,0,200,0.7)', 'rgba(150,250,0,0.7)', 'rgba(0,250,250,0.7)']
+    },
+    type: 'bar'
+  };
+  
+  var data = [trace1];
+  
+  var layout = {
+  title: 'Revenue vs Points, Per Capita, Median Income and Game'
+  // width: 525, height: 350, margin: { t: 0, b: 0, l:1 }, 
+  };
+  
+  Plotly.newPlot('bar-one', data, layout);
+  });}
 
 
-      var data = [trace1];
 
-var layout = {
-  title: 'Least Used Feature'
-};
+//   function buildPlot(Team) {
+//     d3.json("../static/js/NHL.json").then(function(data) {
+  
+//             var forPoints = [];
+//             var againstPoints = [];
+//       for (var i = 0; i < 30; i++) {
+//         // loop through data and append specified team info to panel
+//         if (Team === data.Team[i]) {
+//           forPoints.push(data.Points_For[i]);
+//       againstPoints.push(data.Points_Against[i]);
+//         }
+//       }
 
-Plotly.newPlot('bar-one', data, layout);
-});}
+
+//       var trace1  = 
+//         {
+//           x: ['Points Scored', 'Points Against'],
+//           y: [forPoints[0], againstPoints[0]],
+//           marker:{
+//             color: ['rgba(0,204,50,0.7)', 'rgba(204,20,20,0.7)']
+//           },
+//           type: 'bar'
+//         };
+
+
+//       var data = [trace1];
+
+// var layout = {
+//   title: 'Least Used Feature'
+// };
+
+// Plotly.newPlot('bar-one', data, layout);
+// });}
 
 
   
