@@ -18,6 +18,7 @@ function init() {
         buildPlot(data.Team[0]);
         demographics(data.Team[0]);
         gaugePlot(data.Team[0]);
+        bulletPlot(data.Team[0]);
     });
   };
   
@@ -25,6 +26,7 @@ function init() {
     buildPlot(Team);
     demographics(Team);
     gaugePlot(Team);
+    bulletPlot(Team);
   };
   
   function demographics(Team){
@@ -39,9 +41,9 @@ function init() {
         panel.append("li").text("City : " + data.City[i]);
         panel.append("li").text("State : " + data.State[i]);
         panel.append("li").text("Population: " + data.Population[i]);
-        panel.append("li").text("Median Income $: " + data.Income[i]);
+        panel.append("li").text("Median Income: $ " + data.Income[i]);
         panel.append("li").text("Team Revenue: $" + data.Revenue[i]);
-        panel.append("li").text("Total Yearly Points: " + data.Points_For[i]);
+        panel.append("li").text("Total Points Scored: " + data.Points_For[i]);
         panel.append("li").text("Points Against: " + data.Points_Against[i]);
         panel.append("li").text("Season Wins: " + data.Wins[i]);
         panel.append("li").text("Games Played : " + data.Games[i]);
@@ -59,7 +61,41 @@ function init() {
   function buildPlot(Team) {
     d3.json("../static/js/MLS.json").then(function(data) {
   
- 
+            var forPoints = [];
+            var againstPoints = [];
+      for (var i = 0; i < 22; i++) {
+        // loop through data and append specified team info to panel
+        if (Team === data.Team[i]) {
+          forPoints.push(data.Points_For[i]);
+      againstPoints.push(data.Points_Against[i]);
+        }
+      }
+
+
+      var trace1  = 
+        {
+          x: ['Points Scored', 'Points Against'],
+          y: [forPoints[0], againstPoints[0]],
+          marker:{
+            color: ['rgba(0,204,50,0.7)', 'rgba(204,20,20,0.7)']
+          },
+          type: 'bar'
+        };
+
+
+      var data = [trace1];
+
+var layout = {
+  title: 'Least Used Feature'
+};
+
+Plotly.newPlot('bar-one', data, layout);
+});}
+
+
+  
+function bulletPlot(Team) {
+  d3.json("../static/js/MLS.json").then(function(data) {
       var winning = [];
       for (var i = 0; i < 22; i++) {
         // loop through data and append specified team info to panel
@@ -67,7 +103,9 @@ function init() {
           winning.push(data.Wins_Per[i]);
         }
       }
-      console.log(winning[0])
+      var teamData = data.Team
+      console.log(teamData.length)
+
       var data = [
         {
           type: "indicator",
@@ -76,8 +114,6 @@ function init() {
             shape: "bullet",
             axis: {range: [null, 1]}
         },
-          // axis: {range: [Null, 1]},
-          // delta: { reference: 1 },
           value: winning[0],
           domain: { x: [0, 1.5], y: [0, 1.5] },
           title: { text: "Win %" }
@@ -85,8 +121,7 @@ function init() {
       ];
       
       var layout = { width: 600, height: 250 };
-      Plotly.newPlot('bar-one', data, layout);
-
+      Plotly.newPlot('bar-two', data, layout);
   });}
   
   function gaugePlot(Team){
@@ -102,7 +137,7 @@ function init() {
             teamName.push(data.Team[i])[0];
           }
         }
-        
+
         console.log(teamRev)
           // gauge plot
       var data = [
