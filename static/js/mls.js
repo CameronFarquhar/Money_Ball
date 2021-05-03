@@ -89,10 +89,10 @@ function init() {
 
   var trace1  = 
   {
-    x: ['$/Points(x1,000)', '$/Capita', '$/Income', '$/Game(x1,000)'],
-    y: [dolPerPoint/1000,dolPerCap, dolPerIncome, dolPerGame/1000],
+    x: ['$/Points(x1,000)', '$/Game(x1,000)','$/Capita', '$/Income'],
+    y: [dolPerPoint/1000, dolPerGame/1000 ,dolPerCap, dolPerIncome],
     marker:{
-      color: ['rgba(200,0,0,0.7)', 'rgba(0,0,200,0.7)', 'rgba(150,250,0,0.7)', 'rgba(0,250,250,0.7)']
+      color: ['rgba(200,0,0,0.7)', 'rgba(0,250,250,0.7)', 'rgba(0,0,200,0.7)', 'rgba(150,250,0,0.7)']
     },
     type: 'bar'
   };

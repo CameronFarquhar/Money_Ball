@@ -78,6 +78,7 @@ function init() {
     }
   }
 
+
   console.log(totalRev[0]/totalPoints[0])
     var dolPerPoint = totalRev[0]/totalPoints[0];
     var dolPerCap = totalRev[0]/totalPop[0];
@@ -87,10 +88,10 @@ function init() {
 
   var trace1  = 
   {
-    x: ['$/Points(times 10)', '$/Capita', '$/Income', '$/Game(times 1000)'],
-    y: [dolPerPoint/10,dolPerCap, dolPerIncome, dolPerGame/1000],
+    x: ['$/Points(times 10)', '$/Game(times 1000)','$/Capita', '$/Income'],
+    y: [dolPerPoint/10, dolPerGame/1000,dolPerCap, dolPerIncome],
     marker:{
-      color: ['rgba(200,0,0,0.7)', 'rgba(0,0,200,0.7)', 'rgba(150,250,0,0.7)', 'rgba(0,250,250,0.7)']
+      color: ['rgba(200,0,0,0.7)', 'rgba(0,250,250,0.7)', 'rgba(0,0,200,0.7)', 'rgba(150,250,0,0.7)']
     },
     type: 'bar'
   };
