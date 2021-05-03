@@ -88,7 +88,7 @@ function init() {
 
   var trace1  = 
   {
-    x: ['$/Points(times 10)', '$/Game(times 1000)','$/Capita', '$/Income'],
+    x: ['$/Points(x10)', '$/Game(x1000)','$/Capita', '$/Income'],
     y: [dolPerPoint/10, dolPerGame/1000,dolPerCap, dolPerIncome],
     marker:{
       color: ['rgba(200,0,0,0.7)', 'rgba(0,250,250,0.7)', 'rgba(0,0,200,0.7)', 'rgba(150,250,0,0.7)']
