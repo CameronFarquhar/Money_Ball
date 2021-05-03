@@ -199,6 +199,7 @@ div.innerHTML += '<i style="background: rgb(225,100,0)"></i><span>40-50</span><b
 div.innerHTML += '<i style="background: rgb(255,0,0)"></i><span>50+</span><br>';
 
 return div;
-};
+
 
 legend.addTo(myMap);
+};
