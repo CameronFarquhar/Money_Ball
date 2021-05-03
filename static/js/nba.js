@@ -146,7 +146,7 @@ function init() {
           type: "indicator",
           mode: "gauge+number",
           gauge: {
-            axis: { range: [null, 3000000000], color: "blue" },
+            axis: { range: [null, 3600000000], color: "blue" },
             bar: { color: "rgb(0,30,110)", thickness: 0.25 },
             steps: [
               { range: [0, 10000000], color: "rgba(0, 150, 50, 0.1)"},
@@ -158,7 +158,7 @@ function init() {
               { range: [1000000000, 1500000000], color: "rgba(0, 150, 50, 0.7)" },
               { range: [1500000000, 2000000000], color: "rgba(0, 150, 50, 0.8)" },
               { range: [2000000000, 2500000000], color: "rgba(0, 150, 50, 0.9)" },
-              { range: [2500000000, 3000000000], color: "rgba(0, 150, 50, 1)" }
+              { range: [2500000000, 3600000000], color: "rgba(0, 150, 50, 1)" }
             ],
             threshold: {
               line: { color: "red", width: 4 },

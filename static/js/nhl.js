@@ -144,19 +144,19 @@ function init() {
           type: "indicator",
           mode: "gauge+number",
           gauge: {
-            axis: { range: [null, 3000000000], color: "blue" },
+            axis: { range: [null, 253000000], color: "blue" },
             bar: { color: "rgb(0,30,110)", thickness: 0.25 },
             steps: [
-              { range: [0, 10000000], color: "rgba(0, 150, 50, 0.1)"},
-              { range: [250000000, 500000000], color: "rgba(0, 150, 50, 0.2)" },
-              { range: [500000000, 100000000], color: "rgba(0, 150, 50, 0.3)" },
-              { range: [100000000, 250000000], color: "rgba(0, 150, 50, 0.4)" },
-              { range: [250000000, 500000000], color: "rgba(0, 150, 50, 0.5)" },
-              { range: [500000000, 1000000000], color: "rgba(0, 150, 50, 0.6)" },
-              { range: [1000000000, 1500000000], color: "rgba(0, 150, 50, 0.7)" },
-              { range: [1500000000, 2000000000], color: "rgba(0, 150, 50, 0.8)" },
-              { range: [2000000000, 2500000000], color: "rgba(0, 150, 50, 0.9)" },
-              { range: [2500000000, 3000000000], color: "rgba(0, 150, 50, 1)" }
+              { range: [0, 25000000], color: "rgba(0, 150, 50, 0.1)"},
+              { range: [25000000, 50000000], color: "rgba(0, 150, 50, 0.2)" },
+              { range: [50000000, 80000000], color: "rgba(0, 150, 50, 0.3)" },
+              { range: [80000000, 110000000], color: "rgba(0, 150, 50, 0.4)" },
+              { range: [110000000, 150000000], color: "rgba(0, 150, 50, 0.5)" },
+              { range: [150000000, 180000000], color: "rgba(0, 150, 50, 0.6)" },
+              { range: [180000000, 200000000], color: "rgba(0, 150, 50, 0.7)" },
+              { range: [200000000, 220000000], color: "rgba(0, 150, 50, 0.8)" },
+              { range: [220000000, 240000000], color: "rgba(0, 150, 50, 0.9)" },
+              { range: [240000000, 253000000], color: "rgba(0, 150, 50, 1)" }
             ],
             threshold: {
               line: { color: "red", width: 4 },
