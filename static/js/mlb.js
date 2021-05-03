@@ -18,7 +18,7 @@ function init() {
         // buildPlot(data.Team[1]);
         demographics(data.Team[1]);
         gaugePlot(data.Team[1]);
-        // bulletPlot(data.Team[1]);
+        bulletPlot(data.Team[1]);
         revenuePlot(data.Team[1])
     });
   };
@@ -27,7 +27,7 @@ function init() {
     // buildPlot(Team);
     demographics(Team);
     gaugePlot(Team);
-    // bulletPlot(Team);
+    bulletPlot(Team);
     revenuePlot(Team);
   };
   
@@ -144,35 +144,35 @@ function init() {
 
 
   
-// function bulletPlot(Team) {
-//   d3.json("../static/js/MLB.json").then(function(data) {
-//       var winning = [];
-//       for (var i = 0; i < 28; i++) {
-//         // loop through data and append specified team info to panel
-//         if (Team === data.Team[i]) {
-//           winning.push(data.Wins_Per[i]);
-//         }
-//       }
-//       var teamData = data.Team
-//       console.log(teamData.length)
+function bulletPlot(Team) {
+  d3.json("../static/js/MLB.json").then(function(data) {
+      var winning = [];
+      for (var i = 0; i < 28; i++) {
+        // loop through data and append specified team info to panel
+        if (Team === data.Team[i]) {
+          winning.push(data.Wins_Per[i]);
+        }
+      }
+      var teamData = data.Team
+      console.log(teamData.length)
 
-//       var data = [
-//         {
-//           type: "indicator",
-//           mode: "number+gauge+delta",
-//           gauge: { 
-//             shape: "bullet",
-//             axis: {range: [null, 1]}
-//         },
-//           value: winning[0],
-//           domain: { x: [0, 1.5], y: [0, 1.5] },
-//           title: { text: "Win %" }
-//         }
-//       ];
+      var data = [
+        {
+          type: "indicator",
+          mode: "number+gauge+delta",
+          gauge: { 
+            shape: "bullet",
+            axis: {range: [null, 1]}
+        },
+          value: winning[0],
+          domain: { x: [0, 1.5], y: [0, 1.5] },
+          title: { text: "Win %" }
+        }
+      ];
       
-//       var layout = { width: 600, height: 250 };
-//       Plotly.newPlot('bar-two', data, layout);
-//   });}
+      var layout = { width: 600, height: 250 };
+      Plotly.newPlot('bar-two', data, layout);
+  });}
 
 
   function gaugePlot(Team){

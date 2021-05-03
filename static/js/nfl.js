@@ -18,7 +18,7 @@ function init() {
         // buildPlot(data.Team[0]);
         demographics(data.Team[0]);
         gaugePlot(data.Team[0]);
-        // bulletPlot(data.Team[0]);
+        bulletPlot(data.Team[0]);
         revenuePlot(data.Team[0]);
 
     });
@@ -28,7 +28,7 @@ function init() {
     // buildPlot(Team);
     demographics(Team);
     gaugePlot(Team);
-    // bulletPlot(Team);
+    bulletPlot(Team);
     revenuePlot(Team);
   };
   
