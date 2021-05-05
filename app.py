@@ -5,15 +5,15 @@ from sqlalchemy import create_engine
 
 from flask import Flask, jsonify, render_template, redirect
 
-from config import sqlkey
+# from config import sqlkey
 
 #################################################
 # Database Setup
 #################################################
 
-conn = create_engine(f'postgresql://postgres:{sqlkey}@localhost:5432/Money_Ball_DB').connect()
+# conn = create_engine(f'postgresql://postgres:{sqlkey}@localhost:5432/Money_Ball_DB').connect()
 
-
+app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', '')
 
 # DATABASE_URL will contain the database connection string:
 
