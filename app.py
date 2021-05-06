@@ -42,11 +42,11 @@ app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', '') # or 
 
 @app.route("/")
 def welcome():
-    return render_template("Home.html")
+    return render_template("index.html")
 
-@app.route("/Home.html")
+@app.route("/index.html")
 def welcomeHome():
-    return render_template("Home.html")
+    return render_template("index.html")
 
 @app.route("/About-the-Team.html")
 def About():
