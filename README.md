@@ -1,6 +1,9 @@
 # Money_Ball
 ![Money-Ball](https://github.com/CameronFarquhar/Money_Ball/blob/main/header%20image.png?raw=true)
 
+
+View the live website here https://money-ball-cf.herokuapp.com
+
 Successful Major League Teams vs Population Density and Average Area Income
 
 Team Members:
