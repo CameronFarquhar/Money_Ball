@@ -185,7 +185,6 @@ function bulletPlot(Team) {
   
   function gaugePlot(Team){
     // d3.json("/api/MLS").then((data)=> {
-
     d3.json("../static/js/Data/MLS.json").then((data)=> {
   
       // find the object that matches the id entered then grab the list with [0] and identify the value of the key with wfreq.

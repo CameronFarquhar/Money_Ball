@@ -1,6 +1,4 @@
-  // d3.json('/api/Visuals').then(data=>{
-//     console.log(data);
-// })
+
 
 function init() {
     // d3.json("/api/MLB").then((data)=> {
@@ -177,10 +175,7 @@ function bulletPlot(Team) {
       var layout = { width: 600, height: 250 };
 
       Plotly.newPlot('bar-two', data, layout);
-  }
-  );
-}
-
+  });}
 
   function gaugePlot(Team){
     // d3.json("/api/MLB").then((data)=> {
@@ -235,4 +230,4 @@ function bulletPlot(Team) {
     });
   }
   
-init();
+  init();
