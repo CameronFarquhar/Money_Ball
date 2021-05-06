@@ -3,9 +3,9 @@
 // })
 
 function init() {
-  d3.json("/api/NHL").then((data)=> {
+  // d3.json("/api/NHL").then((data)=> {
 
-    // d3.json("../static/js/Data/NHL.json").then((data)=> {
+    d3.json("../static/js/Data/NHL.json").then((data)=> {
         // loop through names object and grab all the ids/names and eppend them to demographics dropdown
 
         for (var i = 0; i < 30; i++) {
@@ -34,9 +34,9 @@ function init() {
   };
   
   function demographics(Team){
-    d3.json("/api/NHL").then((data)=> {
+    // d3.json("/api/NHL").then((data)=> {
 
-    // d3.json("../static/js/Data/NHL.json").then((data)=> {
+    d3.json("../static/js/Data/NHL.json").then((data)=> {
 
       // tell JS where you want to put the new list of elements
       var panel = d3.select("#sample-metadata");
@@ -67,9 +67,9 @@ function init() {
 
 
   function revenuePlot(Team) {
-    d3.json("/api/NHL").then((data)=> {
+    // d3.json("/api/NHL").then((data)=> {
 
-    // d3.json("../static/js/Data/NHL.json").then((data)=> {
+    d3.json("../static/js/Data/NHL.json").then((data)=> {
     
       var totalRev = [];
       var totalPoints = [];
@@ -153,9 +153,9 @@ function init() {
 
   
 function bulletPlot(Team) {
-  d3.json("/api/NHL").then((data)=> {
+  // d3.json("/api/NHL").then((data)=> {
 
-  // d3.json("../static/js/Data/NHL.json").then((data)=> {
+  d3.json("../static/js/Data/NHL.json").then((data)=> {
     var winning = [];
       for (var i = 0; i < 30; i++) {
         // loop through data and append specified team info to panel
@@ -187,9 +187,9 @@ function bulletPlot(Team) {
   });}
   
   function gaugePlot(Team){
-    d3.json("/api/NHL").then((data)=> {
+    // d3.json("/api/NHL").then((data)=> {
 
-    // d3.json("../static/js/Data/NHL.json").then((data)=> {
+    d3.json("../static/js/Data/NHL.json").then((data)=> {
   
       // find the object that matches the id entered then grab the list with [0] and identify the value of the key with wfreq.
       var teamRev = []
