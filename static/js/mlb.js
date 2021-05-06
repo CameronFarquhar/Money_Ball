@@ -1,7 +1,7 @@
 
 
 function init() {
-    // d3.json("/api/MLB").then((data)=> {
+
     d3.json("../static/js/Data/MLB.json").then((data)=> {
         // loop through names object and grab all the ids/names and eppend them to demographics dropdown
 
@@ -31,7 +31,6 @@ function init() {
   };
   
   function demographics(Team){
-    // d3.json("/api/MLB").then((data)=> {
     d3.json("../static/js/Data/MLB.json").then((data)=> {
 
       // tell JS where you want to put the new list of elements
@@ -60,7 +59,6 @@ function init() {
   }
   
   function revenuePlot(Team) {
-    // d3.json("/api/MLB").then((data)=> {
     d3.json("../static/js/Data/MLB.json").then((data)=> {
     
       var totalRev = [];
@@ -109,44 +107,7 @@ function init() {
 
 
   
-  // function buildPlot(Team) {
-  // d3.json("../static/js/Data/MLB.json").then((data)=> {
-  
-//             var forPoints = [];
-//             var againstPoints = [];
-//       for (var i = 0; i < 28; i++) {
-//         // loop through data and append specified team info to panel
-//         if (Team === data.Team[i]) {
-//           forPoints.push(data.Points_For[i]);
-//       againstPoints.push(data.Points_Against[i]);
-//         }
-//       }
-
-
-//       var trace1  = 
-//         {
-//           x: ['Points Scored', 'Points Against'],
-//           y: [forPoints[0], againstPoints[0]],
-//           marker:{
-//             color: ['rgba(0,204,50,0.7)', 'rgba(204,20,20,0.7)']
-//           },
-//           type: 'bar'
-//         };
-
-
-//       var data = [trace1];
-
-// var layout = {
-//   title: 'Least Used Feature'
-// };
-
-// Plotly.newPlot('bar-one', data, layout);
-// });}
-
-
-  
 function bulletPlot(Team) {
-  // d3.json("/api/MLB").then((data)=> {
     d3.json("../static/js/Data/MLB.json").then((data)=> {
     var winning = [];
       for (var i = 0; i < 28; i++) {
@@ -178,7 +139,6 @@ function bulletPlot(Team) {
   });}
 
   function gaugePlot(Team){
-    // d3.json("/api/MLB").then((data)=> {
     d3.json("../static/js/Data/MLB.json").then((data)=> {
   
       // find the object that matches the id entered then grab the list with [0] and identify the value of the key with wfreq.
