@@ -83,35 +83,35 @@ def visuals():
 
 
 
-@app.route("/api/MAP")
-def mapApp():
-    results_champion = pd.read_sql_query("SELECT * FROM champion_table", conn).to_dict()
-    return results_champion
+# @app.route("/api/MAP")
+# def mapApp():
+#     results_champion = pd.read_sql_query("SELECT * FROM champion_table", conn).to_dict()
+#     return results_champion
 
-@app.route("/api/MLB")
-def mlbApp():
-    results_mlb = pd.read_sql_query("SELECT * FROM mlb", conn).to_dict()
-    return results_mlb
+# @app.route("/api/MLB")
+# def mlbApp():
+#     results_mlb = pd.read_sql_query("SELECT * FROM mlb", conn).to_dict()
+#     return results_mlb
 
-@app.route("/api/MLS")
-def mlsApp():
-    results_mls = pd.read_sql_query("SELECT * FROM mls", conn).to_dict()
-    return results_mls
+# @app.route("/api/MLS")
+# def mlsApp():
+#     results_mls = pd.read_sql_query("SELECT * FROM mls", conn).to_dict()
+#     return results_mls
 
-@app.route("/api/NBA")
-def nbaApp():
-    results_nba = pd.read_sql_query("SELECT * FROM nba", conn).to_dict()
-    return results_nba
+# @app.route("/api/NBA")
+# def nbaApp():
+#     results_nba = pd.read_sql_query("SELECT * FROM nba", conn).to_dict()
+#     return results_nba
 
-@app.route("/api/NFL")
-def nflApp():
-    results_nfl = pd.read_sql_query("SELECT * FROM nfl", conn).to_dict()
-    return results_nfl
+# @app.route("/api/NFL")
+# def nflApp():
+#     results_nfl = pd.read_sql_query("SELECT * FROM nfl", conn).to_dict()
+#     return results_nfl
 
-@app.route("/api/NHL")
-def nhlApp():
-    results_nhl = pd.read_sql_query("SELECT * FROM nhl", conn).to_dict()
-    return results_nhl
+# @app.route("/api/NHL")
+# def nhlApp():
+#     results_nhl = pd.read_sql_query("SELECT * FROM nhl", conn).to_dict()
+#     return results_nhl
 
 if __name__ == '__main__':
     app.run(debug=True)
